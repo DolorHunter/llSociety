@@ -2,10 +2,14 @@
 
 # fsociety's yellow pages
 
-## 激活
-windows + office激活 https://v0v.bid/
+## Activate
 
-## 上网
-搬瓦工bandwagonhost直达(购买vps服务器) https://bandwagonhost.com/
-vps服务器搭建v2ray https://233v2.com/post/1/
+windows + office https://v0v.bid/
+
+## goto the Internet
+
+搬瓦工直达bandwagonhost(购买vps服务器) https://bandwagonhost.com/
+
+[教程]vps服务器搭建v2ray https://233v2.com/post/1/
+
 免费DNS域名注册(CA认证必备) https://my.freenom.com/
