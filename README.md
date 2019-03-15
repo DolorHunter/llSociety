@@ -1,12 +1,10 @@
-# fsociety
-
 # fsociety's yellow pages
 
-## Activate
+## Activated
 
 windows + office https://v0v.bid/
 
-## goto the Free Internet
+## fGFW
 
 搬瓦工直达bandwagonhost(购买vps服务器) https://bandwagonhost.com/
 
