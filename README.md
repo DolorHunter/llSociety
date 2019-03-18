@@ -6,7 +6,7 @@ __[Activated](##Activated)__
 
 __[fGFW](##fGFW)__
 
-__[Git & GitHub](##Git & GitHub)__
+__[Git&GitHub](##Git&GitHub)__
 
 __________
 
@@ -22,7 +22,7 @@ windows + office https://v0v.bid/
 
 [网站/Web]免费DNS域名注册(SSL认证必备) https://my.freenom.com/
 
-## Git & GitHub
+## Git&GitHub
 
 [教程/Tutorial][Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
