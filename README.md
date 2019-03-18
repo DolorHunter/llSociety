@@ -12,15 +12,15 @@ __________
 
 ## Activated
 
-[网站/Web][windows + office] (https://v0v.bid/)
+[网站/Web][windows + office](https://v0v.bid/)
 
 ## fGFW
 
-[网站/Web][搬瓦工直达bandwagonhost(购买vps服务器)] (https://bandwagonhost.com/)
+[网站/Web][搬瓦工直达bandwagonhost(购买vps服务器)](https://bandwagonhost.com/)
 
-[教程/Tutorial][vps服务器搭建v2ray] (https://233v2.com/post/1/)
+[教程/Tutorial][vps服务器搭建v2ray](https://233v2.com/post/1/)
 
-[网站/Web][免费DNS域名注册(SSL认证必备)] (https://my.freenom.com/)
+[网站/Web][免费DNS域名注册(SSL认证必备)](https://my.freenom.com/)
 
 ## Git&GitHub
 
