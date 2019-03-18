@@ -1,8 +1,11 @@
 # fsociety's yellow pages
 
 # Catalogue:
+
 __[Activated](## Activated)__
+
 __[fGFW](## fGFW)__
+
 __[Git & GitHub](## Git & GitHub)__
 
 __________
