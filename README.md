@@ -1,6 +1,6 @@
 # fsociety's yellow pages
 
-[TOP][Software][学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
+**[TOP][Software][学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)**
 
 ______
 
