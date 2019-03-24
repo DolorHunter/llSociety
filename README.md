@@ -1,5 +1,9 @@
 # fsociety's yellow pages
 
+[TOP][Software][学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
+
+______
+
 ## Catalogue:
 
 __[Activated](#Activated)__
@@ -8,22 +12,30 @@ __[fGFW](#fGFW)__
 
 __[Git&GitHub](#Git&GitHub)__
 
+__[Qt](#Qt)__
+
 __________
 
 ## Activated
 
-[网站/Web][windows + office](https://v0v.bid/)
+[Web][windows + office activated (Proper use only!)](https://v0v.bid/)
 
 ## fGFW
 
-[网站/Web][搬瓦工直达bandwagonhost(购买vps服务器)](https://bandwagonhost.com/)
+[Web][搬瓦工bandwagonhost](https://bandwagonhost.com/)
 
-[教程/Tutorial][vps服务器搭建v2ray](https://233v2.com/post/1/)
+[Web][Project V工具集官网 (核心工具为 V2Ray)](https://www.v2ray.com/)
 
-[网站/Web][免费DNS域名注册(SSL认证必备)](https://my.freenom.com/)
+[Tutorial][VPS build V2Ray/虚拟服务器搭建v2ray](https://233v2.com/post/1/)
+
+[Web][免费顶级DNS域名注册](https://my.freenom.com/)
 
 ## Git&GitHub
 
-[教程/Tutorial][Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+[Tutorial][Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
-[视频教程/Vedio Tutorial][Youtube:Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+[Vedio Tutorial][Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+## Qt
+
+[Vedio Tutorial][Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
