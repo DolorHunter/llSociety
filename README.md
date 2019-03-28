@@ -6,7 +6,7 @@ ______
 
 ## Catalogue:
 
-__[Online Forum(BBS)](##Online Forum(BBS))__
+__[Online Forum(BBS)](#Online Forum(BBS))__
 
 __[Activated](#Activated)__
 
@@ -20,8 +20,9 @@ __________
 
 ## Online Forum(BBS)
 
-[BBS] [一亩三分地 - 美国加拿大留学申请|工作就业|英语考试|学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
-[BBS] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
+[bbs] [一亩三分地 - 美国加拿大留学申请|工作就业|英语考试|学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
+
+[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 
 ## Activated
 
