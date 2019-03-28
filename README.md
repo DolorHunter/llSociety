@@ -6,7 +6,7 @@ ______
 
 ## Catalogue:
 
-__[Online Forum(BBS)](#Online Forum(BBS))__
+__[Online Forum(BBS)](#OnlineForum)__
 
 __[Activated](#Activated)__
 
@@ -18,7 +18,7 @@ __[Qt](#Qt)__
 
 __________
 
-## Online Forum(BBS)
+## OnlineForum
 
 [bbs] [一亩三分地 - 美国加拿大留学申请|工作就业|英语考试|学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
 
