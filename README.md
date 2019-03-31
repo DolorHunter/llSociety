@@ -28,7 +28,7 @@ __________
 
 ## OnlineForum
 
-[bbs] [一亩三分地 - 美国加拿大留学申请|工作就业|英语考试|学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
+[bbs] [一亩三分地论坛 - 美国加拿大留学申请|工作就业|英语考试|学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
 
 [bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 
@@ -38,13 +38,23 @@ __________
 
 ## fGFW
 
-[Web] [搬瓦工bandwagonhost](https://bandwagonhost.com/)
-
 [Web] [Project V工具集官网 (核心工具为 V2Ray)](https://www.v2ray.com/)
 
-[Tutorial] [VPS build V2Ray/虚拟服务器搭建v2ray](https://233v2.com/post/1/)
+[Software] [(官方无GUI)V2ray内核: V2ray core(without GUI)](https://github.com/v2ray/v2ray-core)
 
-[Web] [免费顶级DNS域名注册](https://my.freenom.com/)
+[Software] [(非官方带GUI)Windows设备V2ray: V2rayN with GUI on windows](https://github.com/2dust/v2rayN)
+
+[Software] [(非官方带GUI)安卓设备V2ray: V2rayNG with GUI on Android](https://github.com/2dust/v2rayNG)
+
+[Software] [(非官方带GUI)MacOS设备V2ray: V2rayX with GUI on MacOS](https://github.com/Cenmrev/V2RayX)
+
+[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://github.com/shadowsocks/shadowsocks-iOS)
+
+[Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
+
+[Tutorial] [[小白专用集成脚本][233boy]虚拟服务器搭建V2ray](https://233v2.com/post/1/)
+
+[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
 
 ## Git&GitHub
 
