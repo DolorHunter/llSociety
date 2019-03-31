@@ -6,6 +6,8 @@ ______
 
 ## Catalogue:
 
+__[Education Package](#EducationPackage)__
+
 __[Online Forum(BBS)](#OnlineForum)__
 
 __[Activated](#Activated)__
@@ -17,6 +19,12 @@ __[Git&GitHub](#Git&GitHub)__
 __[Qt](#Qt)__
 
 __________
+
+## EducationPackage
+
+[Web] [GitHub: Student Developer Pack](https://education.github.com/pack)
+
+[Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
 
 ## OnlineForum
 
