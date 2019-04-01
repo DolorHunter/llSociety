@@ -1,10 +1,9 @@
 # fsociety's yellow pages
 
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 
-**[TOP] [Program] [996.icu](https://github.com/996icu/996.ICU)**
+**[TOP] [Program] [996.icu - 工作 996, 生病 ICU](https://github.com/996icu/996.ICU)**
 
 **[TOP] [Software] [学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)**
 
