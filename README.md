@@ -1,6 +1,6 @@
 # fsociety's yellow pages
 
-[![LICENSE](https://img.shields.io/aur/license/:packageName.svg)](LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 
 **[TOP] [Program] [996.icu - 工作 996, 生病 ICU](https://github.com/996icu/996.ICU)**
