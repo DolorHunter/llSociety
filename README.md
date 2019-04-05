@@ -2,9 +2,8 @@
 
 [![LICENSE](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-win%20%7C%20osx%20%7C%20android%20%7C%20ios-lightgrey.svg)]()
-<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 
-**[TOP] [Program] [996.icu - 工作 996, 生病 ICU](https://github.com/996icu/996.ICU)**
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 
 **[TOP] [Software] [学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)**
 
