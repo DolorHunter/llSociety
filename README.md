@@ -31,7 +31,7 @@ __________
 
 [Web] [GitHub: Student Developer Pack](https://education.github.com/pack)
 
-[Web] []
+[Web] [JetBrains Toolbox 专业开发工具学生免费授权计划](https://www.jetbrains.com/zh/student/)
 
 [Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
 
@@ -70,6 +70,8 @@ __________
 [Resource] [effbot](http://effbot.org/)
 
 [Resource] [Shields.io](https://shields.io/)
+
+[Resource] [PyCharm: Educational Products](https://www.jetbrains.com/education/?fromMenu)
 
 [Resource] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
 
