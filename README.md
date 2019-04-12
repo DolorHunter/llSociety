@@ -19,6 +19,8 @@ __[Activated](#Activated)__
 
 __[fGFW](#fGFW)__
 
+__[Resource](#Resource)__
+
 __[Git&GitHub](#Git&GitHub)__
 
 __[Qt](#Qt)__
@@ -28,6 +30,8 @@ __________
 ## EducationPackage
 
 [Web] [GitHub: Student Developer Pack](https://education.github.com/pack)
+
+[Web] []
 
 [Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
 
@@ -60,6 +64,18 @@ __________
 [Tutorial] [[小白专用集成脚本][233boy]虚拟服务器搭建V2ray](https://233v2.com/post/1/)
 
 [Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
+
+## Resource
+
+[Resource] [effbot](http://effbot.org/)
+
+[Resource] [Shields.io](https://shields.io/)
+
+[Resource] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
+
+[Resource] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
+
+[Resource] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
 
 ## Git&GitHub
 
