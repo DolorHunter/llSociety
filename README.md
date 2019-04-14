@@ -1,6 +1,6 @@
 # fsociety's yellow pages
 
-[![LICENSE](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-CC0--1.0-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-win%20%7C%20osx%20%7C%20android%20%7C%20ios-lightgrey.svg)]()
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
