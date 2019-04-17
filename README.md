@@ -70,6 +70,8 @@ __________
 
 ## Resource
 
+[Resource] [Wikileaks](https://file.wikileaks.org/file/)
+
 [Resource] [effbot](http://effbot.org/)
 
 [Resource] [Shields.io](https://shields.io/)
