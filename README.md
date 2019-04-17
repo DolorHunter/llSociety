@@ -2,6 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-CC0--1.0-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-win%20%7C%20osx%20%7C%20android%20%7C%20ios-lightgrey.svg)]()
+[![Donate](https://img.shields.io/badge/Coffee-fee-ff69b4.svg)](https://www.paypal.me/dolor059)
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 
@@ -35,9 +36,11 @@ __________
 
 [Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
 
+[Web] [Apple Music Student Plan陆区5CN$/mon|港区28HK$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
+
 ## OnlineForum
 
-[bbs] [一亩三分地论坛 - 美国加拿大留学申请|工作就业|英语考试|学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
+[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
 
 [bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 
@@ -51,17 +54,17 @@ __________
 
 [Software] [(官方无GUI)V2ray内核: V2ray core(without GUI)](https://github.com/v2ray/v2ray-core)
 
-[Software] [(非官方带GUI)Windows设备V2ray: V2rayN with GUI on windows](https://github.com/2dust/v2rayN)
+[Software] [2dustGUI(非官方)Windows设备V2ray: V2rayN with GUI on windows](https://github.com/2dust/v2rayN)
 
-[Software] [(非官方带GUI)安卓设备V2ray: V2rayNG with GUI on Android](https://github.com/2dust/v2rayNG)
+[Software] [2dustGUI(非官方)安卓设备V2ray: V2rayNG with GUI on Android](https://github.com/2dust/v2rayNG)
 
-[Software] [(非官方带GUI)MacOS设备V2ray: V2rayX with GUI on MacOS](https://github.com/Cenmrev/V2RayX)
+[Software] [(非官方GUI)MacOS设备V2ray: V2rayX with GUI on MacOS](https://github.com/Cenmrev/V2RayX)
 
 [Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://github.com/shadowsocks/shadowsocks-iOS)
 
 [Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
 
-[Tutorial] [[小白专用集成脚本][233boy]虚拟服务器搭建V2ray](https://233v2.com/post/1/)
+[Tutorial] [[233boy脚本]虚拟服务器搭建V2ray](https://233v2.com/post/1/)
 
 [Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
 
