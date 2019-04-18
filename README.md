@@ -22,7 +22,7 @@ __[fGFW](#fGFW)__
 
 __[Resource](#Resource)__
 
-__[Git&GitHub](#Git&GitHub)__
+__[Git](#Git)__
 
 __[Qt](#Qt)__
 
@@ -84,7 +84,7 @@ __________
 
 [Resource] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
 
-## Git&GitHub
+## Git
 
 [Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
