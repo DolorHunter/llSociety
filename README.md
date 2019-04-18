@@ -88,6 +88,8 @@ __________
 
 [Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
+[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
+
 [Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 ## Qt
