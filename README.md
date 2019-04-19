@@ -36,9 +36,11 @@ __________
 
 [Web] [JetBrains Toolbox 专业开发工具学生免费授权计划](https://www.jetbrains.com/zh/student/)
 
+[Web] [Qt for Education Program](https://www.qt.io/qt-for-educational-program)
+
 [Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
 
-[Web] [Apple Music Student Plan陆区5CN$/mon|港区28HK$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
+[Web] [Apple Music Student Plan 陆区5CN$/mon|港区28HK$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
 
 ## Forum
 
