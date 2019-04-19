@@ -14,7 +14,7 @@ ______
 
 __[Education Package](#EducationPackage)__
 
-__[Online Forum(BBS)](#OnlineForum)__
+__[Forum(BBS)](#OnlineForum)__
 
 __[Activated](#Activated)__
 
@@ -40,7 +40,7 @@ __________
 
 [Web] [Apple Music Student Plan陆区5CN$/mon|港区28HK$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
 
-## OnlineForum
+## Forum
 
 [bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
 
