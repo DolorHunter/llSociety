@@ -83,18 +83,18 @@ __________
 
 [Resource] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
 
-### Git
+>### Git
 
-[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
-[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
+>[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
 
-[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+>[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
-### Qt
+>### Qt
 
-[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
+>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
 
-### Tkinter
+>### Tkinter
 
-[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
+>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
