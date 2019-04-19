@@ -2,9 +2,8 @@
 
 [![LICENSE](https://img.shields.io/badge/license-CC0--1.0-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-win%20%7C%20osx%20%7C%20android%20%7C%20ios-lightgrey.svg)]()
-[![Donate](https://img.shields.io/badge/Coffee-fee-ff69b4.svg)](https://www.paypal.me/dolor059)
-
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
+[![Donate](https://img.shields.io/badge/Coffee-fee-ff69b4.svg)](https://www.paypal.me/dolor059)
 
 **[TOP] [Software] [学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)**
 
@@ -16,17 +15,15 @@ __[Education Package](#EducationPackage)__
 
 __[Forum(BBS)](#OnlineForum)__
 
-__[Activated](#Activated)__
-
 __[fGFW](#fGFW)__
 
 __[Resource](#Resource)__
 
-__[Git](#Git)__
+>__[Git](#Git)__
 
-__[Qt](#Qt)__
+>__[Qt](#Qt)__
 
-__[Tkinter](#Tkinter)__
+>__[Tkinter](#Tkinter)__
 
 __________
 
@@ -47,10 +44,6 @@ __________
 [bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
 
 [bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
-
-## Activated
-
-[Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
 
 ## fGFW
 
@@ -74,6 +67,8 @@ __________
 
 ## Resource
 
+[Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
+
 [Resource] [Wikileaks](https://file.wikileaks.org/file/)
 
 [Resource] [effbot](http://effbot.org/)
@@ -88,7 +83,7 @@ __________
 
 [Resource] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
 
-## Git
+### Git
 
 [Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
@@ -96,10 +91,10 @@ __________
 
 [Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
-## Qt
+### Qt
 
 [Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
 
-## Tkinter
+### Tkinter
 
 [Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
