@@ -23,7 +23,11 @@ __[Resource](#Resource)__
 
 >__[Qt](#Qt)__
 
->__[Tkinter](#Tkinter)__
+>__[Python](#Python)__
+
+>>__[Tkinter](#Tkinter)__
+
+>>__[NLTK](#NLTK)__
 
 __________
 
@@ -95,6 +99,16 @@ __________
 
 >[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
 
->### Tkinter
+>### Python
 
->[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
+>[Tutorial] [Python Tutorial](https://pythonspot.com/)
+
+>>### Tkinter
+
+>>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
+
+>>### NLTK
+
+>>[Tutorial] [NLTK stop words](https://pythonspot.com/nltk-stop-words/)
+
+>>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
