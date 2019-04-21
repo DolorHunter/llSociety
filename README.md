@@ -17,17 +17,27 @@ __[Forum(BBS)](#OnlineForum)__
 
 __[fGFW](#fGFW)__
 
+>__[Server](#Server)__
+
+>__[Client](#Client)__
+
 __[Resource](#Resource)__
 
->__[Git](#Git)__
+>__[BookLists](#BookLists)__
 
->__[Qt](#Qt)__
+>__[Tools](#Tools)__
 
->__[Python](#Python)__
+>__[Tutorial](#Tutorial)__
 
->>__[Tkinter](#Tkinter)__
+>>__[Git](#Git)__
 
->>__[NLTK](#NLTK)__
+>>__[Qt](#Qt)__
+
+>>__[Python](#Python)__
+
+>>>__[Tkinter](#Tkinter)__
+
+>>>__[NLTK](#NLTK)__
 
 __________
 
@@ -51,23 +61,27 @@ __________
 
 ## fGFW
 
-[Web] [Project V工具集官网 (核心工具为 V2Ray)](https://www.v2ray.com/)
+>### Server
 
-[Software] [(官方无GUI)V2ray内核: V2ray core(without GUI)](https://github.com/v2ray/v2ray-core)
+>>[Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
 
-[Software] [2dustGUI(非官方)Windows设备V2ray: V2rayN with GUI on windows](https://github.com/2dust/v2rayN)
+>>[Tutorial] [[233boy脚本]虚拟服务器搭建V2ray](https://233v2.com/post/1/)
 
-[Software] [2dustGUI(非官方)安卓设备V2ray: V2rayNG with GUI on Android](https://github.com/2dust/v2rayNG)
+>>[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
 
-[Software] [(非官方GUI)MacOS设备V2ray: V2rayX with GUI on MacOS](https://github.com/Cenmrev/V2RayX)
+>### Client
 
-[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://github.com/shadowsocks/shadowsocks-iOS)
+>>[Web] [Project V工具集官网 (核心工具为 V2Ray)](https://www.v2ray.com/)
 
-[Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
+>>[Software] [(官方无GUI)V2ray内核: V2ray core(without GUI)](https://github.com/v2ray/v2ray-core)
 
-[Tutorial] [[233boy脚本]虚拟服务器搭建V2ray](https://233v2.com/post/1/)
+>>[Software] [2dustGUI(非官方)Windows设备V2rayN: V2rayN with GUI on windows](https://github.com/2dust/v2rayN)
 
-[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
+>>[Software] [2dustGUI(非官方)安卓设备V2rayNG: V2rayNG with GUI on Android](https://github.com/2dust/v2rayNG)
+
+>>[Software] [(非官方GUI)MacOS设备V2rayX: V2rayX with GUI on MacOS](https://github.com/Cenmrev/V2RayX)
+
+>>[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://www.youtube.com/channel/UClHivjMLEM-ZqrI3skBPMHw)
 
 ## Resource
 
@@ -77,38 +91,47 @@ __________
 
 [Resource] [effbot](http://effbot.org/)
 
-[Resource] [Shields.io](https://shields.io/)
-
 [Resource] [PyCharm: Educational Products](https://www.jetbrains.com/education/?fromMenu)
 
-[Resource] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
+>### BookLists
 
-[Resource] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
+>>[Resource] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
 
-[Resource] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
+>>[Resource] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
+
+>>[Resource] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
+
+>### Tools
+
+>>[Resource] [Shields.io](https://shields.io/)
+
+>>[Tools] [开发工具箱 ToolBox](http://www.box3.cn/)
+
+>>[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
+
 
 >### Git
 
->[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+>>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
->[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
+>>[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
 
->[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+>>[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 >### Qt
 
->[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
+>>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
 
->### Python
+>>### Python
 
->[Tutorial] [Python Tutorial](https://pythonspot.com/)
+>>>[Tutorial] [Python Tutorial](https://pythonspot.com/)
 
->>### Tkinter
+>>>### Tkinter
 
->>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
+>>>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
 
 >>### NLTK
 
->>[Tutorial] [NLTK stop words](https://pythonspot.com/nltk-stop-words/)
+>>>[Tutorial] [NLTK stop words](https://pythonspot.com/nltk-stop-words/)
 
->>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
+>>>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
