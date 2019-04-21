@@ -71,6 +71,8 @@ __________
 
 >>[Tutorial] [Nginx安装配置](http://www.runoob.com/linux/nginx-install-setup.html)
 
+>>[Tutorial] [Let's Encrypt获得永久免费SSL证书](https://blog.csdn.net/ownfire/article/details/61919633)
+
 >### Client
 
 >>[Web] [Project V工具集官网 (核心工具为 V2Ray)](https://www.v2ray.com/)
