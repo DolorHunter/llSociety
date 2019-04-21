@@ -69,6 +69,8 @@ __________
 
 >>[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
 
+>>[Tutorial] [Nginx安装配置](http://www.runoob.com/linux/nginx-install-setup.html)
+
 >### Client
 
 >>[Web] [Project V工具集官网 (核心工具为 V2Ray)](https://www.v2ray.com/)
