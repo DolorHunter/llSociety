@@ -65,15 +65,15 @@ __________
 
 >>[Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
 
->>[Tutorial] [[233boy脚本]虚拟服务器搭建V2ray](https://233v2.com/post/1/)
+>>[Tutorial] [[原生]服务器搭建V2ray](https://toutyrater.github.io/prep/install.html)
 
 >>[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
 
 >>[Tutorial] [Nginx安装配置](http://www.runoob.com/linux/nginx-install-setup.html)
 
->>[Tutorial] [Let's Encrypt-Certbot获取SSL证书](https://github.com/certbot/certbot)
+>>[Tutorial] [Let's Encrypt-Certbot获取SSL证书(http->https)](https://github.com/certbot/certbot)
 
->>[Tutorial] [TLS-V2ray配置指南](https://toutyrater.github.io/advanced/tls.html)
+>>[Tutorial] [TLS加密传输-V2ray配置指南](https://toutyrater.github.io/advanced/tls.html)
 
 >### Client
 
