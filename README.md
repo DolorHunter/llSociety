@@ -13,8 +13,6 @@ ______
 
 __[Education Package](#EducationPackage)__
 
-__[Forum(BBS)](#OnlineForum)__
-
 __[fGFW](#fGFW)__
 
 >__[Server](#Server)__
@@ -22,6 +20,8 @@ __[fGFW](#fGFW)__
 >__[Client](#Client)__
 
 __[Resource](#Resource)__
+
+>__[Forum(BBS)](#OnlineForum)__
 
 >__[BookLists](#BookLists)__
 
@@ -52,12 +52,6 @@ __________
 [Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
 
 [Web] [Apple Music Student Plan 陆区5CN$/mon|港区28HK$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
-
-## Forum
-
-[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
-
-[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 
 ## fGFW
 
@@ -98,6 +92,13 @@ __________
 [Resource] [effbot](http://effbot.org/)
 
 [Resource] [PyCharm: Educational Products](https://www.jetbrains.com/education/?fromMenu)
+
+>## Forum
+
+[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
+
+[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
+
 
 >### BookLists
 
