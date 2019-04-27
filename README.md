@@ -21,6 +21,8 @@ __[fGFW](#fGFW)__
 
 __[Resource](#Resource)__
 
+>__[International Study](#InternationalStudy)__
+
 >__[Forum(BBS)](#Forum)__
 
 >__[BookLists](#BookLists)__
@@ -93,11 +95,15 @@ __________
 
 [Resource] [PyCharm: Educational Products](https://www.jetbrains.com/education/?fromMenu)
 
->## Forum
+>### InternationalStudy
 
-[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
+>>[Resource] [Top Universities | Worldwide university rankings,guides & events](https://www.topuniversities.com/)
 
-[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
+>### Forum
+
+>>[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
+
+>>[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 
 
 >### BookLists
@@ -129,11 +135,11 @@ __________
 
 >>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
 
->>### Python
+>### Python
 
->>>[Tutorial] [Python Tutorial](https://pythonspot.com/)
+>>[Tutorial] [Python Tutorial](https://pythonspot.com/)
 
->>>### Tkinter
+>>### Tkinter
 
 >>>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
 
