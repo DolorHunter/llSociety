@@ -29,6 +29,8 @@ __[Resource](#Resource)__
 >__[Tools](#Tools)__
 >
 >__[Tutorial](#Tutorial)__
+>>__[Tensorflow](#Tensorflow)__
+>>
 >>__[Git](#Git)__
 >>
 >>__[Qt](#Qt)__
@@ -106,20 +108,23 @@ __________
 >>[Tools] [开发工具箱 ToolBox](http://www.box3.cn/)
 >>
 >>[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
->### Git
->>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
->>
->>[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
->>
->>[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
->### Qt
->>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
->### Python
->>[Tutorial] [Python Tutorial](https://pythonspot.com/)
->>
->>### Tkinter
->>>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
->>### NLTK
->>>[Tutorial] [NLTK stop words](https://pythonspot.com/nltk-stop-words/)
+>### Tutorial
+>>### Tensorflow
+>>>[Vedio Tutorial] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+>>### Git
+>>>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 >>>
->>>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
+>>>[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
+>>>
+>>>[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+>>### Qt
+>>>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
+>>### Python
+>>>[Tutorial] [Python Tutorial](https://pythonspot.com/)
+>>>
+>>>### Tkinter
+>>>>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
+>>>### NLTK
+>>>>[Tutorial] [NLTK stop words](https://pythonspot.com/nltk-stop-words/)
+>>>>
+>>>>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
