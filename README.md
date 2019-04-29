@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-CC0--1.0-green.svg)](LICENSE)
 ![Yellowpage](https://img.shields.io/badge/llsociety-Yellowpage-yellow.svg)
-[![Developer](https://img.shields.io/badge/Developer-%201-blue.svg)](https://github.com/DolorHunter)
+[![Contributor](https://img.shields.io/badge/Contributor-%201-blue.svg)](https://github.com/DolorHunter)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 [![Donate](https://img.shields.io/badge/Coffee-fee-ff69b4.svg)](https://www.paypal.me/dolor059)
 
@@ -63,7 +63,7 @@ __________
 >>
 >>[Tutorial] [[原生]服务器搭建V2ray](https://toutyrater.github.io/prep/install.html)
 >>
->>[Tutorial] [TLS加密传输-V2ray配置指南](https://toutyrater.github.io/advanced/tls.html)
+>>[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
 
 >### Client
 >>[Web] [Project V工具集官网 (核心工具为 V2Ray)](https://www.v2ray.com/)
