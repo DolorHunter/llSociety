@@ -108,9 +108,11 @@ __________
 >>[Tools] [开发工具箱 ToolBox](http://www.box3.cn/)
 >>
 >>[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
+>>
+>>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
 >### Tutorial
 >>### Tensorflow
->>>[Vedio Tutorial] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+>>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 >>### Git
 >>>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 >>>
