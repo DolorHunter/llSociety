@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-CC0--1.0-green.svg)](LICENSE)
 ![Yellowpage](https://img.shields.io/badge/llsociety-Yellowpage-yellow.svg)
-[![Contributor](https://img.shields.io/badge/Contributor-%201-blue.svg)](https://github.com/DolorHunter)
+[![Contributor](https://img.shields.io/badge/Contributor-%201-blue.svg)](https://github.com/DolorHunter/llsociety/graphs/contributors)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 [![Donate](https://img.shields.io/badge/Coffee-fee-ff69b4.svg)](https://www.paypal.me/dolor059)
 
