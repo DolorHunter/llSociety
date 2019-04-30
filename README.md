@@ -1,10 +1,10 @@
 # llsociety's yellow pages
 
-[![LICENSE](https://img.shields.io/badge/license-CC0--1.0-green.svg)](LICENSE)
-![Yellowpage](https://img.shields.io/badge/llsociety-Yellowpage-yellow.svg)
-[![Contributor](https://img.shields.io/badge/Contributor-%201-blue.svg)](https://github.com/DolorHunter/llsociety/graphs/contributors)
-<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
-[![Donate](https://img.shields.io/badge/Coffee-fee-ff69b4.svg)](https://www.paypal.me/dolor059)
+[![LICENSE](https://img.shields.io/badge/license-CC0--1.0-green.svg?style=flat-square)](LICENSE)
+![Yellowpage](https://img.shields.io/badge/llsociety-Yellowpage-yellow.svg?style=flat-square)
+[![Contributor](https://img.shields.io/badge/Contributor-%201-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/graphs/contributors)
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg?style=flat-square" alt="996.icu"></a>
+[![Donate](https://img.shields.io/badge/Coffee-fee-ff69b4.svg?style=flat-square)](https://www.paypal.me/dolor059)
 
 **[TOP] [Software] [学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)**
 
