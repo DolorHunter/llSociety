@@ -51,7 +51,21 @@ __________
 
 [Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
 
-[Web] [Apple Music Student Plan 陆区5CN$/mon|港区28HK$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
+[Web] [Apple Music Student Plan 陆区5CN$/mon|港区28HK$/mon|美区5US$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
+
+[Web] [Spotify Premium for Students 5US$/mon](https://www.spotify.com/us/student/)
+
+[Web] [Adobe Creative Cloud for students and teachers US$10+/mon](https://www.adobe.com/creativecloud/buy/students.html)
+
+[Web] [AWS Educate(GitHub Student Developer Pack members receive $75-$150)](https://aws.amazon.com/cn/education/awseducate/)
+
+[Web] [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011)
+
+[Web] [Tabledu: Business Intelligence and Analytics Software 25% OFF](https://www.tableau.com/zh-cn/academic/students)
+
+[Web] [Autodesk | 3D Design, Engineering & Construction Software](https://www.autodesk.com/education/free-software/featured)
+
+[Web] [Autodesk Sketchbook](https://sketchbook.com/education)
 
 ## fGFW
 >### Server
