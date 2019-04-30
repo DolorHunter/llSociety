@@ -124,7 +124,11 @@ __________
 >>[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
 >>
 >>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
+<<<<<<< HEAD
 >#### Tutorial
+=======
+>### Tutorial
+>>>>>>> 60e4e06ea046756a193229b533e771ecf80f8633
 >>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 >>#### Git
