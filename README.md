@@ -51,7 +51,7 @@ __________
 
 [Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
 
-[Web] [Apple Music Student Plan 陆区5CN$/mon 港区28HK$/mon 美区5US$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
+[Web] [Apple Music Student Plen 陆区5CN$/mon 港区28HK$/mon 美区5US$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
 
 [Web] [Spotify Premium for Students 5US$/mon](https://www.spotify.com/us/student/)
 
@@ -124,11 +124,7 @@ __________
 >>[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
 >>
 >>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
-<<<<<<< HEAD
 >#### Tutorial
-=======
->### Tutorial
->>>>>>> 60e4e06ea046756a193229b533e771ecf80f8633
 >>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 >>#### Git
