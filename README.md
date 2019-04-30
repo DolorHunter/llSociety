@@ -102,19 +102,19 @@ __________
 [Resource] [effbot](http://effbot.org/)
 
 [Resource] [PyCharm: Educational Products](https://www.jetbrains.com/education/?fromMenu)
->#### Posteducation
+>### Posteducation
 >>[Resource] [Top Universities | Worldwide university rankings,guides & events](https://www.topuniversities.com/)
->#### Forum
+>### Forum
 >>[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
 >>
 >>[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
->#### BookLists
+>### BookLists
 >>[Resource] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
 >>
 >>[Resource] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
 >>
 >>[Resource] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
->#### Tools
+>### Tools
 >>[Resource] [Shields.io](https://shields.io/)
 >>
 >>[Resource] [Aconvert.com](https://www.aconvert.com/cn/)
@@ -124,7 +124,9 @@ __________
 >>[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
 >>
 >>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
->#### Tutorial
+>>
+>>[Web] [Google Website Analytics](https://analytics.google.com/)
+>### Tutorial
 >>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 >>#### Git
