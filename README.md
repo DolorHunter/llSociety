@@ -51,7 +51,7 @@ __________
 
 [Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
 
-[Web] [Apple Music Student Plan 陆区5CN$/mon|港区28HK$/mon|美区5US$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
+[Web] [Apple Music Student Plan 陆区5CN$/mon 港区28HK$/mon 美区5US$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
 
 [Web] [Spotify Premium for Students 5US$/mon](https://www.spotify.com/us/student/)
 
@@ -63,7 +63,7 @@ __________
 
 [Web] [Tabledu: Business Intelligence and Analytics Software 25% OFF](https://www.tableau.com/zh-cn/academic/students)
 
-[Web] [Autodesk | 3D Design, Engineering & Construction Software](https://www.autodesk.com/education/free-software/featured)
+[Web] [Autodesk - 3D Design, Engineering & Construction Software](https://www.autodesk.com/education/free-software/featured)
 
 [Web] [Autodesk Sketchbook](https://sketchbook.com/education)
 
