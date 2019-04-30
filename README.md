@@ -68,7 +68,7 @@ __________
 [Web] [Autodesk Sketchbook](https://sketchbook.com/education)
 
 ## fGFW
->### Server
+>#### Server
 >>[Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
 >>
 >>[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
@@ -81,7 +81,7 @@ __________
 >>
 >>[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
 
->### Client
+>#### Client
 >>[Web] [Project V工具集官网 (核心工具为 V2Ray)](https://www.v2ray.com/)
 >>
 >>[Software] [(官方无GUI)V2ray内核: V2ray core(without GUI)](https://github.com/v2ray/v2ray-core)
@@ -125,22 +125,22 @@ __________
 >>
 >>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
 >### Tutorial
->>### Tensorflow
+>>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
->>### Git
+>>#### Git
 >>>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 >>>
 >>>[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
 >>>
 >>>[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
->>### Qt
+>>#### Qt
 >>>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
->>### Python
+>>#### Python
 >>>[Tutorial] [Python Tutorial](https://pythonspot.com/)
 >>>
 >>>### Tkinter
 >>>>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
->>>### NLTK
+>>>#### NLTK
 >>>>[Tutorial] [NLTK stop words](https://pythonspot.com/nltk-stop-words/)
 >>>>
 >>>>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
