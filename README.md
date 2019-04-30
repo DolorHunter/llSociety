@@ -10,7 +10,7 @@
 
 ______
 
-## Catalogue:
+## Catalogue
 
 __[Education Package](#EducationPackage)__
 
