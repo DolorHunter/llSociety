@@ -114,6 +114,14 @@ __________
 >>[Resource] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
 >>
 >>[Resource] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
+>>
+>>[Telegram] [zread (推) - 什么书值得读 📚](https://t.me/zreadpush)
+>>
+>>[Telegram Bot] [zread机器人 ReadBot(小君) @zreadBot](https://t.me/zread)
+>>
+>>[Telegrma] [文杏馆(藏书分享)](https://t.me/BooksThatMakeYouThink)
+>>
+>>[Telegram] [书籍共享计划](https://t.me/booksharingplan)
 >### Tools
 >>[Resource] [Shields.io](https://shields.io/)
 >>
