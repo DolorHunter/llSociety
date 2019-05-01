@@ -152,7 +152,7 @@ __________
 >>
 >>#### Qt
 >>>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
-
+>>
 >>#### Python
 >>>[Tutorial] [Python Tutorial](https://pythonspot.com/)
 >>>
