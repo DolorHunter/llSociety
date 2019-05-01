@@ -97,10 +97,6 @@ __________
 ## Resource
 [Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
 
-[Resource] [Wikileaks](https://file.wikileaks.org/file/)
-
-[Resource] [effbot](http://effbot.org/)
-
 [Resource] [PyCharm: Educational Products](https://www.jetbrains.com/education/?fromMenu)
 
 >### Posteducation
@@ -112,11 +108,11 @@ __________
 >>[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 >
 >### BookLists
->>[Resource] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
+>>[GitHub] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
 >>
->>[Resource] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
+>>[GitHub] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
 >>
->>[Resource] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
+>>[Web] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
 >>
 >>[Telegram] [zread (推) - 什么书值得读 📚](https://t.me/zreadpush)
 >>
@@ -154,12 +150,14 @@ __________
 >>>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
 >>
 >>#### Python
->>>[Tutorial] [Python Tutorial](https://pythonspot.com/)
+>>>[Resource] [effbot](http://effbot.org/)
+>>>
+>>>[Tutorial] [pythonspot](https://pythonspot.com/)
 >>>
 >>>#### Tkinter
 >>>>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
 >>>
 >>>#### NLTK
->>>>[Tutorial] [NLTK stop words](https://pythonspot.com/nltk-stop-words/)
+>>>>[Tutorial] [pythonspot: NLTK stop words](https://pythonspot.com/nltk-stop-words/)
 >>>>
 >>>>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
