@@ -18,7 +18,7 @@ __[fGFW](#fGFW)__
 >__[Server](#Server)__
 >
 >__[Client](#Client)__
->
+
 __[Resource](#Resource)__
 >__[Posteducation](#Posteducation)__
 >
@@ -80,7 +80,7 @@ __________
 >>[Tutorial] [[原生]服务器搭建V2ray](https://toutyrater.github.io/prep/install.html)
 >>
 >>[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
-
+>
 >#### Client
 >>[Web] [Project V工具集官网 (核心工具为 V2Ray)](https://www.v2ray.com/)
 >>
@@ -104,13 +104,13 @@ __________
 [Resource] [PyCharm: Educational Products](https://www.jetbrains.com/education/?fromMenu)
 
 >### Posteducation
->>[Resource] [Top Universities | Worldwide university rankings,guides & events](https://www.topuniversities.com/)
-
+>>[Resource] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
+>
 >### Forum
 >>[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
 >>
 >>[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
-
+>
 >### BookLists
 >>[Resource] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
 >>
@@ -125,7 +125,7 @@ __________
 >>[Telegram] [文杏馆(藏书分享)](https://t.me/BooksThatMakeYouThink)
 >>
 >>[Telegram] [书籍共享计划](https://t.me/booksharingplan)
-
+>
 >### Tools
 >>[Resource] [Shields.io](https://shields.io/)
 >>
@@ -138,28 +138,27 @@ __________
 >>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
 >>
 >>[Web] [Google Website Analytics](https://analytics.google.com/)
-
+>
 >### Tutorial
 >>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
-
+>>
 >>#### Git
 >>>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 >>>
 >>>[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
 >>>
 >>>[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-
+>>
 >>#### Qt
 >>>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
 
 >>#### Python
 >>>[Tutorial] [Python Tutorial](https://pythonspot.com/)
 >>>
-
 >>>#### Tkinter
 >>>>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
-
+>>>
 >>>#### NLTK
 >>>>[Tutorial] [NLTK stop words](https://pythonspot.com/nltk-stop-words/)
 >>>>
