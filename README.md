@@ -119,7 +119,7 @@ __________
 >>
 >>[Telegram Bot] [zread机器人 ReadBot(小君) @zreadBot](https://t.me/zread)
 >>
->>[Telegrma] [文杏馆(藏书分享)](https://t.me/BooksThatMakeYouThink)
+>>[Telegram] [文杏馆(藏书分享)](https://t.me/BooksThatMakeYouThink)
 >>
 >>[Telegram] [书籍共享计划](https://t.me/booksharingplan)
 >### Tools
