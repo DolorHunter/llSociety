@@ -1,4 +1,4 @@
-# llsociety's yellow pages
+# llSociety's yellowpage
 
 [![LICENSE](https://img.shields.io/badge/license-CC0--1.0-green.svg?style=flat-square)](LICENSE)
 ![Yellowpage](https://img.shields.io/badge/llsociety-Yellowpage-yellow.svg?style=flat-square)
