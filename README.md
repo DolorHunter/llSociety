@@ -163,3 +163,13 @@ __________
 >>>>[Tutorial] [pythonspot: NLTK stop words](https://pythonspot.com/nltk-stop-words/)
 >>>>
 >>>>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
+
+<p align="center">
+<a href="https://github.com/DolorHunter/llsociety"><img src="https://img.shields.io/github/watchers/dolorhunter/llSociety.svg?style=social" alt="Watchers"></a>
+<a href="https://github.com/DolorHunter/llsociety"><img src="https://img.shields.io/github/stars/dolorhunter/llSociety.svg?style=social" alt="Stars"></a>
+<a href="https://github.com/DolorHunter/llsociety"><img src="https://img.shields.io/github/forks/dolorhunter/llSociety.svg?style=social" alt="Fork"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/DolorHunter"><img src="https://img.shields.io/github/followers/dolorhunter.svg?style=social" alt="Followers"></a>
+</p>
