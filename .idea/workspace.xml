@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="181d1419-5848-47c9-b12a-cd22e50193c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="291">
-                <caret line="106" column="32" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="32" />
+              <first_editor relative-caret-position="3795">
+                <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
               </first_editor>
               <second_editor />
             </state>
@@ -52,6 +53,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,7 +65,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -101,7 +102,8 @@
       <workItem from="1556687042552" duration="1744000" />
       <workItem from="1556689262702" duration="85000" />
       <workItem from="1556689807321" duration="681000" />
-      <workItem from="1556713648954" duration="3040000" />
+      <workItem from="1556713648954" duration="3811000" />
+      <workItem from="1556773074470" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="05.01.13.12 - Update title and description">
       <created>1556687568374</created>
@@ -152,17 +154,31 @@
       <option name="project" value="LOCAL" />
       <updated>1556716687084</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="05.01.21.07 - reconstruct readme">
+      <created>1556716739389</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556716739389</updated>
+    </task>
+    <task id="LOCAL-00009" summary="05.01.21.30 - Update keywords">
+      <created>1556717440513</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556717440513</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5677000" />
+    <option name="totallyTimeSpent" value="7233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1435" height="812" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1573604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1595359" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -220,7 +236,8 @@
     <MESSAGE value="05.01.20.28 - .zip some .rar and add v2ray on macos" />
     <MESSAGE value="05.01.20.59 - reconstruct readme" />
     <MESSAGE value="05.01.21.07 - reconstruct readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="05.01.21.07 - reconstruct readme" />
+    <MESSAGE value="05.01.21.30 - Update keywords" />
+    <option name="LAST_COMMIT_MESSAGE" value="05.01.21.30 - Update keywords" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_config.yml">
@@ -233,8 +250,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="291">
-            <caret line="106" column="32" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="32" />
+          <first_editor relative-caret-position="3795">
+            <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
           </first_editor>
           <second_editor />
         </state>

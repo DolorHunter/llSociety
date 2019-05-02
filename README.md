@@ -1,10 +1,12 @@
 # llSociety's Yellowpage
 
-[![LICENSE](https://img.shields.io/badge/license-CC0--1.0-green.svg?style=flat-square)](LICENSE)
+[![LICENSE](https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square)](LICENSE)
 [![Yellowpage](https://img.shields.io/badge/llSociety-Yellowpage-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety)
-[![Contributor](https://img.shields.io/badge/Contributor-%201-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/graphs/contributors)
-<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg?style=flat-square" alt="996.icu"></a>
+[![Contributor](https://img.shields.io/badge/Contributor-%201-5cc.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/graphs/contributors)
+[![Version](https://img.shields.io/badge/Release-v1.0.5-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
+[![Size](https://img.shields.io/badge/Size-121MB-blueviolet.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
 [![Donate](https://img.shields.io/badge/Coffee-fee-ff69b4.svg?style=flat-square)](https://www.paypal.me/dolor059)
+<a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-red.svg?style=flat-square" alt="996.icu"></a>
 
 **[TOP] [Software] [学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)**
 
