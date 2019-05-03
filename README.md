@@ -136,6 +136,8 @@ __________
 >>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
 >>
 >>[Web] [Google Website Analytics](https://analytics.google.com/)
+>>
+>>[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
 >
 >### Tutorial
 >>#### Tensorflow
@@ -145,6 +147,8 @@ __________
 >>>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 >>>
 >>>[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
+>>>
+>>>[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
 >>>
 >>>[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 >>
@@ -163,6 +167,8 @@ __________
 >>>>[Tutorial] [pythonspot: NLTK stop words](https://pythonspot.com/nltk-stop-words/)
 >>>>
 >>>>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
+
+---
 
 <p align="center">
 <a href="https://github.com/DolorHunter/llsociety"><img src="https://img.shields.io/github/watchers/dolorhunter/llSociety.svg?style=social" alt="Watchers"></a>

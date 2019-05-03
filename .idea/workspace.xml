@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="181d1419-5848-47c9-b12a-cd22e50193c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,20 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="337">
-                <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -54,18 +40,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="llSociety" type="b2602c69:ProjectViewProjectNode" />
-              <item name="llSociety" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,7 +81,8 @@
       <workItem from="1556689807321" duration="681000" />
       <workItem from="1556713648954" duration="3811000" />
       <workItem from="1556773074470" duration="962000" />
-      <workItem from="1556774669934" duration="891000" />
+      <workItem from="1556774669934" duration="1045000" />
+      <workItem from="1556801267391" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="05.01.13.12 - Update title and description">
       <created>1556687568374</created>
@@ -177,17 +154,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556773994820</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="05.02.13.39 - Add Watchers, Stars, Forks and Followers badge">
+      <created>1556775600614</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556775600614</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8301000" />
+    <option name="totallyTimeSpent" value="9054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1435" height="812" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16171138" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16388687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -247,7 +231,8 @@
     <MESSAGE value="05.01.21.07 - reconstruct readme" />
     <MESSAGE value="05.01.21.30 - Update keywords" />
     <MESSAGE value="05.02.13.12 - Update badge" />
-    <option name="LAST_COMMIT_MESSAGE" value="05.02.13.12 - Update badge" />
+    <MESSAGE value="05.02.13.39 - Add Watchers, Stars, Forks and Followers badge" />
+    <option name="LAST_COMMIT_MESSAGE" value="05.02.13.39 - Add Watchers, Stars, Forks and Followers badge" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_config.yml">
@@ -260,7 +245,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="337">
+          <first_editor relative-caret-position="3956">
             <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
           </first_editor>
           <second_editor />
