@@ -1,6 +1,6 @@
 ﻿# llSociety's Yellowpage
 
-[![LICENSE](https://licensebuttons.net/l/by/3.0/80x15.png)](LICENSE)
+[![LICENSE](https://licensebuttons.net/l/by/3.0/88x31.png)](LICENSE)
 [![Yellowpage](https://img.shields.io/badge/llSociety-Yellowpage-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety)
 [![Contributor](https://img.shields.io/badge/Contributor-%201-5cc.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/graphs/contributors)
 [![Version](https://img.shields.io/badge/Release-v1.0.5-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
