@@ -138,6 +138,8 @@ __________
 >>[Web] [Google Website Analytics](https://analytics.google.com/)
 >>
 >>[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
+>>
+>>[Tools] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
 >
 >### Tutorial
 >>#### Tensorflow
