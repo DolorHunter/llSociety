@@ -31,6 +31,8 @@ __[Resource](#Resource)__
 >__[Tools](#Tools)__
 >
 >__[Tutorial](#Tutorial)__
+>>__[Linux](#Linux)__
+>>
 >>__[Tensorflow](#Tensorflow)__
 >>
 >>__[Git](#Git)__
@@ -142,6 +144,9 @@ __________
 >>[Tools] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
 >
 >### Tutorial
+>>
+>>>[Tutorial] [彻底删除Ubuntu EFI分区及启动项](https://blog.csdn.net/mtllyb/article/details/78635757)
+>>
 >>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 >>
