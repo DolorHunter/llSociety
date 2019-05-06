@@ -103,6 +103,8 @@ __________
 
 [Resource] [PyCharm: Educational Products](https://www.jetbrains.com/education/?fromMenu)
 
+[GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
+
 >### Posteducation
 >>[Resource] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
 >
@@ -144,7 +146,7 @@ __________
 >>[Tools] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
 >
 >### Tutorial
->>
+>>#### Linux
 >>>[Tutorial] [彻底删除Ubuntu EFI分区及启动项](https://blog.csdn.net/mtllyb/article/details/78635757)
 >>
 >>#### Tensorflow
