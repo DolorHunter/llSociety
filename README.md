@@ -148,6 +148,12 @@ __________
 >### Tutorial
 >>#### Linux
 >>>[Tutorial] [彻底删除Ubuntu EFI分区及启动项](https://blog.csdn.net/mtllyb/article/details/78635757)
+>>>
+>>>[Tutorial] [更改grub配置以缩短启动时间](http://os.51cto.com/art/201810/584994.htm)
+>>>
+>>>[Tutorial] [Ubuntu18.04启用中文输入法](https://blog.csdn.net/qq_27211927/article/details/80877684)
+>>>
+>>>[Tutorial] [Ubuntu手机usb<共享网络>上网](https://blog.csdn.net/potian79/article/details/45066549)
 >>
 >>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
