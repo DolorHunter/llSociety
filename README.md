@@ -154,6 +154,8 @@ __________
 >>>[Tutorial] [Ubuntu18.04启用中文输入法](https://blog.csdn.net/qq_27211927/article/details/80877684)
 >>>
 >>>[Tutorial] [Ubuntu手机usb(共享网络)上网](https://blog.csdn.net/potian79/article/details/45066549)
+>>>
+>>>[Tutorial] [win10 ubuntu 双系统共用蓝牙鼠标](https://blog.csdn.net/10km/article/details/61201268)
 >>
 >>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
