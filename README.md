@@ -3,7 +3,7 @@
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
 [![Yellowpage](https://img.shields.io/badge/llSociety-Yellowpage-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety)
 [![Contributor](https://img.shields.io/badge/Contributor-%201-5cc.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/graphs/contributors)
-[![Version](https://img.shields.io/badge/Release-v1.0.5-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
+[![Version](https://img.shields.io/badge/Release-v1.2.6-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
 [![Size](https://img.shields.io/badge/Size-121MB-blueviolet.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
 [![Donate](https://img.shields.io/badge/Coffee-fee-ff69b4.svg?style=flat-square)](https://www.paypal.me/dolor059)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-red.svg?style=flat-square" alt="996.icu"></a>
@@ -158,6 +158,8 @@ __________
 >>>[Tutorial] [win10 ubuntu 双系统共用蓝牙鼠标](https://blog.csdn.net/10km/article/details/61201268)
 >>>
 >>>[GitHub] [Oh My Zsh - 美化终端](https://github.com/robbyrussell/oh-my-zsh)
+>>>
+>>>[Tutorial] [Thunderbird Mail雷鸟账号或密码错误无法登陆/只能收件无法寄件解决](https://blog.csdn.net/dolor_059/article/details/90085498)
 >>
 >>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
