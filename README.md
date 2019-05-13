@@ -86,7 +86,9 @@ __________
 >>[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
 >
 >#### Client
->>[Web] [Project V工具集官网 (核心工具 V2Ray)](https://www.v2ray.com/)
+>>[Web] [(官方)Project V工具集官网 (核心工具 V2Ray)](https://www.v2ray.com/)
+>>
+>>[GitHub] [(民间)V2ray 配置指南](https://github.com/ToutyRater/v2ray-guide)
 >>
 >>[Software] [(官方无GUI)V2ray内核: V2ray core(without GUI)](https://github.com/v2ray/v2ray-core)
 >>
