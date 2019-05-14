@@ -160,6 +160,10 @@ __________
 >>>[GitHub] [Oh My Zsh - 美化终端](https://github.com/robbyrussell/oh-my-zsh)
 >>>
 >>>[Tutorial] [Thunderbird Mail雷鸟账号或密码错误无法登陆/只能收件无法寄件解决](https://blog.csdn.net/dolor_059/article/details/90085498)
+>>>
+>>>[Tutorial] [Swap添加/删除/调整Swappiness](https://www.google.com/amp/s/www.sysgeek.cn/ubuntu-18-04-swap/amp/)
+>>>
+>>>[Tutorail] [How To Add Swap Space on Ubuntu 18.04 | DigitalOcean(可认为是上一条的详细教程)](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
 >>
 >>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
