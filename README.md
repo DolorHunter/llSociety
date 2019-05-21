@@ -96,7 +96,7 @@ __________
 >>
 >>[Software] [(非官方GUI)MacOS设备V2rayX: V2rayX with GUI on MacOS](https://github.com/Cenmrev/V2RayX)
 >>
->>[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://www.youtube.com/channel/UClHivjMLEM-ZqrI3skBPMHw)
+>>[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://bbs.feng.com/read-htm-tid-11696066.html)
 
 ## Resource
 [Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
