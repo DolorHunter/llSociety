@@ -96,7 +96,7 @@ __________
 >>
 >>[Software] [(非官方GUI)MacOS设备V2rayX: V2rayX with GUI on MacOS](https://github.com/Cenmrev/V2RayX)
 >>
->>[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://bbs.feng.com/read-htm-tid-11696066.html)
+>>[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://github.com/XWJACK/Shadowrocket)
 
 ## Resource
 [Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
@@ -163,7 +163,7 @@ __________
 >>>
 >>>[Tutorial] [Swap添加/删除/调整Swappiness](https://www.google.com/amp/s/www.sysgeek.cn/ubuntu-18-04-swap/amp/)
 >>>
->>>[Tutorail] [How To Add Swap Space on Ubuntu 18.04 | DigitalOcean(可认为是上一条的详细教程)](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
+>>>[Tutorail] [How To Add Swap Space on Ubuntu 18.04 - DigitalOcean(可认为是上一条的详细教程)](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
 >>
 >>#### Tensorflow
 >>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
