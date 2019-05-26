@@ -19,28 +19,27 @@ __[fGFW](#fGFW)__
 >
 >__[Client](#Client)__
 
-__[Resource](#Resource)__
->__[Posteducation](#Posteducation)__
+__[Posteducation](#Posteducation)__
+
+__[Forum(BBS)](#Forum)__
+
+__[BookLists](#BookLists)__
+
+__[Tools](#Tools)__
+
+__[Tutorial](#Tutorial)__
+>__[Linux](#Linux)__
 >
->__[Forum(BBS)](#Forum)__
+>__[Tensorflow](#Tensorflow)__
 >
->__[BookLists](#BookLists)__
+>__[Git](#Git)__
 >
->__[Tools](#Tools)__
+>__[Qt](#Qt)__
 >
->__[Tutorial](#Tutorial)__
->>__[Linux](#Linux)__
+>__[Python](#Python)__
+>>__[Tkinter](#Tkinter)__
 >>
->>__[Tensorflow](#Tensorflow)__
->>
->>__[Git](#Git)__
->>
->>__[Qt](#Qt)__
->>
->>__[Python](#Python)__
->>>__[Tkinter](#Tkinter)__
->>>
->>>__[NLTK](#NLTK)__
+>>__[NLTK](#NLTK)__
 
 __________
 
@@ -98,100 +97,97 @@ __________
 >>
 >>[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://github.com/XWJACK/Shadowrocket)
 
-## Resource
-[Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
+### Posteducation
+>[Education] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
 
-[Resource] [PyCharm: Educational Products](https://www.jetbrains.com/education/?fromMenu)
+### Forum
+>[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
+>
+>[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 
-[GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
+### BookLists
+>[GitHub] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
+>
+>[GitHub] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
+>
+>[Web] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
+>
+>[Telegram] [zread (推) - 什么书值得读 📚](https://t.me/zreadpush)
+>
+>[Telegram Bot] [zread机器人 ReadBot(小君) @zreadBot](https://t.me/zread)
+>
+>[Telegram] [文杏馆(藏书分享)](https://t.me/BooksThatMakeYouThink)
+>
+>[Telegram] [书籍共享计划](https://t.me/booksharingplan)
 
->### Posteducation
->>[Resource] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
+### Tools
+>[Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
 >
->### Forum
->>[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
->>
->>[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
+>[Badge] [Shields.io](https://shields.io/)
 >
->### BookLists
->>[GitHub] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
->>
->>[GitHub] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
->>
->>[Web] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
->>
->>[Telegram] [zread (推) - 什么书值得读 📚](https://t.me/zreadpush)
->>
->>[Telegram Bot] [zread机器人 ReadBot(小君) @zreadBot](https://t.me/zread)
->>
->>[Telegram] [文杏馆(藏书分享)](https://t.me/BooksThatMakeYouThink)
->>
->>[Telegram] [书籍共享计划](https://t.me/booksharingplan)
+>[Tools] [Aconvert.com](https://www.aconvert.com/cn/)
 >
->### Tools
->>[Resource] [Shields.io](https://shields.io/)
+>[Tools] [开发工具箱 ToolBox](http://www.box3.cn/)
+>
+>[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
+>
+>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
+>
+>[Web] [Google Website Analytics](https://analytics.google.com/)
+>
+>[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
+>
+>[Tools] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
+>
+>[GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
+
+### Tutorial
+>#### Linux
+>>[Tutorial] [彻底删除Ubuntu EFI分区及启动项](https://blog.csdn.net/mtllyb/article/details/78635757)
 >>
->>[Resource] [Aconvert.com](https://www.aconvert.com/cn/)
+>>[Tutorial] [更改grub配置以缩短启动时间](http://os.51cto.com/art/201810/584994.htm)
 >>
->>[Tools] [开发工具箱 ToolBox](http://www.box3.cn/)
+>>[Tutorial] [Ubuntu18.04启用中文输入法](https://blog.csdn.net/qq_27211927/article/details/80877684)
 >>
->>[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
+>>[Tutorial] [Ubuntu手机usb(共享网络)上网](https://blog.csdn.net/potian79/article/details/45066549)
 >>
->>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
+>>[Tutorial] [win10 ubuntu 双系统共用蓝牙鼠标](https://blog.csdn.net/10km/article/details/61201268)
 >>
->>[Web] [Google Website Analytics](https://analytics.google.com/)
+>>[GitHub] [Oh My Zsh - 美化终端](https://github.com/robbyrussell/oh-my-zsh)
+>>
+>>[Tutorial] [Thunderbird Mail雷鸟账号或密码错误无法登陆/只能收件无法寄件解决](https://blog.csdn.net/dolor_059/article/details/90085498)
+>>
+>>[Tutorial] [Swap添加/删除/调整Swappiness](https://www.google.com/amp/s/www.sysgeek.cn/ubuntu-18-04-swap/amp/)
+>>
+>>[Tutorail] [How To Add Swap Space on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
+>
+>#### Tensorflow
+>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+>>
+>#### Git
+>>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+>>
+>>[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
 >>
 >>[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
 >>
->>[Tools] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
+>>[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 >
->### Tutorial
->>#### Linux
->>>[Tutorial] [彻底删除Ubuntu EFI分区及启动项](https://blog.csdn.net/mtllyb/article/details/78635757)
->>>
->>>[Tutorial] [更改grub配置以缩短启动时间](http://os.51cto.com/art/201810/584994.htm)
->>>
->>>[Tutorial] [Ubuntu18.04启用中文输入法](https://blog.csdn.net/qq_27211927/article/details/80877684)
->>>
->>>[Tutorial] [Ubuntu手机usb(共享网络)上网](https://blog.csdn.net/potian79/article/details/45066549)
->>>
->>>[Tutorial] [win10 ubuntu 双系统共用蓝牙鼠标](https://blog.csdn.net/10km/article/details/61201268)
->>>
->>>[GitHub] [Oh My Zsh - 美化终端](https://github.com/robbyrussell/oh-my-zsh)
->>>
->>>[Tutorial] [Thunderbird Mail雷鸟账号或密码错误无法登陆/只能收件无法寄件解决](https://blog.csdn.net/dolor_059/article/details/90085498)
->>>
->>>[Tutorial] [Swap添加/删除/调整Swappiness](https://www.google.com/amp/s/www.sysgeek.cn/ubuntu-18-04-swap/amp/)
->>>
->>>[Tutorail] [How To Add Swap Space on Ubuntu 18.04 - DigitalOcean(可认为是上一条的详细教程)](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
+>#### Qt
+>>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
+>
+>#### Python
+>>[Resource] [effbot](http://effbot.org/)
 >>
->>#### Tensorflow
->>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+>>[Tutorial] [pythonspot](https://pythonspot.com/)
 >>
->>#### Git
->>>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
->>>
->>>[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
->>>
->>>[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
->>>
->>>[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+>>#### Tkinter
+>>>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
 >>
->>#### Qt
->>>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
->>
->>#### Python
->>>[Resource] [effbot](http://effbot.org/)
+>>#### NLTK
+>>>[Tutorial] [pythonspot: NLTK stop words](https://pythonspot.com/nltk-stop-words/)
 >>>
->>>[Tutorial] [pythonspot](https://pythonspot.com/)
->>>
->>>#### Tkinter
->>>>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
->>>
->>>#### NLTK
->>>>[Tutorial] [pythonspot: NLTK stop words](https://pythonspot.com/nltk-stop-words/)
->>>>
->>>>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
+>>>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
 
 ---
 
