@@ -98,6 +98,8 @@ __________
 
 ### Posteducation
 >[Education] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
+>
+>[Education] [导师评价网](https://www.mysupervisor.org/)
 
 ### Forum
 >[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
