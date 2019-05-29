@@ -5,8 +5,6 @@
 [![Size](https://img.shields.io/badge/Size-174MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
 
-**[TOP] [Software] [学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)**
-
 ______
 
 ## Catalogue
@@ -122,6 +120,8 @@ __________
 >[Telegram] [书籍共享计划](https://t.me/booksharingplan)
 
 ### Tools
+>[GitHub] [学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
+>
 >[Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
 >
 >[Badge] [Shields.io](https://shields.io/)
