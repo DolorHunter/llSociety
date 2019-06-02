@@ -5,18 +5,20 @@
 [![Size](https://img.shields.io/badge/Size-174MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
 
-## Catalogue
+### Catalogue
 
 Tutorial|Education|fGFW
 ----|----|----
-__[Linux](#Linux)__|__[Posteducation](#Posteducation)__|__[Server](#Server)__
+__[Linux](#Linux)__|__[PostGraduate](#PostGraduate)__|__[Server](#Server)__
 __[Tensorflow](#Tensorflow)__|__[Education Package](#EducationPackage)__|__[Client](#Client)__
 __[Python](#Python)__|__[BookLists](#BookLists)__|
 __[Qt](#Qt)__|__[Tools](#Tools)__|
 __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 
 ### Tutorial
+
 #### Linux
+
 >[Tutorial] [彻底删除Ubuntu EFI分区及启动项](https://blog.csdn.net/mtllyb/article/details/78635757)
 >
 >[Tutorial] [更改grub配置以缩短启动时间](http://os.51cto.com/art/201810/584994.htm)
@@ -34,26 +36,36 @@ __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 >[Tutorial] [Swap添加/删除/调整Swappiness](https://www.google.com/amp/s/www.sysgeek.cn/ubuntu-18-04-swap/amp/)
 >
 >[Tutorail] [How To Add Swap Space on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
+>
 
 #### Tensorflow
+
 >[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 >
+
 #### Python
+
 >[Resource] [effbot](http://effbot.org/)
 >
 >[Tutorial] [pythonspot](https://pythonspot.com/)
 >
 >#### NLTK
+>
 >>[Tutorial] [pythonspot: NLTK stop words](https://pythonspot.com/nltk-stop-words/)
 >>
 >>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
+>
 >#### Tkinter
+>
 >>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
+>>
 
 #### Qt
+
 [Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
 
 #### Git
+
 [Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 [Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
@@ -62,13 +74,14 @@ __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 
 [Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
-### Posteducation
+### PostGraduate
+
 [Education] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
 
 [Education] [导师评价网](https://www.mysupervisor.org/)
 
+### EducationPackage
 
-## EducationPackage
 [Web] [GitHub: Student Developer Pack](https://education.github.com/pack)
 
 [Web] [JetBrains Toolbox 专业开发工具学生免费授权计划](https://www.jetbrains.com/zh/student/)
@@ -94,6 +107,7 @@ __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 [Web] [Autodesk Sketchbook](https://sketchbook.com/education)
 
 ### BookLists
+
 [GitHub] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
 
 [GitHub] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
@@ -109,6 +123,7 @@ __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 [Telegram] [书籍共享计划](https://t.me/booksharingplan)
 
 ### Tools
+
 [GitHub] [学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
 
 [Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
@@ -132,13 +147,15 @@ __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 [GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
 
 ### Forum
+
 [bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
 
 [bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 
+### fGFW
 
-## fGFW
 #### Server
+
 >[Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
 >
 >[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
@@ -150,8 +167,10 @@ __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 >[Tutorial] [[原生]服务器搭建V2ray](https://toutyrater.github.io/prep/install.html)
 >
 >[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
+>
 
 #### Client
+
 >[Web] [(官方)Project V工具集官网 (核心工具 V2Ray)](https://www.v2ray.com/)
 >
 >[GitHub] [(民间)V2ray 配置指南](https://github.com/ToutyRater/v2ray-guide)
@@ -165,6 +184,7 @@ __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 >[Software] [(非官方GUI)MacOS设备V2rayX: V2rayX with GUI on MacOS](https://github.com/Cenmrev/V2RayX)
 >
 >[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://github.com/XWJACK/Shadowrocket)
+>
 
 ---
 
