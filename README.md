@@ -14,6 +14,7 @@ __[Tensorflow](#Tensorflow)__|__[Education Package](#EducationPackage)__|__[Clie
 __[Python](#Python)__|__[BookLists](#BookLists)__|
 __[Qt](#Qt)__|__[Tools](#Tools)__|
 __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
+__[MachineLearning](#MachineLearning)__| |
 
 ### Tutorial
 
@@ -73,6 +74,10 @@ __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 [Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
 
 [Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+#### MachineLearning
+
+[Vedio Tutorial] [Google ML course - 谷歌机器学习课程](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn)
 
 ### PostGraduate
 
