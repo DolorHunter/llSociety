@@ -84,6 +84,8 @@ __[LeTeX](#LeTeX)__| |
 
 [Document] [texlive-zh-cn.pdf](https://www.tug.org/texlive/doc/texlive-zh-cn/texlive-zh-cn.pdf)
 
+[Video Tutorial] [LaTeX Tutorial](https://www.youtube.com/watch?v=VhmkLrOjLsw)
+
 ### PostGraduate
 
 [Education] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
