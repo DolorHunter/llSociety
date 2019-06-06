@@ -86,6 +86,8 @@ __[LeTeX](#LeTeX)__| |
 
 [Video Tutorial] [LaTeX Tutorial](https://www.youtube.com/watch?v=VhmkLrOjLsw)
 
+## Education
+
 ### PostGraduate
 
 [Education] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
