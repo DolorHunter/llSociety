@@ -15,7 +15,7 @@ __[Python](#Python)__|__[BookLists](#BookLists)__|
 __[Qt](#Qt)__|__[Tools](#Tools)__|
 __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 __[MachineLearning](#MachineLearning)__| |
-__[LeTeX](#LeTeX)__| |
+__[LaTeX](#LaTeX)__| |
 
 ### Tutorial
 
@@ -80,7 +80,7 @@ __[LeTeX](#LeTeX)__| |
 
 [Vedio Tutorial] [Google ML course - 谷歌机器学习课程](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn)
 
-#### LeTeX
+#### LaTeX
 
 [Document] [texlive-zh-cn.pdf](https://www.tug.org/texlive/doc/texlive-zh-cn/texlive-zh-cn.pdf)
 
