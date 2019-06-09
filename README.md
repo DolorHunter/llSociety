@@ -187,7 +187,7 @@ __[LaTeX](#LaTeX)__| |
 
 #### Client
 
->[Web] [(官方)Project V工具集官网 (核心工具 V2Ray)](https://www.v2ray.com/)
+>[Document] [Project V (v2ray)官方文档](https://www.v2ray.com/)
 >
 >[GitHub] [(民间)V2ray 配置指南](https://github.com/ToutyRater/v2ray-guide)
 >
