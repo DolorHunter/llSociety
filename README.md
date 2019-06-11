@@ -162,6 +162,8 @@ __[LaTeX](#LaTeX)__| |
 
 [GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
 
+[Web] [Adobe Flash Player (tw)](https://get.adobe.com/tw/flashplayer/)
+
 ### Forum
 
 [bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
