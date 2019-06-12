@@ -164,6 +164,8 @@ __[LaTeX](#LaTeX)__| |
 
 [Web] [Adobe Flash Player (tw)](https://get.adobe.com/tw/flashplayer/)
 
+[Web] [emojipedia](https://emojipedia.org/)
+
 ### Forum
 
 [bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
