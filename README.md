@@ -158,13 +158,15 @@ __[LaTeX](#LaTeX)__| |
 
 [Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
 
-[Tools] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
+[Software] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
 
 [GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
 
 [Web] [Adobe Flash Player (tw)](https://get.adobe.com/tw/flashplayer/)
 
 [Web] [emojipedia](https://emojipedia.org/)
+
+[Web] [外文姓名中譯英系統 - 台湾外交部领事事务局](https://www.boca.gov.tw/sp-natr-singleform-1.html)
 
 ### Forum
 
