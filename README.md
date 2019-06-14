@@ -174,6 +174,8 @@ __[LaTeX](#LaTeX)__| |
 
 [bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 
+[bbs] [香港討論區](https://www.discuss.com.hk/)
+
 ### fGFW
 
 #### Server
