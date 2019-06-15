@@ -94,7 +94,7 @@ __[LaTeX](#LaTeX)__| |
 
 [Education] [导师评价网](https://www.mysupervisor.org/)
 
-[Education] [Good Luck TOEFL](http://www.goodlucktoefl.com/)
+[Education] [Good Luck TOEFL - Free Sample TOEFL Essays](http://www.goodlucktoefl.com/free-sample-toefl-essays.html)
 
 ### EducationPackage
 
