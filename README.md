@@ -42,6 +42,8 @@ __[LaTeX](#LaTeX)__| |
 
 #### Tensorflow
 
+>[MOOC] [人工智能实践 Tensorflow笔记 北大曹健](https://www.icourse163.org/course/PKU-1002536002)
+>
 >[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 >
 
