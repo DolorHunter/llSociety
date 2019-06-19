@@ -82,6 +82,8 @@ __[LaTeX](#LaTeX)__| |
 
 [Vedio Tutorial] [Google ML course - 谷歌机器学习课程](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn)
 
+[Web] [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/)
+
 #### LaTeX
 
 [Document] [texlive-zh-cn.pdf](https://www.tug.org/texlive/doc/texlive-zh-cn/texlive-zh-cn.pdf)
