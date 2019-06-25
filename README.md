@@ -46,6 +46,8 @@ __[LaTeX](#LaTeX)__| |
 >
 >[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 >
+>[Web] [Tensorflow官方文档 - W3Cschool](https://www.w3cschool.cn/tensorflow_python/)
+>
 
 #### Python
 
@@ -82,7 +84,11 @@ __[LaTeX](#LaTeX)__| |
 
 [Vedio Tutorial] [Google ML course - 谷歌机器学习课程](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn)
 
-[Web] [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/)
+[Note] [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/)
+
+[Note] [吴恩达 - 斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/)
+
+[Document] [Tensorflow API r1.14(stable)](https://www.tensorflow.org/api_docs/python/tf)
 
 #### LaTeX
 
