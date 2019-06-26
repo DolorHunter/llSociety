@@ -10,11 +10,10 @@
 Tutorial|Education|fGFW
 ----|----|----
 __[Linux](#Linux)__|__[PostGraduate](#PostGraduate)__|__[Server](#Server)__
-__[Tensorflow](#Tensorflow)__|__[Education Package](#EducationPackage)__|__[Client](#Client)__
+__[MachineLearning](#MachineLearning)__|__[Education Package](#EducationPackage)__|__[Client](#Client)__
 __[Python](#Python)__|__[BookLists](#BookLists)__|
 __[Qt](#Qt)__|__[Tools](#Tools)__|
 __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
-__[MachineLearning](#MachineLearning)__| |
 __[LaTeX](#LaTeX)__| |
 
 ### Tutorial
@@ -40,14 +39,23 @@ __[LaTeX](#LaTeX)__| |
 >[Tutorail] [How To Add Swap Space on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
 >
 
-#### Tensorflow
+#### MachineLearning
 
->[MOOC] [人工智能实践 Tensorflow笔记 北大曹健](https://www.icourse163.org/course/PKU-1002536002)
+>[Vedio Tutorial] [Google ML course - 谷歌机器学习课程](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn)
 >
->[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+>[Note] [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/)
 >
->[Web] [Tensorflow官方文档 - W3Cschool](https://www.w3cschool.cn/tensorflow_python/)
+>[Note] [吴恩达 - 斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/)
 >
+>#### Tensorflow
+>>
+>>[MOOC] [人工智能实践 Tensorflow笔记 北大曹健](https://www.icourse163.org/course/PKU-1002536002)
+>>
+>>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+>>
+>>[Doc] [Tensorflow API r1.14(stable)](https://www.tensorflow.org/api_docs/python/tf)
+>>
+>>[Doc] [Tensorflow官方文档 [汉化版] - W3Cschool](https://www.w3cschool.cn/tensorflow_python/)
 
 #### Python
 
@@ -68,33 +76,25 @@ __[LaTeX](#LaTeX)__| |
 
 #### Qt
 
-[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
+>[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
+>
+>[Doc] [Qt Documentation v5.13](https://doc.qt.io/qt-5/index.html)
 
 #### Git
 
-[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-
-[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
-
-[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
-
-[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-
-#### MachineLearning
-
-[Vedio Tutorial] [Google ML course - 谷歌机器学习课程](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn)
-
-[Note] [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/)
-
-[Note] [吴恩达 - 斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/)
-
-[Document] [Tensorflow API r1.14(stable)](https://www.tensorflow.org/api_docs/python/tf)
+>[Tutorial] [Git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+>
+>[Tutorial] [Git的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
+>
+>[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
+>
+>[Vedio Tutorial] [Youtube: Git and GitHub to Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 #### LaTeX
 
-[Document] [texlive-zh-cn.pdf](https://www.tug.org/texlive/doc/texlive-zh-cn/texlive-zh-cn.pdf)
-
-[Video Tutorial] [LaTeX Tutorial](https://www.youtube.com/watch?v=VhmkLrOjLsw)
+>[Doc] [texlive-zh-cn.pdf](https://www.tug.org/texlive/doc/texlive-zh-cn/texlive-zh-cn.pdf)
+>
+>[Video Tutorial] [LaTeX Tutorial](https://www.youtube.com/watch?v=VhmkLrOjLsw)
 
 ## Education
 
@@ -205,7 +205,7 @@ __[LaTeX](#LaTeX)__| |
 
 #### Client
 
->[Document] [Project V (v2ray)官方文档](https://www.v2ray.com/)
+>[Doc] [Project V (v2ray)官方文档](https://www.v2ray.com/)
 >
 >[GitHub] [(民间)V2ray 配置指南](https://github.com/ToutyRater/v2ray-guide)
 >
