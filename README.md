@@ -7,12 +7,12 @@
 
 ### Catalogue
 
-Tutorial|Education|fGFW
+Tutorial|Education|fxxk
 ----|----|----
-__[Linux](#Linux)__|__[PostGraduate](#PostGraduate)__|__[Server](#Server)__
-__[MachineLearning](#MachineLearning)__|__[Education Package](#EducationPackage)__|__[Client](#Client)__
-__[Python](#Python)__|__[BookLists](#BookLists)__|
-__[Qt](#Qt)__|__[Tools](#Tools)__|
+__[Linux](#Linux)__|__[PostGraduate](#PostGraduate)__|__[fGFW](#fGFW)__
+__[MachineLearning](#MachineLearning)__|__[Education Package](#EducationPackage)__|__[Fxxk-XueXiQiangGuo](#Fxxk-XueXiQiangGuo)__
+__[Python](#Python)__|__[BookLists](#BookLists)__|__[Fxxk996](#Fxxk-996)__
+__[Qt](#Qt)__|__[Tools](#Tools)__|__[FxxkMFS](#FxxkMFS)__
 __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 __[LaTeX](#LaTeX)__| |
 
@@ -219,6 +219,48 @@ __[LaTeX](#LaTeX)__| |
 >
 >[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://github.com/XWJACK/Shadowrocket)
 >
+
+### Fxxk-XueXiQiangGuo
+
+[GitHub] [Fxxk-XueXiQiangGuo - Fxxk 学习强国](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
+
+[Github] [Panda_Learning 萌萌的熊猫帮你搞定学习强国](https://github.com/Alivon/Panda-Learning)
+
+### Fxxk-996
+
+[Web] [996.icu](https://996.icu/)
+
+[GitHub] [Anti-996 License](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+[GitHub] [996.icu](https://github.com/996icu/996.ICU)
+
+[GitHub] [955.WLB 955公司白名单，旨在让更多的人逃离 996，加入 955 的行列](https://github.com/formulahendry/955.WLB)
+
+[GitHub] [996.LIST 此repo为996和955的匿名投票列表](https://github.com/fengT-T/996_list)
+
+[GitHub] [996.YAOCL Yet Another Overtime Corps List, 另外一个匿名投票列表](https://github.com/boycott996/yaocl)
+
+[GitHub] [996.law 面向所有劳动者的一份劳动仲裁与劳动诉讼的攻略手册](https://github.com/CPdogson/996.law)
+
+[GitHub] [996.Leave 介绍与鼓励海外工作](https://github.com/623637646/996.Leave)
+
+[GitHub] [996.RIP 企业可能会忘，但我们不会忘](https://996.rip/)
+
+[GitHub] [996.Petition 向相关政府主管单位投递公开信，请求主管单位采取行动](https://github.com/xokctah/996.petition)
+
+[GitHub] [996.action 强调用行动抗议996的板块](https://github.com/CPdogson/996action)
+
+[GitHub] [996.avengers 旨在各大招聘网站标记996.ICU和955.WLB上榜公司](https://github.com/996-icu-avengers/Natasha)\
+
+[GitHub] [996.OD 程序员长期996导致的职业病](https://github.com/zheolong/996.OD.git)
+
+[GitHub] [support.996.ICU 微软与GitHub员工自发组织 实名签名 支持 996.ICU](https://github.com/msworkers/support.996.ICU)
+
+[GitHub] [699cn 一键存证微信小程序](https://github.com/996-699/996.699)
+
+### FxxkMFS
+
+[GitHub] [FxxkMFS - 去xx的取证](https://github.com/HiedaNaKan/FuckMFS)
 
 ---
 
