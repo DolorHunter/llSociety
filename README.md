@@ -272,7 +272,7 @@ __[LaTeX](#LaTeX)__| |
 
 ### LiveStreamTV
 
-[Resorse] [最新节目单整理/如何导入节目单/自制节目单制作方法](https://github.com/DolorHunter/llSociety/tree/master/livestreamTV)
+[Resorse] [最新节目单整理/如何导入节目单/自制节目单制作方法](https://github.com/DolorHunter/llSociety/tree/master/LiveStreamTV)
 
 [Tutorial] [[教程] 用youtube-dl制作节目单(直播源/电视源/m3u8)](https://blog.csdn.net/dolor_059/article/details/93887228)
 
