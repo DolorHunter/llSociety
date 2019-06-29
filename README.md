@@ -11,8 +11,8 @@ Tutorial|Education|fxxk
 ----|----|----
 __[Linux](#Linux)__|__[PostGraduate](#PostGraduate)__|__[fGFW](#fGFW)__
 __[MachineLearning](#MachineLearning)__|__[Education Package](#EducationPackage)__|__[Fxxk-XueXiQiangGuo](#Fxxk-XueXiQiangGuo)__
-__[Python](#Python)__|__[BookLists](#BookLists)__|__[Fxxk996](#Fxxk-996)__
-__[Qt](#Qt)__|__[Tools](#Tools)__|__[FxxkMFS](#FxxkMFS)__
+__[Python](#Python)__|__[BookLists](#BookLists)__|__[Fxxk-996](#Fxxk-996)__
+__[Qt](#Qt)__|__[Tools](#Tools)__|__[Fxxk-MFS](#Fxx-kMFS)__
 __[Git](#Git)__|__[Forum(BBS)](#Forum)__|
 __[LaTeX](#LaTeX)__| |
 
@@ -258,7 +258,7 @@ __[LaTeX](#LaTeX)__| |
 
 [GitHub] [699cn 一键存证微信小程序](https://github.com/996-699/996.699)
 
-### FxxkMFS
+### Fxxk-MFS
 
 [GitHub] [FxxkMFS - 去xx的取证](https://github.com/HiedaNaKan/FuckMFS)
 
