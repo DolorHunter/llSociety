@@ -5,7 +5,7 @@
 [![Size](https://img.shields.io/badge/Size-174MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
 
-### Catalogue
+### Index
 
 Tutorial|Education|fxxk
 ----|----|----
@@ -205,19 +205,25 @@ __[LaTeX](#LaTeX)__| |
 
 #### Client
 
->[Doc] [Project V (v2ray)官方文档](https://www.v2ray.com/)
+>[Doc] [v2ray - 官方文档](https://www.v2ray.com/)
+>
+>[Doc] [v2ray - 配置指南](https://toutyrater.github.io/)
+>
+> [GitHub] [v2ray 配置模板](https://github.com/KiriKira/vTemplate)
 >
 >[GitHub] [(民间)V2ray 配置指南](https://github.com/ToutyRater/v2ray-guide)
 >
->[Software] [(官方无GUI)V2ray内核: V2ray core(without GUI)](https://github.com/v2ray/v2ray-core)
+>[GitHub] [(官方无GUI)V2ray内核: V2ray core(without GUI)](https://github.com/v2ray/v2ray-core)
 >
->[Software] [2dustGUI(非官方)Windows设备V2rayN: V2rayN with GUI on windows](https://github.com/2dust/v2rayN)
+>[GitHub] [2dustGUI(非官方)Windows设备V2rayN: V2rayN with GUI on windows](https://github.com/2dust/v2rayN)
 >
->[Software] [2dustGUI(非官方)安卓设备V2rayNG: V2rayNG with GUI on Android](https://github.com/2dust/v2rayNG)
+>[GitHub] [2dustGUI(非官方)安卓设备V2rayNG: V2rayNG with GUI on Android](https://github.com/2dust/v2rayNG)
 >
->[Software] [(非官方GUI)MacOS设备V2rayX: V2rayX with GUI on MacOS](https://github.com/Cenmrev/V2RayX)
+>[GitHub] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://github.com/XWJACK/Shadowrocket)
 >
->[Software] [iOS设备推荐Shadowsocks: Shadowsocks with GUI on iOS](https://github.com/XWJACK/Shadowrocket)
+>[GitHub] [(非官方GUI)MacOS设备V2rayX: V2rayX with GUI on MacOS](https://github.com/Cenmrev/V2RayX)
+>
+>[GitHub] [(非官方GUI)MacOS设备V2rayX: V2rayU with GUI on MacOS](https://github.com/yanue/V2rayU)
 >
 
 ### Fxxk-XueXiQiangGuo
