@@ -12,7 +12,7 @@ Tutorial|Education|fxxk
 __[Linux](#Linux)__|__[PostGraduate](#PostGraduate)__|__[fGFW](#fGFW)__
 __[MachineLearning](#MachineLearning)__|__[Education Package](#EducationPackage)__|__[Fxxk-XueXiQiangGuo](#Fxxk-XueXiQiangGuo)__
 __[Python](#Python)__|__[BookLists](#BookLists)__|__[Fxxk-996](#Fxxk-996)__
-__[Qt](#Qt)__|__[Tools](#Tools)__|__[Fxxk-MFS](#Fxx-kMFS)__
+__[Qt](#Qt)__|__[Tools](#Tools)__|__[Fxxk-MFS](#Fxxk-MFS)__
 __[Git](#Git)__|__[Forum(BBS)](#Forum)__|__[Live Stream TV](#LiveStreamTV)__
 __[LaTeX](#LaTeX)__| |
 
