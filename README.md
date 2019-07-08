@@ -13,7 +13,7 @@ __[Linux](#Linux)__|__[PostGraduate](#PostGraduate)__|__[fGFW](#fGFW)__
 __[MachineLearning](#MachineLearning)__|__[Education Package](#EducationPackage)__|__[Fxxk-XueXiQiangGuo](#Fxxk-XueXiQiangGuo)__
 __[Python](#Python)__|__[BookLists](#BookLists)__|__[Fxxk-996](#Fxxk-996)__
 __[Qt](#Qt)__|__[Tools](#Tools)__|__[Fxxk-MFS](#Fxxk-MFS)__
-__[Git](#Git)__|__[Forum(BBS)](#Forum)__|__[Live Stream TV](#LiveStreamTV)__
+__[Git](#Git)__|__[Forum(BBS)](#Forum)__|__[Live-TV](#Live-TV)__
 __[LaTeX](#LaTeX)__| |
 
 ### Tutorial
@@ -270,9 +270,9 @@ __[LaTeX](#LaTeX)__| |
 
 [GitHub] [FxxkMFS - 去xx的取证](https://github.com/HiedaNaKan/FuckMFS)
 
-### LiveStreamTV
+### Live-TV
 
-[Resorse] [最新节目单整理/如何导入节目单/自制节目单制作方法](https://github.com/DolorHunter/llSociety/tree/master/LiveStreamTV)
+[Resorse] [最新节目单整理/如何导入节目单/自制节目单制作方法](https://github.com/DolorHunter/llSociety/tree/master/LiveTV)
 
 [Tutorial] [[教程] 用youtube-dl制作节目单(直播源/电视源/m3u8)](https://blog.csdn.net/dolor_059/article/details/93887228)
 
