@@ -53,14 +53,18 @@ __[制作我的节目单](#制作我的节目单)__
 
 `刚刚用了试了you-get方法和网页原始码的方法都不太成功. 我讲讲我刚刚研究出来的可行的办法好了.`
 
-**[注意]: 需要全程挂全局代理!!** (全局登天系统使用SSTap的Sock5连接127.0.0.1:1080创造全局环境)
+*发现Youtube会一直更新源的信息, 看来要用youtube-dl实时获取新的m3u8..*
 
-0. 下载youtube-dl / vlc 等. 如果不是从pip下载可能要添加一下环境变量.
+*有知道怎么弄的朋友麻烦告诉我. 多谢!!*
 
-1. cmd/pwsh: 输入命令youtube-dl --list-formats https://www.youtube.com/watch\?v\=_Gtc-GtLlTk(改成想要的网站)
+~~ ** [注意]: 需要全程挂全局代理!!** (全局登天系统使用SSTap的Sock5连接127.0.0.1:1080创造全局环境) ~~
 
-2. 然后出来一些直播源的信息, 然后选一个执行命令: youtube-dl -f 95 -g https://www.youtube.com/watch\?v\=_Gtc-GtLlTk(相同的网站)
+~~ 0. 下载youtube-dl / vlc 等. 如果不是从pip下载可能要添加一下环境变量. ~~
 
-3. 之后就会获得.m3u8的直播源信息. 然后去vlc测试一下能不能看. 我这边测了几个都ok.
+~~ 1. cmd/pwsh: 输入命令youtube-dl --list-formats https://www.youtube.com/watch\?v\=_Gtc-GtLlTk(改成想要的网站) ~~
 
-*写的不是很清楚, 参考这个做的, 你们如果看不懂我写的可以参考一下StackOverflow上的[原始方法](https://stackoverflow.com/questions/35608686/how-can-i-get-the-actual-video-url-of-a-youtube-live-stream).*
+~~ 2. 然后出来一些直播源的信息, 然后选一个执行命令: youtube-dl -f 95 -g https://www.youtube.com/watch\?v\=_Gtc-GtLlTk(相同的网站) ~~
+
+~~ 3. 之后就会获得.m3u8的直播源信息. 然后去vlc测试一下能不能看. 我这边测了几个都ok. ~~
+
+~~ *写的不是很清楚, 参考这个做的, 你们如果看不懂我写的可以参考一下StackOverflow上的[原始方法](https://stackoverflow.com/questions/35608686/how-can-i-get-the-actual-video-url-of-a-youtube-live-stream).* ~~
