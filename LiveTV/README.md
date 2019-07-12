@@ -1,6 +1,10 @@
 # 网络电视直播源整理
 
-**节目源导入电视直播软件节目单即可使用. 节目单均经过测试.**
+- 声明:
+
+*节目源均来源于网络. 其中使用罗宾, Zzlab等不具名用户提供的源, 在此表示感谢!!*
+
+**节目源导入电视直播软件节目单即可使用. 请优先使用时间靠后的节目单. 部分节目单内的源不稳定.**
 
 ## 快速导航
 
@@ -53,18 +57,18 @@ __[制作我的节目单](#制作我的节目单)__
 
 `刚刚用了试了you-get方法和网页原始码的方法都不太成功. 我讲讲我刚刚研究出来的可行的办法好了.`
 
-*发现Youtube会一直更新源的信息, 看来要用youtube-dl实时获取新的m3u8..*
+*突然发现Youtube会一直更新源的信息, 看来要用youtube-dl实时获取新的m3u8..*
 
 *有知道怎么弄的朋友麻烦告诉我. 多谢!!*
 
-~~ ** [注意]: 需要全程挂全局代理!!** (全局登天系统使用SSTap的Sock5连接127.0.0.1:1080创造全局环境) ~~
+~~**[注意]: 需要全程挂全局代理!!** (全局登天系统使用SSTap的Sock5连接127.0.0.1:1080创造全局环境)~~
 
-~~ 0. 下载youtube-dl / vlc 等. 如果不是从pip下载可能要添加一下环境变量. ~~
+~~0. 下载youtube-dl / vlc 等. 如果不是从pip下载可能要添加一下环境变量.~~
 
-~~ 1. cmd/pwsh: 输入命令youtube-dl --list-formats https://www.youtube.com/watch\?v\=_Gtc-GtLlTk(改成想要的网站) ~~
+~~1. cmd/pwsh: 输入命令youtube-dl --list-formats https://www.youtube.com/watch\?v\=_Gtc-GtLlTk(改成想要的网站)~~
 
-~~ 2. 然后出来一些直播源的信息, 然后选一个执行命令: youtube-dl -f 95 -g https://www.youtube.com/watch\?v\=_Gtc-GtLlTk(相同的网站) ~~
+~~2. 然后出来一些直播源的信息, 然后选一个执行命令: youtube-dl -f 95 -g https://www.youtube.com/watch\?v\=_Gtc-GtLlTk(相同的网站)~~
 
-~~ 3. 之后就会获得.m3u8的直播源信息. 然后去vlc测试一下能不能看. 我这边测了几个都ok. ~~
+~~3. 之后就会获得.m3u8的直播源信息. 然后去vlc测试一下能不能看. 我这边测了几个都ok.~~
 
-~~ *写的不是很清楚, 参考这个做的, 你们如果看不懂我写的可以参考一下StackOverflow上的[原始方法](https://stackoverflow.com/questions/35608686/how-can-i-get-the-actual-video-url-of-a-youtube-live-stream).* ~~
+~~*写的不是很清楚, 参考这个做的, 你们如果看不懂我写的可以参考一下StackOverflow上的[原始方法](https://stackoverflow.com/questions/35608686/how-can-i-get-the-actual-video-url-of-a-youtube-live-stream).*~~

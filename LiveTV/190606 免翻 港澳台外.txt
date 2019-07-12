@@ -1,0 +1,182 @@
+港TVB HDzz,http://m.567it.com/jade.m3u8
+港TVB HD1+,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.ts
+港TVB 無線財經資訊HD,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+港凤凰中文台HD+,rtmp://58.200.131.2:1935/livetv/fhzw
+港凤凰资讯台HD3,http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
+港凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
+港星空卫视1,rtmp://58.200.131.2:1935/livetv/startv
+港天映电影频道HD,http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+马天映经典,http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8
+港香港18台,rtmp://wv1.tp33.net/sat/hk041
+港RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+港RHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+台HBO HD,http://125.227.210.37:8895/VideoInput/play.ts
+台HBO SD,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+台FOX电影HD1,http://122.146.68.116:4015/VideoInput/play.ts
+台FOX电影HD2,http://125.227.210.37:8885/VideoInput/play.ts
+台好莱坞电影HD,http://125.227.210.37:8909/VideoInput/play.ts
+台星卫电影HD,http://122.146.68.116:4048/VideoInput/play.ts
+台东森电影HD1,http://122.146.68.116:4035/VideoInput/play.ts
+台东森电影HD2,http://125.227.210.37:8893/VideoInput/play.ts
+台东森洋片HD1,http://122.146.68.116:4010/VideoInput/play.ts 
+台东森洋片HD2,http://125.227.210.37:8889/VideoInput/play.ts
+台东森戏剧HD1,http://122.146.68.116:4011/VideoInput/play.ts
+台东森戏剧HD2,http://125.227.210.37:8910/VideoInput/play.ts
+台东森新闻HD2,http://125.227.210.37:8892/VideoInput/play.ts
+台StarMoviesHD1,http://122.146.68.116:4016/VideoInput/play.ts
+台StarMoviesHD2,http://125.227.210.37:8898/VideoInput/play.ts
+台龍華偶像臺HD,http://ms006.happytv.com.tw/live/jluCtnqIsVG31tpb/index.m3u8?token=ju530-kHHWuKLJKGDmJB2A&time=1554530150195
+台中天综合HD1,http://122.146.68.116:4005/VideoInput/play.ts
+台中天综合HD2,http://125.227.210.37:8888/VideoInput/play.ts
+台中天娱乐HD1,http://122.146.68.116:4007/VideoInput/play.ts
+台中天娱乐HD2,http://125.227.210.37:8907/VideoInput/play.ts
+台中天新闻HD2,http://125.227.210.37:8911/VideoInput/play.ts
+台中天新闻HD3,http://122.146.68.116:4006/VideoInput/play.ts
+台靖天欢乐HD,http://61.58.60.230:9319/live/201.m3u8
+台靖天资讯HD,http://61.58.60.230:9319/live/202.m3u8
+台靖天娱乐HD,http://61.58.60.230:9319/live/204.m3u8
+台靖洋戏剧HD,http://61.58.60.230:9319/live/203.m3u8
+台靖天国际HD,http://61.58.60.230:9319/live/205.m3u8
+台靖洋卡通HD,http://61.58.60.230:9319/live/206.m3u8
+台靖天卡通HD,http://61.58.60.230:9319/live/207.m3u8
+台靖天日本HD,http://61.58.60.230:9319/live/243.m3u8
+台靖天映画HD,http://61.58.60.230:9319/live/244.m3u8
+台卫视卡式台,http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8
+台卫视中文台,http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
+台纬来日本,http://125.227.210.37:8884/VideoInput/play.ts
+台TVBS精采台HD,http://122.146.68.116:4074/VideoInput/play.ts
+台TVB歡樂台HD,http://strn.wowotv.tw/gtlive/tvbsg/chunklist_w607403618.m3u8
+台TVBS新闻HD2,http://125.227.210.37:8899/VideoInput/play.ts
+台视HD,http://122.146.68.116:4077/VideoInput/play.ts
+台民视新闻HD,http://210.61.56.23/hls/ftvtv/index.m3u8
+台三立综合HD,http://122.146.68.116:4075/VideoInput/play.ts
+台三立新闻HD2,http://125.227.210.37:8912/VideoInput/play.ts
+台DiscoveryHD1,http://122.146.68.116:4046/VideoInput/play.ts
+台DiscoveryHD2,http://125.227.210.37:8896/VideoInput/play.ts
+台国家地理杂志HD,http://122.146.68.116:4020/VideoInput/play.ts
+台国家地理杂志SD,rtmp://58.200.131.2:1935/livetv/natlgeo
+台GoodTVHD2,http://live.streamingfast.net/osmflivech3.m3u8
+台GoodTV1,http://live.streamingfast.net/osmflivech1.m3u8
+台GoodTV2,http://live.streamingfast.net/osmflivech2.m3u8
+澳门莲花卫视,rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+澳门卫视,http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+新传媒8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+体广东体育HD,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+体Fox体育HD,http://125.227.210.37:8904/VideoInput/play.ts
+体Bein Sports2HD,http://125.227.210.37:8886/VideoInput/play.ts
+体纬来体育HD,http://125.227.210.37:8897/VideoInput/play.ts
+体博斯魅力 HD,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+体ESPN HD,http://80.80.160.168/live/6/live.m3u8
+体ESPN 2HD,http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+体RED BULL TV HD,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+体SOCCER TV HD,http://45.126.83.51/uq2663/h/h20/index2.m3u8
+体Fight Sport,http://210.210.155.35/uq2663/h/h05/index.m3u8
+音MTV CHINA,http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8
+音MTV LIVE HD,http://iliketot.dyndns.tv/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
+音MTV asian,http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+音Channel V,http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8
+音M2O TV HD,http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+音Radio Monte Carlo,http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+音Music Top (ARG)HD,http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+音Music chanel 18+,http://92.249.129.152/stream/1music.m3u8
+音V2BEAT*,http://de1se01.v2beat.live/playlist.m3u8
+日本動畫ANIPLUS HD,http://45.126.83.51/dr9445/h/h02/01.m3u8
+日本WOWOW MOVIES,http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+日本映画,http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+日本Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+韩MNET HD,http://198.144.156.92:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.M3U8
+韩TVN HD,http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
+韩Chosun HD,http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+韩K PLUS HD,http://45.126.83.51/uq2663/h/h08/01.m3u8
+韩Arirang South Korea HD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩ktv,http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+韩EBS-kids,http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+泰FOX HD,http://iliketot.dyndns.tv/63cbfb466fe644dda11a8e109611a5cd.m3u8
+泰国家地理 HD,http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8
+泰国家地理悠人 HD,http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
+泰野生动物 HD,http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
+泰KIX HD,http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8
+外国家地理HD,http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+外Discovery asia HD,http://220.158.149.14:9999/live/TV00000000000000000114@HHZT;LIVE
+外FASHION MIDNITE HD,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+外FASHION PARIS HD,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+外KIX HD,http://45.126.83.51/uq2663/h/h07/01.m3u8
+外HBO HOME*,http://109.248.236.41:4433/udp/238.1.1.71:1234
+外HBO 2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+外FOX MOVIES COMEDY,http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+外RAI MOVIE,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+外THRILL,http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+外CINEMA WORD,http://210.210.155.35/uq2663/h/h04/index2.m3u8
+外MY CINEMA,http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+外SKY NEWS HD,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+外NBC,http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+外CBS,http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+外CBN,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+外CBC CANADA,http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+外CGTN DOCUMENTARY,http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+伊朗Radio Javan,http://198.98.181.244/live/smil:rjtv.smil/playlist.m3u8
+阿拉伯半岛电视新闻网Al Hurra,http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+阿拉伯半岛电视新闻网CGTN,http://live.cgtn.com/1000a/prog_index.m3u8
+阿拉伯半岛电视台,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+伊拉克 Sharqiya News,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+沙特阿拉伯Masdar TV,http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+阿拉伯联合酋长国Dubai One,http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+内a湖南卫视HD,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+内a東方衛視HD,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+内a江蘇卫视HD,http://ivi.bupt.edu.cn/hls/jshd.m3u8
+内a浙江卫视HD,http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+内北京卫视HD,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+内安徽卫视HD,http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+内黑龙江卫视HD,http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+内深圳卫视HD,http://ivi.bupt.edu.cn/hls/szhd.m3u8
+内广东卫视HD,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+内天津卫视HD,http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+内湖北卫视HD,http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+内CCTV1,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+内CCTV2,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+内CCTV3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+内CCTV4,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+内CCTV5+,http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
+内CCTV6,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+内CCTV7,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+内CCTV8,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+内CCTV9,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+内CCTV10,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+内CCTV11,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+内CCTV13,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+内CCTV14,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+高清电影1,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+高清电影2,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+高清电影3,http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+高清电影4,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+高清电影5,http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+高清电影6,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+高清电影7,http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+高清电影8,http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+高清电影9,http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+高清电影10,http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
+高清电影11,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+高清电影12,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+高清电影13,http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+高清电影14,http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
+女神港片,http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+灵异片,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+周星弛电影台HD,http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+刘德华电影台HD,http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+李连杰电影台HD,http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+葛优电影台HD,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+古惑仔系列,http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+经典剧场,http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+TVB剧普通話,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+武林外传,http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
+懒猫美食,http://dlhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
+七龙珠,http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+蜡笔小新,http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
+火影忍者,http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+名侦探柯南,http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
+一拳超人,http://dlhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+猪猪相声,http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
+宫崎骏动画,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+足球小将,http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8

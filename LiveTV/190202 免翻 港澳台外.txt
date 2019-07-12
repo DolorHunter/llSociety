@@ -1,0 +1,63 @@
+CNN,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+e娱乐,http://dlhls.live.cnlive.com:1935/cdn/eyule/playlist.m3u8
+
+i综艺,http://dlhls.live.cnlive.com:1935/cdn/izongyi/playlist.m3u8
+
+中天新聞,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+
+凤凰中文 HD,http://223.82.250.72/live/fhchinese/1.m3u8
+
+凤凰资讯 HD,http://223.82.250.72/live/fhzixun/1.m3u8
+翡翠台,http://123.207.42.38/tvb.php?type=jade
+TVBJ5-无线财经咨询台,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+TVBJ5-无线财经咨询台,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1412641159_b448000.m3u8
+1NOWTV,http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8
+香港600新闻,http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
+翡翠台（高清）,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+
+
+卡塔尔半岛台,http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+台湾-壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+
+台湾-民视新闻,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+华视新闻,http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+非凡新闻,http://60.199.188.61/HLS/WG_USTV-N/index.m3u8
+三立都会台,http://60.250.69.26:8080/live/setcity89.m3u8
+壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+中旺电视,http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
+东森新闻,http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
+
+壹新闻,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+
+客家電視,http://61.216.177.73/sta/ch1865024.m3u8
+
+意大利 VIBEE TV,http://139.59.166.48:8081/live/live3/playlist.m3u8
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.135:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.136:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+環球電影頻道,http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+索尼电影,http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+
+翡翠台jade,http://123.207.42.38/tvb.php?type=jade
+香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+鳳凰中文2,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+新加坡8频道,http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
+HBO2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+CNN,http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+CBS,https://www.cbsnews.com/common/video/dai_prod.m3u8
+Cooking Channel,http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+Fox Comedy (Asia),http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+HBO 2 (Dual),http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+加州音悦台,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
+每日影院,http://42.48.60.248:8082/live/gqts-800k.m3u8
+超级电影,http://111.13.42.13/PLTV/88888888/224/3221226133/1.m3u8
+警匪,http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+战争,http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+漫威,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
