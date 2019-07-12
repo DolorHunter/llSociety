@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
 [![Version](https://img.shields.io/badge/Release-v1.7.8-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
-[![Size](https://img.shields.io/badge/Size-212MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
+[![Size](https://img.shields.io/badge/Size-163MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
 
 ### Catalogue
