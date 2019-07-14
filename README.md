@@ -150,8 +150,6 @@ __[LaTeX](#LaTeX)__| |
 
 ### Tools
 
-[GitHub] [学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
-
 [Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
 
 [Badge] [Shields.io](https://shields.io/)
@@ -177,6 +175,10 @@ __[LaTeX](#LaTeX)__| |
 [Web] [emojipedia](https://emojipedia.org/)
 
 [Web] [外文姓名中譯英系統 - 台湾外交部领事事务局](https://www.boca.gov.tw/sp-natr-singleform-1.html)
+
+[Web] [文案翻译](https://i18ns.com/)
+
+[Web] [在线下载/制作动态壁纸](https://dynamicwallpaper.club)
 
 ### Forum
 

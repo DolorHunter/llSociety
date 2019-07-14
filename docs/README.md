@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
 [![Version](https://img.shields.io/badge/Release-v1.7.8-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
-[![Size](https://img.shields.io/badge/Size-212MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
+[![Size](https://img.shields.io/badge/Size-163MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
 
 ### Catalogue
@@ -150,8 +150,6 @@ __[LaTeX](#LaTeX)__| |
 
 ### Tools
 
-[GitHub] [学习强国 懒人刷分](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
-
 [Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
 
 [Badge] [Shields.io](https://shields.io/)
@@ -177,6 +175,10 @@ __[LaTeX](#LaTeX)__| |
 [Web] [emojipedia](https://emojipedia.org/)
 
 [Web] [外文姓名中譯英系統 - 台湾外交部领事事务局](https://www.boca.gov.tw/sp-natr-singleform-1.html)
+
+[Web] [文案翻译](https://i18ns.com/)
+
+[Web] [在线下载/制作动态壁纸](https://dynamicwallpaper.club)
 
 ### Forum
 
