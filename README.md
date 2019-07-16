@@ -190,11 +190,15 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|
 
 #### TOEFL
 
+>[ETS] [ETS 学校代码/送分代码查询 (国内托福报名系统数据缺失, 建议用此查询)](https://www.toeflgoanywhere.org/search-who-accepts-toefl)
+>
 >[TPO] [小站托福TPO 1-54 套卷(含答案)](https://top.zhan.com/toefl/)
 >
->[TOEFL] [考試-兩個月托福111經驗分享（下）- 口语写作模板](https://zefanglinblog.wordpress.com/2017/03/02/%E2%97%8F%E8%80%83%E8%A9%A6-%E5%85%A9%E5%80%8B%E6%9C%88%E6%89%98%E7%A6%8F111%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%EF%BC%88%E4%B8%8B%EF%BC%89/)
+>[Speak/Write] [考試-兩個月托福111經驗分享（下）- 口语写作模板](https://zefanglinblog.wordpress.com/2017/03/02/%E2%97%8F%E8%80%83%E8%A9%A6-%E5%85%A9%E5%80%8B%E6%9C%88%E6%89%98%E7%A6%8F111%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%EF%BC%88%E4%B8%8B%EF%BC%89/)
 >
->[TOEFL] [Good Luck TOEFL - Free Sample TOEFL Essays(Independant)](http://www.goodlucktoefl.com/free-sample-toefl-essays.html)
+>[Write] [托福寫作(一) Integrated Writing - 和Cindy學英文](https://www.youtube.com/watch?v=_qwDxcz1TFo)
+>
+>[Write] [Good Luck TOEFL - Free Sample TOEFL Essays(Independant)](http://www.goodlucktoefl.com/free-sample-toefl-essays.html)
 
 ### fGFW
 
