@@ -182,9 +182,11 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|
 
 ### PostGraduate
 
-[Education] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
+[QSRank] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
 
 [Education] [导师评价网](https://www.mysupervisor.org/)
+
+[ETS] [ETS 学校代码/送分代码查询](https://www.toeflgoanywhere.org/search-who-accepts-toefl)
 
 ### Examination
 
