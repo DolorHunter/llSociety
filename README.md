@@ -158,6 +158,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|
 
 [Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
 
+[Software] [Free Download Manager](https://www.freedownloadmanager.org/zh/)
+
 [Software] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
 
 [GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
