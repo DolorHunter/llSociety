@@ -222,7 +222,12 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|
 >
 >[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
 >
-
+>[Web] [IP端口阻断检测](https://www.toolsdaquan.com/ipcheck/)
+>
+>[Web] [bandwagonhost - Block List Check](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)
+>
+>[Web] [搬瓦工免费更换被封IP：每5周免费更换一次](https://www.bwgyhw.cn/bandwagonhost-change-ip-free-2/)
+>
 #### Client
 
 >[Doc] [v2ray - 官方文档](https://www.v2ray.com/)
