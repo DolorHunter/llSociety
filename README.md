@@ -174,6 +174,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|
 
 [Web] [在线下载/制作动态壁纸](https://dynamicwallpaper.club)
 
+[Web] [电脑/手机4K壁纸搜索引擎](https://wall.alphacoders.com/)
+
 ### Forum
 
 [bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
