@@ -1,7 +1,7 @@
 ﻿# llSociety's Yellowpage
 
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/Release-v1.7.8-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
+[![Version](https://img.shields.io/badge/Release-v2.0.6-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
 [![Size](https://img.shields.io/badge/Size-163MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
 
@@ -13,8 +13,8 @@ __[Linux](#Linux)__|__[Education Package](#EducationPackage)__|__[fGFW](#fGFW)__
 __[MachineLearning](#MachineLearning)__|__[BookLists](#BookLists)__|__[Fxxk-XueXiQiangGuo](#Fxxk-XueXiQiangGuo)__
 __[Python](#Python)__|__[Tools](#Tools)__|__[Fxxk-996](#Fxxk-996)__
 __[Qt](#Qt)__|__[Forum(BBS)](#Forum)__|__[Fxxk-MFS](#Fxxk-MFS)__
-__[Git](#Git)__|__[PostGraduate](#PostGraduate)__|__[Live-TV](#Live-TV)__
-__[LaTeX](#LaTeX)__|__[Examination](#Examination)__|
+__[Git](#Git)__|__[PostGraduate](#PostGraduate)__|__[Fxxk-Pinky](#Fxxk-Pinky)__
+__[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 
 ### Tutorial
 
@@ -158,6 +158,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|
 
 [Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
 
+[Software] [Free Download Manager](https://www.freedownloadmanager.org/zh/)
+
 [Software] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
 
 [GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
@@ -171,6 +173,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|
 [Web] [文案翻译](https://i18ns.com/)
 
 [Web] [在线下载/制作动态壁纸](https://dynamicwallpaper.club)
+
+[Web] [电脑/手机4K壁纸搜索引擎](https://wall.alphacoders.com/)
 
 ### Forum
 
@@ -220,7 +224,12 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|
 >
 >[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
 >
-
+>[Web] [IP端口阻断检测](https://www.toolsdaquan.com/ipcheck/)
+>
+>[Web] [bandwagonhost - Block List Check](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)
+>
+>[Web] [搬瓦工免费更换被封IP：每5周免费更换一次](https://www.bwgyhw.cn/bandwagonhost-change-ip-free-2/)
+>
 #### Client
 
 >[Doc] [v2ray - 官方文档](https://www.v2ray.com/)
@@ -287,6 +296,14 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|
 ### Fxxk-MFS
 
 [GitHub] [FxxkMFS - 去xx的取证](https://github.com/HiedaNaKan/FuckMFS)
+
+### Fxxk-Pinky
+
+[Web] [红岸基金会 - 仿 SCP 模式的强制收容所](https://zhina.red/index.html)
+
+[Wiki] [支纳维基 - 支人支面不支心，纳年纳兔纳些事](https://www.zhina.wiki/)
+
+[Web] [新型敏感词武器：赵弹磁铁](https://react-raw8jx.stackblitz.io/)
 
 ### Live-TV
 
