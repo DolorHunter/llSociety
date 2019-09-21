@@ -208,6 +208,10 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 
 ### fGFW
 
+#### 小白专区
+
+>[Web] [Glyptodon Enterprise主机镜像(5min限时使用)](https://demo.glyptodon.com)
+
 #### Server
 
 >[Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
