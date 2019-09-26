@@ -176,6 +176,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 
 [Web] [电脑/手机4K壁纸搜索引擎](https://wall.alphacoders.com/)
 
+[Web] [超高清壁纸(4K+)](https://wallpapersite.com/)
+
 ### Forum
 
 [bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
