@@ -76,7 +76,7 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 
 #### Qt
 
->[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
+>[Vedio Tutorial] [Youtube: Qt Tutorial : C++ Notepad App](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
 >
 >[Doc] [Qt Documentation v5.13](https://doc.qt.io/qt-5/index.html)
 
