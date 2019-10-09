@@ -178,6 +178,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 
 [Web] [超高清壁纸(4K+)](https://wallpapersite.com/)
 
+[Web] [IDE Color Theme](http://color-themes.com)
+
 ### Forum
 
 [bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
