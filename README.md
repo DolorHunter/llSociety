@@ -248,7 +248,9 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >
 >[GitHub] [(民间)V2ray 配置指南](https://github.com/ToutyRater/v2ray-guide)
 >
->[GitHub] [V2ray内核: V2ray core](https://github.com/v2ray/v2ray-core)
+>[GitHub] [V2ray内核: V2ray-core](https://github.com/v2ray/v2ray-core)
+>
+>[GitHub] [V2ray内核(自由社区版): V2ray-core](https://github.com/v2fly/v2ray-core)
 >
 >[GitHub] [2dust/Windows设备V2rayN: V2rayN with GUI for windows](https://github.com/2dust/v2rayN)
 >
