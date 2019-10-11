@@ -1,8 +1,8 @@
 ﻿# llSociety's Yellowpage
 
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/Release-v2.0.6-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
-[![Size](https://img.shields.io/badge/Size-163MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
+[![Version](https://img.shields.io/badge/Release-v2.1.9-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
+[![Size](https://img.shields.io/badge/Size-186MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/archive/master.zip)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
 
 ### Catalogue
@@ -76,7 +76,7 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 
 #### Qt
 
->[Vedio Tutorial] [Youtube: Qt Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
+>[Vedio Tutorial] [Youtube: Qt Tutorial : C++ Notepad App](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v)
 >
 >[Doc] [Qt Documentation v5.13](https://doc.qt.io/qt-5/index.html)
 
@@ -176,6 +176,10 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 
 [Web] [电脑/手机4K壁纸搜索引擎](https://wall.alphacoders.com/)
 
+[Web] [超高清壁纸(4K+)](https://wallpapersite.com/)
+
+[Web] [IDE Color Theme](http://color-themes.com)
+
 ### Forum
 
 [bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
@@ -244,7 +248,9 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >
 >[GitHub] [(民间)V2ray 配置指南](https://github.com/ToutyRater/v2ray-guide)
 >
->[GitHub] [V2ray内核: V2ray core](https://github.com/v2ray/v2ray-core)
+>[GitHub] [V2ray内核: V2ray-core](https://github.com/v2ray/v2ray-core)
+>
+>[GitHub] [V2ray内核(自由社区版): V2ray-core](https://github.com/v2fly/v2ray-core)
 >
 >[GitHub] [2dust/Windows设备V2rayN: V2rayN with GUI for windows](https://github.com/2dust/v2rayN)
 >
