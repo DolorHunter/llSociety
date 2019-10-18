@@ -2,7 +2,7 @@
 
 - 声明:
 
-*节目源均来源于网络. 其中使用罗宾, Zzlab等不具名用户提供的源, 在此表示感谢!!*
+节目源均来源于网络. 其中使用[罗宾(节目源已停更)](https://www.youtube.com/channel/UClHivjMLEM-ZqrI3skBPMHw), [Zzlab](https://www.youtube.com/channel/UCSRmL8I81f0PSbdJ8ktQOAw), [xuehaijun88](https://github.com/xuehaijun88)等不具名的用户提供的源, 在此表示感谢!!
 
 **节目源导入电视直播软件节目单即可使用. 请优先使用时间靠后的节目单. 部分节目单内的源不稳定.**
 
