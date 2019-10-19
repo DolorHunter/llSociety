@@ -1,0 +1,425 @@
+fox news,http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
+天空新闻,http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
+nhk世界,http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
+寰宇新闻2,http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
+bbc 世界新闻,http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
+靖天国际,http://cloud-play.hhalloy.com/live/cbd38069eb1e8b2c04e356c22baac506.flv
+法国时尚,http://cloud-play.hhalloy.com/live/f737108ad740b942b32d751b0577d534.flv
+luxe tv,http://cloud-play.hhalloy.com/live/5eb27870debdb04d89a6246b163c2da5.flv
+eltv生活英语,http://cloud-play.hhalloy.com/live/094cb0c295f8bde2de59d5f421230dbd.flv
+fx hd,http://cloud-play.hhalloy.com/live/245532ab74af9be852014a93e292f690.flv
+fox crime,http://cloud-play.hhalloy.com/live/833d6cdeed807b755e6c449832b26621.flv
+cnbc,http://cloud-play.hhalloy.com/live/891dfa401663622b29ab70c16ea2273e.flv
+国家地理people,http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
+国家地理野生,http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
+国家地理hd,http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
+bbc earth,http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
+amc日舞,http://cloud-play.hhalloy.com/live/40d0812307cd389be76c358de7f4913e.flv
+wakawaka日本,http://cloud-play.hhalloy.com/live/6fab3a8298ba5097394c5fdcdea8ea81.flv
+boomerang卡通,http://cloud-play.hhalloy.com/live/65796ce70deacc164cf2eb854ad43994.flv
+tvb明珠,http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
+靖洋卡通,http://cloud-play.hhalloy.com/live/8fa63f69fe90ce0597aa6d4b7c262810.flv
+momo亲子台,http://cloud-play.hhalloy.com/live/0c795e6e7f8e067dd4110a57375a71b9.flv
+cn卡通,http://cloud-play.hhalloy.com/live/c865782e4a131efe17651165835ca37e.flv
+animax,http://cloud-play.hhalloy.com/live/33de03293563010671a856688d63d4ee.flv
+迪士尼卡通,http://cloud-play.hhalloy.com/live/198038b134ad459d9cc251038c74685a.flv
+梦工厂动画,http://cloud-play.hhalloy.com/live/aae9c139f056e6c003448ba1e4908ee3.flv
+ifun动漫台,http://cloud-play.hhalloy.com/live/9cd9d87c4ccbf7f28284990a1c3d4569.flv
+曼迪日本台,http://cloud-play.hhalloy.com/live/d9445086fd2dd474087674f638f2a8ed.flv
+baby tv,http://cloud-play.hhalloy.com/live/d7ede3e748413a7ad065d29dbe542149.flv
+my kids,http://cloud-play.hhalloy.com/live/9bb01fa9902e14cd5811f5474283171b.flv
+bbc cbeebies,http://cloud-play.hhalloy.com/live/0a26c9cb6aa09e7a725a4449746baa05.flv
+nick卡通,http://cloud-play.hhalloy.com/live/a81b6e417028b6d72ed3e6ee7c42619b.flv
+东森幼幼,http://cloud-play.hhalloy.com/live/0c0a03db510687f73c455afcc220386b.flv
+龙华动画,http://cloud-play.hhalloy.com/live/4a3c4fbd39ddf82979cf3ecf3cd942c8.flv
+靖天卡通,http://cloud-play.hhalloy.com/live/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv
+animax hd,http://cloud-play.hhalloy.com/live/13b6c6ecbb388c105fd9d98338162abb.flv
+寰宇财经,http://cloud-play.hhalloy.com/live/77c9bab3af161386df16ad9d8a3f3541.flv
+台视财经,http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.flv
+bloomberg tv,http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
+tvb j2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
+有线18台,http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
+游戏竞技,http://cloud-play.hhalloy.com/live/713b1520322a7a59d37acd238a54e91d.flv
+游戏风云,http://cloud-play.hhalloy.com/live/3ff14f02ff5835a577e31e071cae79b4.flv
+华视教育体育文化,http://cloud-play.hhalloy.com/live/f167f80500ab6910a8740ab31e9963c3.flv
+博斯高球1,http://cloud-play.hhalloy.com/live/4870a14ca0496e434825594643eea173.flv
+博斯高球2,http://cloud-play.hhalloy.com/live/9dd0941038e16fd8207f4c485c2fd34b.flv
+博斯魅力,http://cloud-play.hhalloy.com/live/906ff5c1e590fdc0f41744077f56672a.flv
+博斯无限,http://cloud-play.hhalloy.com/live/8c9a98717ee9e5136636c3bedbb852b8.flv
+博斯网球,http://cloud-play.hhalloy.com/live/cf415a2419c61638eefa5eb8c5a65922.flv
+博斯运动2,http://cloud-play.hhalloy.com/live/c71aa3f9ef9e92531a06863b9a731849.flv
+博斯运动1,http://cloud-play.hhalloy.com/live/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
+trace体育,http://cloud-play.hhalloy.com/live/3b88f91a420e6cd59cd034ccf2a05c10.flv
+fox体育,http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.flv
+fox体育2,http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.flv
+欧洲体育,http://cloud-play.hhalloy.com/live/96681c92588f5254e1c9f8fcb41e9d64.flv
+eleven体育plue,http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv
+eleven体育2,http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830b.flv
+fox体育3,http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+纬来体育,http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv
+智林体育,http://cloud-play.hhalloy.com/live/12b7289a05d4cb3c2b79f38b030e2548.flv
+亚洲旅游台,http://cloud-play.hhalloy.com/live/a7003032346b06ad6a610ce1751be6a4.flv
+cnex,http://cloud-play.hhalloy.com/live/a079e0f13033fc06d42cd0e9e40913ee.flv
+crime,http://cloud-play.hhalloy.com/live/3b19a19852e7bdc6b6f238108c94cb82.flv
+动物星球,http://cloud-play.hhalloy.com/live/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
+tlc旅游生活,http://cloud-play.hhalloy.com/live/2389cbac5b421dd5b069a232f3d321bc.flv
+影迷记实台,http://cloud-play.hhalloy.com/live/a1d2d2be053776bb01c1aac37ac2dee4.flv
+美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.flv
+亚洲美食,http://cloud-play.hhalloy.com/live/13e17ff9d96096b87e7902d77452ae76.flv
+smart知识台,http://cloud-play.hhalloy.com/live/641befebabe286484103e2980e05694d.flv
+历史频道,http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
+历史频道2,http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
+outdoor,http://cloud-play.hhalloy.com/live/fa1bc78d17a433dfd3214271efe7e82b.flv
+e!娱乐,http://cloud-play.hhalloy.com/live/284df67673a590b64593e0127029b0b2.flv
+达文西,http://cloud-play.hhalloy.com/live/6d5a837a6f42e9d82be9243e51a91d50.flv
+eye旅游,http://cloud-play.hhalloy.com/live/6d6535e5e44f88df204129354e77b2a7.flv
+travel频道,http://cloud-play.hhalloy.com/live/2f1e104da16f66b93ad4d873326b19eb.flv
+探索频道亚洲,http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
+探索频道,http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.flv
+探索科学,http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.flv
+探索频道dmax,http://cloud-play.hhalloy.com/live/41a76576ae78436eb0951f2aee0c9bda.flv
+bbc lifestyle,http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv
+mtv live,http://cloud-play.hhalloy.com/live/6b59f7f02480efe838fcd91d9ada4f71.flv
+靖天育乐,http://cloud-play.hhalloy.com/live/b4b4eb536ffc346864d2dcc03adedd85.flv
+靖天欢乐,http://cloud-play.hhalloy.com/live/4da43dff7cd731ffb9bbe9a85b029536.flv
+靖天日本,http://cloud-play.hhalloy.com/live/031b3e399e9530310abc135a0b19a8ac.flv
+卫视合家欢,http://cloud-play.hhalloy.com/live/277056149034cc5fb133537bc411c2c9.flv
+国兴卫视,http://cloud-play.hhalloy.com/live/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
+八大第一,http://cloud-play.hhalloy.com/live/5e147a8d04ab43725d40e72fd7169952.flv
+八大娱乐,http://cloud-play.hhalloy.com/live/31c5b2c0fa7ac37b2e1447befb076d08.flv
+mtv,http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
+nhk,http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.flv
+高点育乐,http://cloud-play.hhalloy.com/live/ab3024fd5d5b0e84cbcd0bc0085cf043.flv
+channel v,http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
+blue ant entertainmet,http://cloud-play.hhalloy.com/live/41005bf306743766c5affb055bc5c164.flv
+tvbs欢乐,http://cloud-play.hhalloy.com/live/5e81e3b3e2d8b887db0bc2976558c7ea.flv
+纬来育乐,http://cloud-play.hhalloy.com/live/5cd65f73313b022253084c489a6705c8.flv
+东森超视,http://cloud-play.hhalloy.com/live/47d46d26bba55dd674454ad46c569ffa.flv
+中天娱乐,http://cloud-play.hhalloy.com/live/25ea449d554a16ec584e82d039065e5f.flv
+tvn,http://cloud-play.hhalloy.com/live/060e39b20b7616170ba4ba63c53bc336.flv
+韩国娱乐,http://cloud-play.hhalloy.com/live/8ae61414f7e2972598956105e2e9969d.flv
+星卫娱乐,http://cloud-play.hhalloy.com/live/4c3c2a7fe5ffc33e45bca04f983f02b0.flv
+爱尔达影视,http://cloud-play.hhalloy.com/live/0916fef64c4baab95f7097d001e4c27e.flv
+靖天戏剧,http://cloud-play.hhalloy.com/live/4c3b3fa6235fce99e794a16e096c2e1b.flv
+靖洋戏剧,http://cloud-play.hhalloy.com/live/9294d73fcb67f80e094f8ce6be17c12d.flv
+龙华戏剧,http://cloud-play.hhalloy.com/live/b40ec839440a97d24d0aee0c69d186a1.flv
+龙华偶像,http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
+八大戏剧,http://cloud-play.hhalloy.com/live/6d7d7a9c22ba9aa4e411e3f7567763d8.flv
+warner tv,http://cloud-play.hhalloy.com/live/a645bdeafb1216c23352144c3505bd8c.flv
+axn,http://cloud-play.hhalloy.com/live/c762110b3eef8bcccce5863643dd66aa.flv
+华艺影剧,http://cloud-play.hhalloy.com/live/49d33b7521ceef2115572e8906e9f906.flv
+采昌影剧,http://cloud-play.hhalloy.com/live/b93ac92b703885f3cfe39bad8aa689d1.flv
+itv choice,http://cloud-play.hhalloy.com/live/efd423af0e64fd82c1cc29e909eb4303.flv
+blue ant exterme,http://cloud-play.hhalloy.com/live/7b3b2e1d0006091415635226a2ac5d86.flv
+eye戏剧,http://cloud-play.hhalloy.com/live/69a400e45b6fbd61c8182736ec80e013.flv
+hits,http://cloud-play.hhalloy.com/live/e6d6d3927102ce6e0e99187b52946497.flv
+东森戏剧,http://cloud-play.hhalloy.com/live/17cdea424a288175c834060c58b3bb4e.flv
+龙华影剧,http://cloud-play.hhalloy.com/live/d2e1d697b31906f91d7e19a5f06f64ed.flv
+三立戏剧,http://cloud-play.hhalloy.com/live/bdc9e5f7487003c20223fd67f25c7ee7.flv
+tvb星河,http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
+tvb功夫,http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flv
+靖天映画,http://cloud-play.hhalloy.com/live/4364abb0a9f358049a535f4692cd49b5.flv
+靖天电影,http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.flv
+fox电影hd,http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
+cinemax,http://cloud-play.hhalloy.com/live/9bece52b2f72795cc2f588f3d9e4eed3.flv
+好莱坞电影,http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
+影迷电影,http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
+catchplay电影,http://cloud-play.hhalloy.com/live/65e80e1e0cd763a0302d7aa2a1135b0b.flv
+hbo hits,http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
+hbo signature,http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+hbo family,http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
+龙祥电影,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
+卫视电影,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
+一电影,http://cloud-play.hhalloy.com/live/eb53b692ccbe8c836bc20be6734a9555.flv
+纬来电影,http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
+东森电影,http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.flv
+东森洋片,http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
+龙华电影,http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
+龙华经典,http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
+龙华洋片,http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
+星卫hd电影,http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
+美亚电影,http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
+我的欧洲电影,http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.flv
+卫视洋片台,http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
+cinema world,http://cloud-play.hhalloy.com/live/357252de83720e30d40c00bfba69c497.flv
+diva,http://cloud-play.hhalloy.com/live/2ff14655a982c6d2be2a8b0c5649d257.flv
+hbo hd,http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
+fox家庭电影,http://cloud-play.hhalloy.com/live/440b3d3c474813d7ead7d3a795978e69.flv
+寰宇综合,http://cloud-play.hhalloy.com/live/82b78befe54a601876654e1db3e3741a.flv
+et综合,http://cloud-play.hhalloy.com/live/f6e19af652637cfde3c0f5d34822b4b5.flv
+靖天资讯,http://cloud-play.hhalloy.com/live/e81342a5e0ecde1ee634f19b50fab501.flv
+靖天综合,http://cloud-play.hhalloy.com/live/7a7b662db65f478451144355efa0f02b.flv
+公视,http://cloud-play.hhalloy.com/live/0be9e52678b937320897033d90bb268a.flv
+公视3,http://cloud-play.hhalloy.com/live/514590fdb3ba8e3f2c3a15dd13037f31.flv
+台视,http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flv
+台视综合,http://cloud-play.hhalloy.com/live/a8905b7e88b656b83c0f5d8bf5771430.flv
+华视,http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
+中视,http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
+霹雳台湾,http://cloud-play.hhalloy.com/live/14b736ee363e84918a8c43c69691faaa.flv
+客家卫视,http://cloud-play.hhalloy.com/live/9535868a6a173399d3913cab3bb61675.flv
+原视,http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flv
+life time,http://cloud-play.hhalloy.com/live/d8ab211a4f23fe8e143757d13ade9b32.flv
+八大综合,http://cloud-play.hhalloy.com/live/a26d25ad9eaabca42fa6d526199d61e5.flv
+东风37,http://cloud-play.hhalloy.com/live/0b2e19ee2374470b5dede1013afcb4b5.flv
+三立台湾,http://cloud-play.hhalloy.com/live/e71635b53bb874a085b2a469802bbc81.flv
+三立都会,http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.flv
+年代mach,http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flv
+jet综合,http://cloud-play.hhalloy.com/live/c4fcaea7013c6b1d6aef9f1d0e99871e.flv
+fox hd,http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
+z频道,http://cloud-play.hhalloy.com/live/30a7edb2f6c42bd079dd4910806decde.flv
+高点综合,http://cloud-play.hhalloy.com/live/f11ea1c1918059c58b42c637fa9dc678.flv
+公视2,http://cloud-play.hhalloy.com/live/236c80ba515e5bf302f3db6f4d009914.flv
+亚洲综合,http://cloud-play.hhalloy.com/live/8e08d22adcc7748ceedc31006b55f7de.flv
+中视经典,http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
+my101综合,http://cloud-play.hhalloy.com/live/6c4078ac7601f5787aef2f8b88dd449c.flv
+tvbs,http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flv
+卫视中文,http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
+纬来戏剧,http://cloud-play.hhalloy.com/live/82605f105052ccaef7bb5d55ebc1341d.flv
+纬来日本,http://cloud-play.hhalloy.com/live/8bb9e07d9ed0c8bccd750b0f15206b73.flv
+纬来综合,http://cloud-play.hhalloy.com/live/932044d200ab730968a8f9bc67feaef5.flv
+东森综合,http://cloud-play.hhalloy.com/live/7485194388c0ca1d43a664701afb2ff2.flv
+中天综合,http://cloud-play.hhalloy.com/live/64ce4daa355bd6784904e72fabb7fa3e.flv
+tvbs精彩,http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.flv
+纬来精彩,http://cloud-play.hhalloy.com/live/c311c72c22313d2991be335ea4872f46.flv
+三立综合,http://cloud-play.hhalloy.com/live/16eda25701fe842c519d881c68829ead.flv
+一综合,http://cloud-play.hhalloy.com/live/3cec0560564363facfd892d88b741c62.flv
+tvb翡翠,http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
+TVB新闻,p2p://170.178.164.247:6170/5b448a930006507800029caab508f093.ts
+TVB星河,p2p://170.178.164.247:6170/5b448e730001248d0011be5728c2091d.ts
+华丽台HD,p2p://170.178.164.247:6170/5b448e7100022f9f0011b6cb00e4d4bf.ts
+天映频道HD,p2p://170.178.164.247:6170/5b448e6f000915db0011b0c0e3829c7b.ts
+AEC HD,p2p://170.178.164.247:6170/5b448e6e0004d5df0011abc13c252656.ts
+TVB经典,p2p://170.178.164.247:6170/5b448e6c000e478e0011a65cf5c23aa2.ts
+喜悦台 HD,p2p://170.178.164.247:6170/5b448e6b000960490011a1337689ecc0.ts
+双喜台,p2p://170.178.164.247:6170/5b4491710008d3a5001d707f05094b42.ts
+AOD361,p2p://170.178.164.247:6170/5b449170000258dc001d6aee146259d7.ts
+ASTROHD_双星,p2p://170.178.164.247:6170/5b44916e0008dafb001d64c9d85815e1.ts
+Ria HD,p2p://170.178.164.247:6170/5b448e69000a6c99001199a7739d73cb.ts
+星空卫视,p2p://170.178.164.247:6170/5b448d04000674ba000c261b59da1856.ts
+凤凰电影,p2p://170.178.164.247:6170/5b448d0200076ab6000c1e8adadd6276.ts
+香港卫视,p2p://170.178.164.247:6170/5b448cff00097279000c1357ba708e76.ts
+凤凰香港,p2p://170.178.164.247:6170/5b448cfc000e3f56000c08da3d7f79cf.ts
+凤凰卫视,p2p://170.178.164.247:6170/5b448cfa00078480000bff51f594d758.ts
+凤凰资讯,p2p://170.178.164.247:6170/5b448cf800066cb9000bf7399b50b5cb.ts
+凤凰资讯,p2p://170.178.164.247:6170/5b448bc3000926a6000740e496025b38.ts
+凤凰香港,p2p://170.178.164.247:6170/5b448bc1000c9712000739f56c70ae4f.ts
+凤凰卫视,p2p://170.178.164.247:6170/5b448bc0000058bb000732eb1ad7efc1.ts
+凤凰电影,p2p://170.178.164.247:6170/5b448bbe0007739000072ced47e9d845.ts
+星颖,p2p://170.178.164.247:6170/5b448cd6000329d7000b7194c6f06352.ts
+TVB娱乐新闻,p2p://170.178.164.247:6170/5b448aa20006bbca0002d75df6d14846.ts
+TVB2美版,p2p://170.178.164.247:6170/5b448aa0000a7ba00002d0831372b4b7.ts
+TVB1美版,p2p://170.178.164.247:6170/5b448a9e000dc9460002c98c32a8976d.ts
+TVB星河,p2p://170.178.164.247:6170/5b448a9d0003b9140002c310fafce1bf.ts
+明珠台,p2p://170.178.164.247:6170/5b448a9b00065a1c0002bbeca1c23cdf.ts
+奇妙中文台,p2p://170.178.164.247:6170/5b449174000d4931001d7d5b304a8a2f.ts
+VIU TV,p2p://170.178.164.247:6170/5b448a9900033e460002b351d0ca1986.ts
+无线财经台,p2p://170.178.164.247:6170/5b448a96000f11970002aaa06ecc5ea8.ts
+J2,p2p://170.178.164.247:6170/5b448a950004bbab0002a412dbffb5ec.ts
+翡翠,p2p://170.178.164.247:6170/5b448a91000047c10002934f41cb6082.ts
+香港鬼片,p2p://170.178.164.247:6170/5a586ab5000888b60017649c14f8ccaa.ts
+甄子丹,p2p://170.178.164.247:6170/5a586ab5000ac0760017652dd5418339.ts
+乐视1080P电影,p2p://170.178.164.247:6170/5a586ab500063c1000176405f473e74c.ts
+四大天王,p2p://170.178.164.247:6170/5a586ab50007c5c20017646a414c7b31.ts
+HAPPY,p2p://170.178.164.247:6170/5b448cd10007f264000b5f45f388fd6e.ts
+明珠台,p2p://170.178.164.247:6170/5b448cce00018507000b51e838ff2f51.ts
+VIU TV,p2p://170.178.164.247:6170/5b448cca000724f9000b43b833815ef1.ts
+无线财经台,p2p://170.178.164.247:6170/5b448cc80004ab93000b3b466bab9526.ts
+J2,p2p://170.178.164.247:6170/5b448cc4000c1f7a000b2d8f493a20c8.ts
+无线新闻台,p2p://170.178.164.247:6170/5b448cc1000ec34a000b228438dc768c.ts
+翡翠,p2p://170.178.164.247:6170/5b448cc00002d55e000b1b8ec10db476.ts
+TVB星河,p2p://170.178.164.247:6170/5b448d4c00058de8000d3f20190485e3.ts
+澳门莲花,p2p://170.178.164.247:6170/5b448d06000e20b6000c2fe2c438b21c.ts
+中天综合,p2p://170.178.164.247:6170/5b448ab6000b1df80003269dea2f6276.ts
+中天娱乐,p2p://170.178.164.247:6170/5b448ab5000067d700031ff79ba7a020.ts
+中天亚洲,p2p://170.178.164.247:6170/5b448ab30005f73a0003199343a3a55c.ts
+中天新闻,p2p://170.178.164.247:6170/5b448ab10008ebac00031285e3ce5884.ts
+民视新闻,p2p://170.178.164.247:6170/5b448aaf0007ce1d00030a6cbaabb840.ts
+民视,p2p://170.178.164.247:6170/5b448aad0008d5b1000302df609a74bb.ts
+超视,p2p://170.178.164.247:6170/5b448aab000c532b0002fbf4eb69ddbb.ts
+台视,p2p://170.178.164.247:6170/5b448aa9000d9ca10002f478188a9c00.ts
+公视,p2p://170.178.164.247:6170/5b448aa7000c61140002ec5760977f68.ts
+华视,p2p://170.178.164.247:6170/5b448aa5000eb92c0002e5218bacf6c4.ts
+中视,p2p://170.178.164.247:6170/5b448aa40003a2a20002de6276529b37.ts
+东森综合,p2p://170.178.164.247:6170/5ac2dd06000827e46990c600f51fff67.ts
+乐视中超,p2p://170.178.164.247:6170/5a586ab500063b7d00176405378216fe.ts
+国家地理悠人,p2p://170.178.164.247:6170/5b448b1500005bf3000496f4896802b5.ts
+国家地理音乐,p2p://170.178.164.247:6170/5b448b130003787b00048ff04292d865.ts
+国家地理野生,p2p://170.178.164.247:6170/5b448b1100098e33000489ae17c04fd4.ts
+国家地理,p2p://170.178.164.247:6170/5b448b0f0009ee81000481f76d314a03.ts
+探索频道,p2p://170.178.164.247:6170/5b448b0d0007df8b000479a05064194b.ts
+探索科学,p2p://170.178.164.247:6170/5b448b0b000dcd2900047355b8b537fe.ts
+探索家庭,p2p://170.178.164.247:6170/5b448b0a00020f5900046c6bb5115954.ts
+探索动力,p2p://170.178.164.247:6170/5b448b080002b026000464c43db4306d.ts
+纬莱综合,p2p://170.178.164.247:6170/5b448b060007b6bc00045e3e1eac57d1.ts
+纬莱育乐,p2p://170.178.164.247:6170/5b448b04000713f900045644b26c63f7.ts
+纬莱戏剧,p2p://170.178.164.247:6170/5b448b02000b754100044f93bc89afe8.ts
+纬莱体育,p2p://170.178.164.247:6170/5b448b00000bde4a000447defe1b3755.ts
+纬莱日本,p2p://170.178.164.247:6170/5b448afe000e543e000440af5787096b.ts
+纬莱电影,p2p://170.178.164.247:6170/5b448afc0007f4650004373eda7b4dd8.ts
+历史频道2,p2p://170.178.164.247:6170/5b448afb00014d4d000431a2353665fe.ts
+历史频道,p2p://170.178.164.247:6170/5b448af90001d6c0000429f54086b507.ts
+博斯运动,p2p://170.178.164.247:6170/5b448af70005aa6b00042320f433c322.ts
+博斯高球2台,p2p://170.178.164.247:6170/5b448af5000c0eaf00041cf2e1ebef92.ts
+博斯高球,p2p://170.178.164.247:6170/5b448af40002acab000416a3f895a60b.ts
+三立新闻,p2p://170.178.164.247:6170/5b448af20006453800040fbf61bdc785.ts
+三立台湾,p2p://170.178.164.247:6170/5b448af00007592b000408362b50af9a.ts
+三立都会,p2p://170.178.164.247:6170/5b448aee000b64fe0004016fc2f58a51.ts
+三立财经,p2p://170.178.164.247:6170/5b448aec000d3c670003fa188f7276fe.ts
+龙祥电影,p2p://170.178.164.247:6170/5b448aeb00033a520003f3a09f77e57c.ts
+龙华卡通,p2p://170.178.164.247:6170/5b448ae900051e200003ec4ce6c62dcc.ts
+龙华洋片,p2p://170.178.164.247:6170/5b448ae70008b8050003e568b81835da.ts
+龙华戏剧,p2p://170.178.164.247:6170/5b448ae600030e720003e00d7e9e895c.ts
+龙华偶像,p2p://170.178.164.247:6170/5b448ae40006f1560003d93b47244f87.ts
+龙华动画,p2p://170.178.164.247:6170/5b448ae2000cc8050003d2ea0887d7c1.ts
+龙华电影,p2p://170.178.164.247:6170/5b448ae0000266c00003c872b5c37b03.ts
+东森综合,p2p://170.178.164.247:6170/5b448ade00074fc80003c1e37139bf2d.ts
+东森幼幼,p2p://170.178.164.247:6170/5b448adc000b55ea0003bb1b26aa5146.ts
+东森洋片,p2p://170.178.164.247:6170/5b448ada000eace70003b4262855abcb.ts
+东森新闻,p2p://170.178.164.247:6170/5b448ad9000732770003ae545bf7ba34.ts
+东森戏剧,p2p://170.178.164.247:6170/5b448ad7000ca7fa0003a7ea8c68a2a5.ts
+东森电影,p2p://170.178.164.247:6170/5b448ad5000c87a00003a011149a0fd6.ts
+东森财经,p2p://170.178.164.247:6170/5b448ad3000c31050003982bead68565.ts
+八大综合,p2p://170.178.164.247:6170/5b448ad1000a142700038fd1f37a008d.ts
+八大娱乐,p2p://170.178.164.247:6170/5b448acf00068d520003871a745f657b.ts
+八大第一台,p2p://170.178.164.247:6170/5b448acd000c3e4a000380bfd15d0e71.ts
+非凡新闻,p2p://170.178.164.247:6170/5b448acb0008b75500037807efc157a9.ts
+年代新闻,p2p://170.178.164.247:6170/5b448ac9000c8c0600037132945b4b8d.ts
+TVBS综合,p2p://170.178.164.247:6170/5b448ac8000253d200036aad4e7ad27a.ts
+TVBS新闻,p2p://170.178.164.247:6170/5b448ac60001d03f000362bbff6cda28.ts
+TVBS欢乐,p2p://170.178.164.247:6170/5b448ac3000cfffb000359e03ca0079e.ts
+EYE TV戏剧,p2p://170.178.164.247:6170/5b448ac2000339b600035378ef56203f.ts
+EYE TV旅游,p2p://170.178.164.247:6170/5b448ac00009d0da00034d57b5b416b7.ts
+ELTA足球,p2p://170.178.164.247:6170/5b448abd000c83de0003425049fc4d20.ts
+ELTA综合,p2p://170.178.164.247:6170/5b448abb0007dc030003394ff6f5cf6c.ts
+ELTA影剧,p2p://170.178.164.247:6170/5b448ab9000caba3000332bb8df80879.ts
+ELTA体育,p2p://170.178.164.247:6170/5b448ab8000568e200032cf747cc0968.ts
+AXN台湾,p2p://170.178.164.247:6170/5b448b560006956800059674d3b28a17.ts
+AXN HD,p2p://170.178.164.247:6170/5b448b5100063937000582d46496e0e2.ts
+ASN HD,p2p://170.178.164.247:6170/5b448b4b0006ad5700056b82612a4876.ts
+ANIMAX,p2p://170.178.164.247:6170/5b448b490006c502000563b8e848fcfb.ts
+寰宇综合,p2p://170.178.164.247:6170/5b448b4700086fa400055c55f59a06c3.ts
+韩国娱乐TVN,p2p://170.178.164.247:6170/5b448b45000db0e3000555ddc11341d1.ts
+Outdoor HD,p2p://170.178.164.247:6170/5b448b43000d442d00054df2492858db.ts
+MTV Live HD,p2p://170.178.164.247:6170/5b448b420003d9b7000547a1dc396862.ts
+MOMO亲子台,p2p://170.178.164.247:6170/5b448b400000f7ba00053f141b4f44a0.ts
+靖洋戏剧,p2p://170.178.164.247:6170/5b448b3d00044e9300053436aad65a82.ts
+靖天电影台,p2p://170.178.164.247:6170/5b448b3b0007d8c300052d4ec05e5cae.ts
+罪案侦缉频道,p2p://170.178.164.247:6170/5b448b390007ebcd00052583c06f7ab6.ts
+Fx HD,p2p://170.178.164.247:6170/5b448b37000ad71b00051e738b43119e.ts
+France24,p2p://170.178.164.247:6170/5b448b35000ee43a000517ac1f3a1200.ts
+ESPN,p2p://170.178.164.247:6170/5b448b33000e38dd00050fb0af514f9d.ts
+Li时尚生活HD,p2p://170.178.164.247:6170/5b448b3200032173000508f1b2d63757.ts
+Z频道,p2p://170.178.164.247:6170/5b448b300003841f0005013b68926e35.ts
+JET综合,p2p://170.178.164.247:6170/5b448b2e000881b20004fab239804000.ts
+客家电视,p2p://170.178.164.247:6170/5b448b2d00017bee0004f4fd63ca805c.ts
+原住民频道,p2p://170.178.164.247:6170/5b448b2b00039ed90004edb99ecba249.ts
+人间卫视,p2p://170.178.164.247:6170/5b448b2900094ece0004e75e8175d9a0.ts
+霹雳台湾,p2p://170.178.164.247:6170/5b448b27000bf6c40004e03c7bb96147.ts
+年代much,p2p://170.178.164.247:6170/5b448b250002b81e0004d60e333e7060.ts
+橄榄球频道,p2p://170.178.164.247:6170/5b448b23000975f80004cff808e14df0.ts
+壹电视综合,p2p://170.178.164.247:6170/5b448b21000100f40004c5fe1bf2744a.ts
+壹电视新闻,p2p://170.178.164.247:6170/5b448b1f000a512e0004c090ae962d24.ts
+壹电视电影,p2p://170.178.164.247:6170/5b448b1d000a2d9f0004b8b780e42a6e.ts
+大爱二台,p2p://170.178.164.247:6170/5b448b1b000cb8b60004b18e685f53a2.ts
+大爱,p2p://170.178.164.247:6170/5b448b1a000112b80004aaabf5b35d22.ts
+好消息2,p2p://170.178.164.247:6170/5b448b1800077c9a0004a47f41ae9a7d.ts
+好消息1,p2p://170.178.164.247:6170/5b448b170000ea4e00049ee807d2be3b.ts
+HBO原创,p2p://170.178.164.247:6170/5b448b93000a28e3000685a6165554f2.ts
+HBO强档,p2p://170.178.164.247:6170/5b448b91000e6ec600067eee5dba6759.ts
+HBO家庭,p2p://170.178.164.247:6170/5b448b900000726d00067771611725e9.ts
+HBO,p2p://170.178.164.247:6170/5b448b8e00066b2f00067129d95e17c6.ts
+FOX警匪,p2p://170.178.164.247:6170/5b448b8c00049b8b000668e27ffde1c8.ts
+FOX家庭,p2p://170.178.164.247:6170/5b448b8a000b4520000662c78da43d1b.ts
+FOX动作,p2p://170.178.164.247:6170/5b448b8900037a2800065ce053df68a2.ts
+FOX HD,p2p://170.178.164.247:6170/5b448b85000e824f000650137eec83be.ts
+CHC家庭,p2p://170.178.164.247:6170/5b448b8400029c2a0006491fc00db58c.ts
+CHC高清,p2p://170.178.164.247:6170/5b448b82000167b10006410007996e81.ts
+CHC动作,p2p://170.178.164.247:6170/5b448b800009bccd00063b524ddee6e2.ts
+DOX映画,p2p://170.178.164.247:6170/5b448b7e000e51e0000634af89e006a6.ts
+DOX影院,p2p://170.178.164.247:6170/5b448b7c000ed40e00062d0005c6caaf.ts
+美亚电影台,p2p://170.178.164.247:6170/5b448b7a000e9ff300062523d946c773.ts
+美食星球,p2p://170.178.164.247:6170/5b448b7900042d6500061e8e3e5cab9c.ts
+ELEVEN SPORTS,p2p://170.178.164.247:6170/5b448b770003ade90006169d08a52cf5.ts
+星卫娱乐,p2p://170.178.164.247:6170/5b448b7500071dad00060faf033e8b17.ts
+星卫电影,p2p://170.178.164.247:6170/5b448b73000b5a35000608f49ed78559.ts
+卫视中文台,p2p://170.178.164.247:6170/5b448b71000bfae80006014d0d1276a0.ts
+卫视中文电影,p2p://170.178.164.247:6170/5b448b7000000b730005fa57409db1ba.ts
+卫视洋片,p2p://170.178.164.247:6170/5b448b6e0003a7ae0005f374d458494d.ts
+卫视电影台湾,p2p://170.178.164.247:6170/5b448b6c0006b9b60005ec6d99e138e4.ts
+美国高尔夫频道,p2p://170.178.164.247:6170/5b448b6a00085ef10005e5095753e275.ts
+东森洋片,p2p://170.178.164.247:6170/5b448d7a0002f163000df225d1e1e97f.ts
+壹电视电影,p2p://170.178.164.247:6170/5b448d77000a3d98000de84b1b0034fe.ts
+好莱坞,p2p://170.178.164.247:6170/5b448d75000b0c7c000de0b0c1b8c9d7.ts
+龙祥电影,p2p://170.178.164.247:6170/5b448d740000f17c000dda32845bd199.ts
+中国电影,p2p://170.178.164.247:6170/5b448d720009a4ce000dd49c4d962461.ts
+高清影视,p2p://170.178.164.247:6170/5b448d70000d4477000dcdbaab3526e4.ts
+天映电影,p2p://170.178.164.247:6170/5b448d6f00063e12000dc80581fe778a.ts
+DOX影院,p2p://170.178.164.247:6170/5b448d6d0006dbac000dc05e2ddef024.ts
+DOX映画,p2p://170.178.164.247:6170/5b448d6b000b8d06000db9c125a71fbb.ts
+CHC高清电影,p2p://170.178.164.247:6170/5b448d69000dbb6e000db2808ece7f74.ts
+Nvod电视剧,p2p://170.178.164.247:6170/5b448d680002ad23000dabc45f96d3df.ts
+HBO原创,p2p://170.178.164.247:6170/5b448d6600078119000da530a42a69ba.ts
+HBOHD,p2p://170.178.164.247:6170/5b448d64000c23c7000d9e90a4b806e3.ts
+FOX动作,p2p://170.178.164.247:6170/5b448d630001da6c000d9806f8c378ea.ts
+FOX优质,p2p://170.178.164.247:6170/5b448d610004ed85000d90ff0f19c90a.ts
+TRACE SPORT STARS,p2p://170.178.164.247:6170/5b448d5d000d9ebe000d839919b475ad.ts
+美国高尔夫频道,p2p://170.178.164.247:6170/5b448d5c0004d63c000d7d71df871ef8.ts
+欧洲足球,p2p://170.178.164.247:6170/5b448d580000033a000d6c956438436a.ts
+高尔夫网球,p2p://170.178.164.247:6170/5b448d560006e96a000d6689a73b238e.ts
+四海钓鱼,p2p://170.178.164.247:6170/5b448d54000c829a000d602861513115.ts
+新视觉,p2p://170.178.164.247:6170/5b448d5300027cdc000d59afc79e7ce0.ts
+人间卫视,p2p://170.178.164.247:6170/5b448d51000743c1000d53189b0e2ed9.ts
+客家电视,p2p://170.178.164.247:6170/5b448d4f000ea774000d4d2d436f5693.ts
+原住民频道,p2p://170.178.164.247:6170/5b448d4e0008076b000d479273f40a92.ts
+天映经典,p2p://170.178.164.247:6170/5b448c4d0009082100095bec2b17c4d1.ts
+天映电影,p2p://170.178.164.247:6170/5b448c4b00091b64000954213674f02b.ts
+美国天下卫视,p2p://170.178.164.247:6170/5b448c49000c3cec00094d1ebcf11478.ts
+高尔夫网球,p2p://170.178.164.247:6170/5b448c4800045e9600094733622af888.ts
+高尔夫HD,p2p://170.178.164.247:6170/5b448c46000a6b3b000940ef9f602ec4.ts
+高尔夫,p2p://170.178.164.247:6170/5b448c450000b63200093a8b5a00d4d5.ts
+TVB-E,p2p://170.178.164.247:6170/5b448c430003477900093363e9231f10.ts
+TVB 8,p2p://170.178.164.247:6170/5b448c41000ec4b100092e8448e4ffcc.ts
+CCM天映,p2p://170.178.164.247:6170/5ba9e25a000c325201046e20d24560e8.ts
+TVB经典电影 ,p2p://170.178.164.247:6170/5ba9d8a6000dcb8f00de876950454c40.ts
+亚洲旅游,p2p://170.178.164.247:6170/5b448c27000043f70008c53e3cd73933.ts
+迪斯尼卡通,p2p://170.178.164.247:6170/5b448c2500004bee0008bd70e7751913.ts
+Warneg TV,p2p://170.178.164.247:6170/5b448c230009a12f0008b8039f490030.ts
+Nvod电视剧,p2p://170.178.164.247:6170/5b448c21000a7a1b0008b06b24758ab6.ts
+NBA HD,p2p://170.178.164.247:6170/5b448c20000003ad0008a9d520d5e97b.ts
+NBA,p2p://170.178.164.247:6170/5b448c1e0003dd4f0008a301c298d4a6.ts
+高清影视,p2p://170.178.164.247:6170/5b448c1c0007305200089c0b069a36f4.ts
+高清剧场,p2p://170.178.164.247:6170/5b448c1a000b66150008954f1915a91c.ts
+好莱坞电影,p2p://170.178.164.247:6170/5b448c18000e3e9a00088e3a76a1689c.ts
+
+星空,p2p://170.178.164.247:6170/5b448c150003e80200087fdc067c3be4.ts
+中国电影,p2p://170.178.164.247:6170/5b448c13000804b30008791a665fcb2c.ts
+V音乐台,p2p://170.178.164.247:6170/5b448c110002146200086fc4e84baa90.ts
+动物星球,p2p://170.178.164.247:6170/5b448c0e00099329000865f8e8b2acc8.ts
+新视觉,p2p://170.178.164.247:6170/5b448c0b000f019c00085ba481057c91.ts
+先锋乒羽,p2p://170.178.164.247:6170/5b448c0a00015d7e0008543ed676cf59.ts
+欧洲足球,p2p://170.178.164.247:6170/5b448c080005c58a00084d8e3f2d66dd.ts
+欧洲体育,p2p://170.178.164.247:6170/5b448c06000b8284000847376f82ba02.ts
+四海钓鱼,p2p://170.178.164.247:6170/5b448c04000dcf0900083ffd83393a46.ts
+高尔夫大满贯,p2p://170.178.164.247:6170/5a586ab100000b5e001752d0f166bbd8.ts
+综合,p2p://170.178.164.247:6170/5a586ab10003b86e001753c19a4f1379.ts
+高尔夫美巡赛,p2p://170.178.164.247:6170/5a586ab100046151001753ec0bf0b5bd.ts
+欧冠,p2p://170.178.164.247:6170/5a586ab00000f8a000174f241b7d1457.ts
+都市剧场,p2p://170.178.164.247:6170/5a586ab0000e8bce0017529e7e4126fe.ts
+CineMax,p2p://170.178.164.247:6170/5b448d84000b4d0a000e1b5928d0386e.ts
+FOX MOVIES,p2p://170.178.164.247:6170/5b448d82000eb9cf000e14699a0a521d.ts
+Universal Channel,p2p://170.178.164.247:6170/5b448d810005fb43000e0e449fcdd720.ts
+东风卫视,p2p://170.178.164.247:6170/5b448d7f00098997000e075deb2fa43c.ts
+NOW华剧台,p2p://170.178.164.247:6170/5b448d7d000b74d5000e000b235a2765.ts
+NOW TV,p2p://170.178.164.247:6170/5b448d7c000015f0000df93ac6d9b9d2.ts
+军事望尞,p2p://170.178.164.247:6170/5a586ab0000f2c68001752c7ccaeca90.ts
+美食解码,p2p://170.178.164.247:6170/5a586ab0000f2fd2001752c85037d4a5.ts
+香蕉台,p2p://170.178.164.247:6170/5b448cf50001f8ea000bea5d07616b46.ts
+K频道,p2p://170.178.164.247:6170/5b448cf1000cc439000bdd81e4fafa61.ts
+彩虹MOIVE,p2p://170.178.164.247:6170/5b448cee0008f760000bd0d0f0c4d991.ts
+彩虹e台,p2p://170.178.164.247:6170/5b448ceb00099801000bc541be95c6ea.ts
+惊艳电影台,p2p://170.178.164.247:6170/5b448ce90003aafc000bbbed0a86ba1f.ts
+松视3台,p2p://170.178.164.247:6170/5b448ce6000b1ec3000bb21d8beebcb9.ts
+松视2台,p2p://170.178.164.247:6170/5b448ce3000abcb9000ba64c1e07d690.ts
+松视1台,p2p://170.178.164.247:6170/5b448cdf000c86d2000b97210f41bf0a.ts
+潘朵拉粉红,p2p://170.178.164.247:6170/5b448cdc000563cc000b899558714265.ts
+潘朵拉玩美,p2p://170.178.164.247:6170/5b448cd8000b792c000b7b84b411ee82.ts
