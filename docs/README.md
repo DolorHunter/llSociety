@@ -16,6 +16,7 @@ __[Python](#Python)__|__[Tools](#Tools)__|__[Fxxk-996](#Fxxk-996)__
 __[Qt](#Qt)__|__[Forum(BBS)](#Forum)__|__[Fxxk-MFS](#Fxxk-MFS)__
 __[Git](#Git)__|__[PostGraduate](#PostGraduate)__|__[Fxxk-Pinky](#Fxxk-Pinky)__
 __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
+-| __[Blog](#Blog)__|-
 
 ### Tutorial
 
@@ -169,7 +170,9 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 
 [Web] [emojipedia](https://emojipedia.org/)
 
-[Web] [外文姓名中譯英系統 - 台湾外交部领事事务局](https://www.boca.gov.tw/sp-natr-singleform-1.html)
+[Web] [外文姓名中譯英系統 - 台灣外交部領事事務局](https://www.boca.gov.tw/sp-natr-singleform-1.html)
+
+[Web] [國家教育研究院 - 雙語詞匯 學術名詞暨辭書資訊網](http://terms.naer.edu.tw/)
 
 [Web] [文案翻译](https://i18ns.com/)
 
@@ -180,6 +183,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 [Web] [超高清壁纸(4K+)](https://wallpapersite.com/)
 
 [Web] [IDE Color Theme](http://color-themes.com)
+
+[Web] [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
 
 ### Forum
 
@@ -210,6 +215,12 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >[Write] [托福寫作(一) Integrated Writing - 和Cindy學英文](https://www.youtube.com/watch?v=_qwDxcz1TFo)
 >
 >[Write] [Good Luck TOEFL - Free Sample TOEFL Essays(Independant)](http://www.goodlucktoefl.com/free-sample-toefl-essays.html)
+
+### Blog
+
+[Blog] [数字移民 - 移民是一种生活方式](https://blog.shuziyimin.org/)
+
+[Blog] [编程随想的博客](https://program-think.blogspot.com/)
 
 ### fGFW
 
