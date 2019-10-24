@@ -144,47 +144,63 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 
 ### Tools
 
-[Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
+#### Developer-Kit
 
-[Badge] [Shields.io](https://shields.io/)
-
-[Tools] [Aconvert.com](https://www.aconvert.com/cn/)
-
-[Tools] [开发工具箱 ToolBox](http://www.box3.cn/)
-
-[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
-
-[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
-
-[Web] [Google Website Analytics](https://analytics.google.com/)
-
-[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
-
-[Software] [Free Download Manager](https://www.freedownloadmanager.org/zh/)
-
-[Software] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
+>[Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
+>
+>[Badge] [Shields.io](https://shields.io/)
+>
+>[Tools] [Aconvert.com](https://www.aconvert.com/cn/)
+>
+>[Tools] [开发工具箱 ToolBox](http://www.box3.cn/)
+>
+>[Web] [Google Website Analytics](https://analytics.google.com/)
 
 [GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
+>
+>[Web] [IDE Color Theme](http://color-themes.com)
+>
+>[Web] [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
 
-[Web] [Adobe Flash Player (tw)](https://get.adobe.com/tw/flashplayer/)
+#### Documents
 
-[Web] [emojipedia](https://emojipedia.org/)
+>[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
 
-[Web] [外文姓名中譯英系統 - 台灣外交部領事事務局](https://www.boca.gov.tw/sp-natr-singleform-1.html)
+#### Music
 
-[Web] [國家教育研究院 - 雙語詞匯 學術名詞暨辭書資訊網](http://terms.naer.edu.tw/)
+>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
 
-[Web] [文案翻译](https://i18ns.com/)
+#### Downloader
 
-[Web] [在线下载/制作动态壁纸](https://dynamicwallpaper.club)
+>[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
+>
+>[Software] [Free Download Manager](https://www.freedownloadmanager.org/zh/)
+>
+>[Software] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
 
-[Web] [电脑/手机4K壁纸搜索引擎](https://wall.alphacoders.com/)
+#### Dictionary
 
-[Web] [超高清壁纸(4K+)](https://wallpapersite.com/)
+>[Dict] [外文姓名中譯英系統 - 台灣外交部領事事務局](https://www.boca.gov.tw/sp-natr-singleform-1.html)
+>
+>[Dict] [國家教育研究院 - 雙語詞匯 學術名詞暨辭書資訊網](http://terms.naer.edu.tw/)
+>
+>[Dict] [劍橋詞典: 查找意思, 解釋及翻譯](https://dictionary.cambridge.org/zht/)
+>
+>[Web] [文案翻译](https://i18ns.com/)
 
-[Web] [IDE Color Theme](http://color-themes.com)
+#### Wallpaper
 
-[Web] [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
+>[Web] [在线下载/制作动态壁纸](https://dynamicwallpaper.club)
+>
+>[Web] [电脑/手机4K壁纸搜索引擎](https://wall.alphacoders.com/)
+>
+>[Web] [超高清壁纸(4K+)](https://wallpapersite.com/)
+
+#### Others
+
+>[Web] [Adobe Flash Player (tw)](https://get.adobe.com/tw/flashplayer/)
+>
+>[Web] [emojipedia](https://emojipedia.org/)
 
 ### Forum
 
