@@ -39,7 +39,6 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >[Tutorial] [Swap添加/删除/调整Swappiness](https://www.google.com/amp/s/www.sysgeek.cn/ubuntu-18-04-swap/amp/)
 >
 >[Tutorail] [How To Add Swap Space on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
->
 
 #### MachineLearning
 
@@ -48,33 +47,32 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >[Note] [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/)
 >
 >[Note] [吴恩达 - 斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/)
+
+#### Tensorflow
+
+>[MOOC] [人工智能实践 Tensorflow笔记 北大曹健](https://www.icourse163.org/course/PKU-1002536002)
 >
->#### Tensorflow
->>
->>[MOOC] [人工智能实践 Tensorflow笔记 北大曹健](https://www.icourse163.org/course/PKU-1002536002)
->>
->>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
->>
->>[Doc] [Tensorflow API r1.14(stable)](https://www.tensorflow.org/api_docs/python/tf)
->>
->>[Doc] [Tensorflow官方文档 [汉化版] - W3Cschool](https://www.w3cschool.cn/tensorflow_python/)
+>[GitHub] [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+>
+>[Doc] [Tensorflow API r1.14(stable)](https://www.tensorflow.org/api_docs/python/tf)
+>
+>[Doc] [Tensorflow官方文档 [汉化版] - W3Cschool](https://www.w3cschool.cn/tensorflow_python/)
 
 #### Python
 
 >[Resource] [effbot](http://effbot.org/)
 >
 >[Tutorial] [pythonspot](https://pythonspot.com/)
+
+#### NLTK
+
+>[Tutorial] [pythonspot: NLTK stop words](https://pythonspot.com/nltk-stop-words/)
 >
->#### NLTK
->
->>[Tutorial] [pythonspot: NLTK stop words](https://pythonspot.com/nltk-stop-words/)
->>
->>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
->
->#### Tkinter
->
->>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
->>
+>[Tutorial] [易百教程: Python文本处理教程](https://www.yiibai.com/python_text_processing)
+
+#### Tkinter
+
+>[Tutorial] [effbot: Introduction to Tkinter](http://effbot.org/tkinterbook/)
 
 #### Qt
 
@@ -98,256 +96,257 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >
 >[Video Tutorial] [LaTeX Tutorial](https://www.youtube.com/watch?v=VhmkLrOjLsw)
 
-## Education
+### Education
 
-### EducationPackage
+#### EducationPackage
 
-[Web] [GitHub: Student Developer Pack](https://education.github.com/pack)
-
-[Web] [JetBrains Toolbox 专业开发工具学生免费授权计划](https://www.jetbrains.com/zh/student/)
-
-[Web] [Qt for Education Program](https://www.qt.io/qt-for-educational-program)
-
-[Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
-
-[Web] [Apple Music Student Plen 陆区5CN$/mon 港区28HK$/mon 美区5US$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
-
-[Web] [Spotify Premium for Students 5US$/mon](https://www.spotify.com/us/student/)
-
-[Web] [Adobe Creative Cloud for students and teachers US$10+/mon](https://www.adobe.com/creativecloud/buy/students.html)
-
-[Web] [AWS Educate(GitHub Student Developer Pack members receive $75-$150)](https://aws.amazon.com/cn/education/awseducate/)
-
-[Web] [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011)
-
-[Web] [Tabledu: Business Intelligence and Analytics Software 25% OFF](https://www.tableau.com/zh-cn/academic/students)
-
-[Web] [Autodesk - 3D Design, Engineering & Construction Software](https://www.autodesk.com/education/free-software/featured)
-
-[Web] [Autodesk Sketchbook](https://sketchbook.com/education)
-
-### BookLists
-
-[GitHub] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
-
-[GitHub] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
-
-[Web] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
-
-[Telegram] [zread (推) - 什么书值得读 📚](https://t.me/zreadpush)
-
-[Telegram Bot] [zread机器人 ReadBot(小君) @zreadBot](https://t.me/zread)
-
-[Telegram] [文杏馆(藏书分享)](https://t.me/BooksThatMakeYouThink)
-
-[Telegram] [书籍共享计划](https://t.me/booksharingplan)
-
-### Tools
-
-#### Developer-Kit
-
->[Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
+>[Web] [GitHub: Student Developer Pack](https://education.github.com/pack)
 >
->[Badge] [Shields.io](https://shields.io/)
+>[Web] [JetBrains Toolbox 专业开发工具学生免费授权计划](https://www.jetbrains.com/zh/student/)
 >
->[Tools] [Aconvert.com](https://www.aconvert.com/cn/)
+>[Web] [Qt for Education Program](https://www.qt.io/qt-for-educational-program)
 >
->[Tools] [开发工具箱 ToolBox](http://www.box3.cn/)
+>[Web] [MS: Office365 for Edu](https://products.office.com/en-us/student/office-in-education?tab=students)
 >
->[Web] [Google Website Analytics](https://analytics.google.com/)
-
-[GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
+>[Web] [Apple Music Student Plen 陆区5CN$/mon 港区28HK$/mon 美区5US$/mon](https://www.myunidays.com/CN/zh-CN/partners/applemusic/view/online)
 >
->[Web] [IDE Color Theme](http://color-themes.com)
+>[Web] [Spotify Premium for Students 5US$/mon](https://www.spotify.com/us/student/)
 >
->[Web] [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
-
-#### Documents
-
->[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
-
-#### Music
-
->[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
-
-#### Downloader
-
->[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
+>[Web] [Adobe Creative Cloud for students and teachers US$10+/mon](https://www.adobe.com/creativecloud/buy/students.html)
 >
->[Software] [Free Download Manager](https://www.freedownloadmanager.org/zh/)
+>[Web] [AWS Educate(GitHub Student Developer Pack members receive $75-$150)](https://aws.amazon.com/cn/education/awseducate/)
 >
->[Software] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
-
-#### Dictionary
-
->[Dict] [外文姓名中譯英系統 - 台灣外交部領事事務局](https://www.boca.gov.tw/sp-natr-singleform-1.html)
+>[Web] [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011)
 >
->[Dict] [國家教育研究院 - 雙語詞匯 學術名詞暨辭書資訊網](http://terms.naer.edu.tw/)
+>[Web] [Tabledu: Business Intelligence and Analytics Software 25% OFF](https://www.tableau.com/zh-cn/academic/students)
 >
->[Dict] [劍橋詞典: 查找意思, 解釋及翻譯](https://dictionary.cambridge.org/zht/)
+>[Web] [Autodesk - 3D Design, Engineering & Construction Software](https://www.autodesk.com/education/free-software/featured)
 >
->[Web] [文案翻译](https://i18ns.com/)
+>[Web] [Autodesk Sketchbook](https://sketchbook.com/education)
 
-#### Wallpaper
+#### BookLists
 
->[Web] [在线下载/制作动态壁纸](https://dynamicwallpaper.club)
+>[GitHub] [programthink收藏的开源项目清单](https://github.com/programthink/opensource)
 >
->[Web] [电脑/手机4K壁纸搜索引擎](https://wall.alphacoders.com/)
+>[GitHub] [yuanliangding的STEM书单](https://github.com/yuanliangding/books)
 >
->[Web] [超高清壁纸(4K+)](https://wallpapersite.com/)
-
-#### Others
-
->[Web] [Adobe Flash Player (tw)](https://get.adobe.com/tw/flashplayer/)
+>[Web] [programthink - 安全经验汇总](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)
 >
->[Web] [emojipedia](https://emojipedia.org/)
-
-### Forum
-
-[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
-
-[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
-
-[bbs] [香港討論區](https://www.discuss.com.hk/)
-
-### PostGraduate
-
-[QSRank] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
-
-[Education] [导师评价网](https://www.mysupervisor.org/)
-
-[ETS] [ETS 学校代码/送分代码查询](https://www.toeflgoanywhere.org/search-who-accepts-toefl)
-
-### Examination
-
-#### TOEFL
-
->[ETS] [ETS 学校代码/送分代码查询 (国内托福报名系统数据缺失, 建议用此查询)](https://www.toeflgoanywhere.org/search-who-accepts-toefl)
+>[Telegram] [zread (推) - 什么书值得读 📚](https://t.me/zreadpush)
 >
->[TPO] [小站托福TPO 1-54 套卷(含答案)](https://top.zhan.com/toefl/)
+>[Telegram Bot] [zread机器人 ReadBot(小君) @zreadBot](https://t.me/zread)
 >
->[Speak/Write] [考試-兩個月托福111經驗分享（下）- 口语写作模板](https://zefanglinblog.wordpress.com/2017/03/02/%E2%97%8F%E8%80%83%E8%A9%A6-%E5%85%A9%E5%80%8B%E6%9C%88%E6%89%98%E7%A6%8F111%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%EF%BC%88%E4%B8%8B%EF%BC%89/)
+>[Telegram] [文杏馆(藏书分享)](https://t.me/BooksThatMakeYouThink)
 >
->[Write] [托福寫作(一) Integrated Writing - 和Cindy學英文](https://www.youtube.com/watch?v=_qwDxcz1TFo)
+>[Telegram] [书籍共享计划](https://t.me/booksharingplan)
+
+#### Tools
+
+>##### Developer-Kit
 >
->[Write] [Good Luck TOEFL - Free Sample TOEFL Essays(Independant)](http://www.goodlucktoefl.com/free-sample-toefl-essays.html)
-
-### Blog
-
-[Blog] [数字移民 - 移民是一种生活方式](https://blog.shuziyimin.org/)
-
-[Blog] [编程随想的博客](https://program-think.blogspot.com/)
-
-### fGFW
-
-#### 小白专区
-
->[Web] [Glyptodon Enterprise主机镜像(5min限时使用)](https://demo.glyptodon.com)
-
-#### Server
-
->[Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
+>>[Web] [windows + office activated (Proper use only!)](https://v0v.bid/)
+>>
+>>[Badge] [Shields.io](https://shields.io/)
+>>
+>>[Tools] [Aconvert.com](https://www.aconvert.com/cn/)
+>>
+>>[Tools] [开发工具箱 ToolBox](http://www.box3.cn/)
+>>
+>>[Web] [Google Website Analytics](https://analytics.google.com/)
+>>
+>>[GitHub] [Choose a license for your open source project(raw)](https://github.com/github/choosealicense.com)
+>>
+>>[Web] [IDE Color Theme](http://color-themes.com)
+>>
+>>[Web] [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
 >
->[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
+>##### Documents
 >
->[Tutorial] [Nginx安装配置(PCRE和NIGNX请下载最新版不然会出错)](http://www.runoob.com/linux/nginx-install-setup.html)
+>>[Tools] [iLovePDF PDF转码平台](https://www.ilovepdf.com/)
 >
->[Tutorial] [Let's Encrypt - 用Certbot获取SSL证书(http->https)](https://github.com/certbot/certbot)
+>##### Music
 >
->[Tutorial] [Certbot对Let’s Encrypt证书的自动续期](https://www.liaosam.com/use-cron-service-and-certbot-for-renewal-of-letsencrypt-ssl-certificates.html)
+>>[GitHub] [Zen Audio Player - Listen to YouTube videos](https://github.com/zen-audio-player/zen-audio-player.github.io)
 >
->[Tutorial] [[原生]服务器搭建V2ray](https://toutyrater.github.io/prep/install.html)
+>##### Downloader
 >
->[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
+>>[Tools] [DownGit - GitHub地址在线转化为下载链接](https://minhaskamal.github.io/DownGit/#/home)
+>>
+>>[Software] [Free Download Manager](https://www.freedownloadmanager.org/zh/)
+>>
+>>[Software] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
 >
->[Web] [IP端口阻断检测](https://www.toolsdaquan.com/ipcheck/)
+>##### Dictionary
 >
->[Web] [bandwagonhost - Block List Check](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)
+>>[Dict] [外文姓名中譯英系統 - 台灣外交部領事事務局](https://www.boca.gov.tw/sp-natr-singleform-1.html)
+>>
+>>[Dict] [國家教育研究院 - 雙語詞匯 學術名詞暨辭書資訊網](http://terms.naer.edu.tw/)
+>>
+>>[Dict] [劍橋詞典: 查找意思, 解釋及翻譯](https://dictionary.cambridge.org/zht/)
+>>
+>>[Web] [文案翻译](https://i18ns.com/)
 >
->[Web] [搬瓦工免费更换被封IP：每5周免费更换一次](https://www.bwgyhw.cn/bandwagonhost-change-ip-free-2/)
+>##### Wallpaper
 >
-#### Client
-
->[Doc] [v2ray - 官方文档](https://www.v2ray.com/)
+>>[Web] [在线下载/制作动态壁纸](https://dynamicwallpaper.club)
+>>
+>>[Web] [电脑/手机4K壁纸搜索引擎](https://wall.alphacoders.com/)
+>>
+>>[Web] [超高清壁纸(4K+)](https://wallpapersite.com/)
 >
->[Doc] [v2ray - 配置指南](https://toutyrater.github.io/)
+>##### Others
 >
-> [GitHub] [v2ray 配置模板](https://github.com/KiriKira/vTemplate)
+>>[Web] [Adobe Flash Player (tw)](https://get.adobe.com/tw/flashplayer/)
+>>
+>>[Web] [emojipedia](https://emojipedia.org/)
+
+#### Forum
+
+>[bbs] [一亩三分地论坛 - 学习生活信噪比最高的网站](https://www.1point3acres.com/bbs/)
 >
->[GitHub] [(民间)V2ray 配置指南](https://github.com/ToutyRater/v2ray-guide)
+>[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 >
->[GitHub] [V2ray内核: V2ray-core](https://github.com/v2ray/v2ray-core)
+>[bbs] [香港討論區](https://www.discuss.com.hk/)
+
+#### PostGraduate
+
+>[QSRank] [Top Universities - Worldwide university rankings,guides & events](https://www.topuniversities.com/)
 >
->[GitHub] [V2ray内核(自由社区版): V2ray-core](https://github.com/v2fly/v2ray-core)
+>[Education] [导师评价网](https://www.mysupervisor.org/)
 >
->[GitHub] [2dust/Windows设备V2rayN: V2rayN with GUI for windows](https://github.com/2dust/v2rayN)
+>[ETS] [ETS 学校代码/送分代码查询](https://www.toeflgoanywhere.org/search-who-accepts-toefl)
+
+#### Examination
+
+>##### TOEFL
 >
->[GitHub] [2dust/安卓设备V2rayNG: V2rayNG with GUI for Android](https://github.com/2dust/v2rayNG)
+>>[ETS] [ETS 学校代码/送分代码查询 (国内托福报名系统数据缺失, 建议用此查询)](https://www.toeflgoanywhere.org/search-who-accepts-toefl)
+>>
+>>[TPO] [小站托福TPO 1-54 套卷(含答案)](https://top.zhan.com/toefl/)
+>>
+>>[Speak/Write] [考試-兩個月托福111經驗分享（下）- 口语写作模板](https://zefanglinblog.wordpress.com/2017/03/02/%E2%97%8F%E8%80%83%E8%A9%A6-%E5%85%A9%E5%80%8B%E6%9C%88%E6%89%98%E7%A6%8F111%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%EF%BC%88%E4%B8%8B%EF%BC%89/)
+>>
+>>[Write] [托福寫作(一) Integrated Writing - 和Cindy學英文](https://www.youtube.com/watch?v=_qwDxcz1TFo)
+>>
+>>[Write] [Good Luck TOEFL - Free Sample TOEFL Essays(Independant)](http://www.goodlucktoefl.com/free-sample-toefl-essays.html)
+
+#### Blog
+
+>[Blog] [数字移民 - 移民是一种生活方式](https://blog.shuziyimin.org/)
 >
->[Web] [BifrostV - BifrostV for Android](https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv)
+>[Blog] [编程随想的博客](https://program-think.blogspot.com/)
+
+### fxxk
+
+#### fGFW
+
+>##### 小白专区
 >
->[GitHub] [iOS设备推荐Shadowsocks: Shadowsocks with GUI for iOS](https://github.com/XWJACK/Shadowrocket)
+>>[Web] [Glyptodon Enterprise主机镜像(5min限时使用)](https://demo.glyptodon.com)
 >
->[GitHub] [(非官方GUI)MacOS设备V2rayX: V2rayX with GUI for MacOS](https://github.com/Cenmrev/V2RayX)
+>##### Server
 >
->[GitHub] [(非官方GUI)MacOS设备V2rayU: V2rayU with GUI for MacOS](https://github.com/yanue/V2rayU)
+>>[Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
+>>
+>>[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
+>>
+>>[Tutorial] [Nginx安装配置(PCRE和NIGNX请下载最新版不然会出错)](http://www.runoob.com/linux/nginx-install-setup.html)
+>>
+>>[Tutorial] [Let's Encrypt - 用Certbot获取SSL证书(http->https)](https://github.com/certbot/certbot)
+>>
+>>[Tutorial] [Certbot对Let’s Encrypt证书的自动续期](https://www.liaosam.com/use-cron-service-and-certbot-for-renewal-of-letsencrypt-ssl-certificates.html)
+>>
+>>[Tutorial] [[原生]服务器搭建V2ray](https://toutyrater.github.io/prep/install.html)
+>>
+>>[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
+>>
+>>[Web] [IP端口阻断检测](https://www.toolsdaquan.com/ipcheck/)
+>>
+>>[Web] [bandwagonhost - Block List Check](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)
+>>
+>>[Web] [搬瓦工免费更换被封IP：每5周免费更换一次](https://www.bwgyhw.cn/bandwagonhost-change-ip-free-2/)
+>>
+>##### Client
 >
+>>[Doc] [v2ray - 官方文档](https://www.v2ray.com/)
+>>
+>>[Doc] [v2ray - 配置指南](https://toutyrater.github.io/)
+>>
+>>[GitHub] [v2ray 配置模板](https://github.com/KiriKira/vTemplate)
+>>
+>>[GitHub] [(民间)V2ray 配置指南](https://github.com/ToutyRater/v2ray-guide)
+>>
+>>[GitHub] [V2ray内核: V2ray-core](https://github.com/v2ray/v2ray-core)
+>>
+>>[GitHub] [V2ray内核(自由社区版): V2ray-core](https://github.com/v2fly/v2ray-core)
+>>
+>>[GitHub] [2dust/Windows设备V2rayN: V2rayN with GUI for windows](https://github.com/2dust/v2rayN)
+>>
+>>[GitHub] [2dust/安卓设备V2rayNG: V2rayNG with GUI for Android](https://github.com/2dust/v2rayNG)
+>>
+>>[Web] [BifrostV - BifrostV for Android](https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv)
+>>
+>>[GitHub] [iOS设备推荐Shadowsocks: Shadowsocks with GUI for iOS](https://github.com/XWJACK/Shadowrocket)
+>>
+>>[GitHub] [(非官方GUI)MacOS设备V2rayX: V2rayX with GUI for MacOS](https://github.com/Cenmrev/V2RayX)
+>>
+>>[GitHub] [(非官方GUI)MacOS设备V2rayU: V2rayU with GUI for MacOS](https://github.com/yanue/V2rayU)
 
-### Fxxk-XueXiQiangGuo
+#### Fxxk-XueXiQiangGuo
 
-[GitHub] [Fxxk-XueXiQiangGuo - Fxxk 学习强国](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
+>[GitHub] [Fxxk-XueXiQiangGuo - Fxxk 学习强国](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
+>
+>[Github] [Panda_Learning 萌萌的熊猫帮你搞定学习强国](https://github.com/Alivon/Panda-Learning)
 
-[Github] [Panda_Learning 萌萌的熊猫帮你搞定学习强国](https://github.com/Alivon/Panda-Learning)
+#### Fxxk-996
 
-### Fxxk-996
+>[Web] [996.icu](https://996.icu/)
+>
+>[GitHub] [Anti-996 License](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+>
+>[GitHub] [996.icu](https://github.com/996icu/996.ICU)
+>
+>[GitHub] [955.WLB 955公司白名单，旨在让更多的人逃离 996，加入 955 的行列](https://github.com/formulahendry/955.WLB)
+>
+>[GitHub] [996.LIST 此repo为996和955的匿名投票列表](https://github.com/fengT-T/996_list)
+>
+>[GitHub] [996.YAOCL Yet Another Overtime Corps List, 另外一个匿名投票列表](https://github.com/boycott996/yaocl)
+>
+>[GitHub] [996.law 面向所有劳动者的一份劳动仲裁与劳动诉讼的攻略手册](https://github.com/CPdogson/996.law)
+>
+>[GitHub] [996.Leave 介绍与鼓励海外工作](https://github.com/623637646/996.Leave)
+>
+>[GitHub] [996.RIP 企业可能会忘，但我们不会忘](https://996.rip/)
+>
+>[GitHub] [996.Petition 向相关政府主管单位投递公开信，请求主管单位采取行动](https://github.com/xokctah/996.petition)
+>
+>[GitHub] [996.action 强调用行动抗议996的板块](https://github.com/CPdogson/996action)
+>
+>[GitHub] [996.avengers 旨在各大招聘网站标记996.ICU和955.WLB上榜公司](https://github.com/996-icu-avengers/Natasha)\
+>
+>[GitHub] [996.OD 程序员长期996导致的职业病](https://github.com/zheolong/996.OD.git)
+>
+>[GitHub] [support.996.ICU 微软与GitHub员工自发组织 实名签名 支持 996.ICU](https://github.com/msworkers/support.996.ICU)
+>
+>[GitHub] [699cn 一键存证微信小程序](https://github.com/996-699/996.699)
 
-[Web] [996.icu](https://996.icu/)
+#### Fxxk-MFS
 
-[GitHub] [Anti-996 License](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+>[GitHub] [FxxkMFS - 去xx的取证](https://github.com/HiedaNaKan/FuckMFS)
 
-[GitHub] [996.icu](https://github.com/996icu/996.ICU)
+#### Fxxk-Pinky
 
-[GitHub] [955.WLB 955公司白名单，旨在让更多的人逃离 996，加入 955 的行列](https://github.com/formulahendry/955.WLB)
+>[Web] [红岸基金会 - 仿 SCP 模式的强制收容所](https://zhina.red/index.html)
+>
+>[Wiki] [支纳维基 - 支人支面不支心，纳年纳兔纳些事](https://www.zhina.wiki/)
+>
+>[Web] [新型敏感词武器：赵弹磁铁](https://react-raw8jx.stackblitz.io/)
 
-[GitHub] [996.LIST 此repo为996和955的匿名投票列表](https://github.com/fengT-T/996_list)
+#### Live-TV
 
-[GitHub] [996.YAOCL Yet Another Overtime Corps List, 另外一个匿名投票列表](https://github.com/boycott996/yaocl)
-
-[GitHub] [996.law 面向所有劳动者的一份劳动仲裁与劳动诉讼的攻略手册](https://github.com/CPdogson/996.law)
-
-[GitHub] [996.Leave 介绍与鼓励海外工作](https://github.com/623637646/996.Leave)
-
-[GitHub] [996.RIP 企业可能会忘，但我们不会忘](https://996.rip/)
-
-[GitHub] [996.Petition 向相关政府主管单位投递公开信，请求主管单位采取行动](https://github.com/xokctah/996.petition)
-
-[GitHub] [996.action 强调用行动抗议996的板块](https://github.com/CPdogson/996action)
-
-[GitHub] [996.avengers 旨在各大招聘网站标记996.ICU和955.WLB上榜公司](https://github.com/996-icu-avengers/Natasha)\
-
-[GitHub] [996.OD 程序员长期996导致的职业病](https://github.com/zheolong/996.OD.git)
-
-[GitHub] [support.996.ICU 微软与GitHub员工自发组织 实名签名 支持 996.ICU](https://github.com/msworkers/support.996.ICU)
-
-[GitHub] [699cn 一键存证微信小程序](https://github.com/996-699/996.699)
-
-### Fxxk-MFS
-
-[GitHub] [FxxkMFS - 去xx的取证](https://github.com/HiedaNaKan/FuckMFS)
-
-### Fxxk-Pinky
-
-[Web] [红岸基金会 - 仿 SCP 模式的强制收容所](https://zhina.red/index.html)
-
-[Wiki] [支纳维基 - 支人支面不支心，纳年纳兔纳些事](https://www.zhina.wiki/)
-
-[Web] [新型敏感词武器：赵弹磁铁](https://react-raw8jx.stackblitz.io/)
-
-### Live-TV
-
-[Resorse] [最新节目单整理/如何导入节目单/自制节目单制作方法](https://github.com/DolorHunter/llSociety/tree/master/LiveTV)
-
-[Tutorial] [[教程] 用youtube-dl制作节目单(直播源/电视源/m3u8)](https://blog.csdn.net/dolor_059/article/details/93887228)
+>[Resorse] [最新节目单整理/如何导入节目单/自制节目单制作方法](https://github.com/DolorHunter/llSociety/tree/master/LiveTV)
+>
+>[Tutorial] [[教程] 用youtube-dl制作节目单(直播源/电视源/m3u8)](https://blog.csdn.net/dolor_059/article/details/93887228)
 
 ---
 
