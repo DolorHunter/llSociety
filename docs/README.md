@@ -235,6 +235,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >[Blog] [数字移民 - 移民是一种生活方式](https://blog.shuziyimin.org/)
 >
 >[Blog] [编程随想的博客](https://program-think.blogspot.com/)
+>
+>[GitHub] [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 
 ### fxxk
 
