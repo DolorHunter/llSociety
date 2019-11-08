@@ -264,6 +264,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >>
 >>[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
 >>
+>>[Tutorial] [服务器端更新v2ray](https://github.com/v2ray/v2ray-core/issues/204)
+>>
 >>[Web] [IP端口阻断检测](https://www.toolsdaquan.com/ipcheck/)
 >>
 >>[Web] [bandwagonhost - Block List Check](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)
