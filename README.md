@@ -207,6 +207,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >[bbs] [PTT批踢踢實業坊](https://www.ptt.cc/bbs/index.html)
 >
 >[bbs] [香港討論區](https://www.discuss.com.hk/)
+>
+>[bbs] [LIHKG 討論區(連登)](https://lihkg.com/)
 
 #### PostGraduate
 
