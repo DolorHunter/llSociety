@@ -236,6 +236,10 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >
 >[Blog] [编程随想的博客](https://program-think.blogspot.com/)
 >
+>[Blog] [老唐博客 - 建站/运维/评测/优惠/科研/随笔](https://oldtang.com/)
+>
+>[Blog] [老左博客 - 专注美国VPS/主机评测/域名优惠码](https://www.laozuo.org/)
+>
 >[GitHub] [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 
 ### fxxk
@@ -251,6 +255,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >>[Web] [老牌服务器商: 搬瓦工 bandwagonhost](https://bandwagonhost.com/)
 >>
 >>[Web] [Bandwagonhost/搬瓦工非官方中文网站](https://www.bandwagonhost.net/)
+>>
+>>[Web] [搬瓦工方案库存监控页面](https://stock.bwg.net/)
 >>
 >>[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
 >>
