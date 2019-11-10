@@ -254,6 +254,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >>
 >>[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
 >>
+>>[Tutorial] [使用BestTrace查看VPS的去程和回程](https://www.bandwagonhost.net/1186.html)
+>>
 >>[Tutorial] [Nginx安装配置(PCRE和NIGNX请下载最新版不然会出错)](http://www.runoob.com/linux/nginx-install-setup.html)
 >>
 >>[Tutorial] [Let's Encrypt - 用Certbot获取SSL证书(http->https)](https://github.com/certbot/certbot)
@@ -262,9 +264,9 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >>
 >>[Tutorial] [[原生]服务器搭建V2ray](https://toutyrater.github.io/prep/install.html)
 >>
->>[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
->>
 >>[Tutorial] [服务器端更新v2ray](https://github.com/v2ray/v2ray-core/issues/204)
+>>
+>>[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
 >>
 >>[Web] [IP端口阻断检测](https://www.toolsdaquan.com/ipcheck/)
 >>
