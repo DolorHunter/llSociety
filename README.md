@@ -262,6 +262,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >>
 >>[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
 >>
+>>[Tutorial] [freenom技术错误无法创建域名解决办法及原因](https://aishangyou.tube/?p=741)
+>>
 >>[Tutorial] [使用BestTrace查看VPS的去程和回程](https://www.bandwagonhost.net/1186.html)
 >>
 >>[Tutorial] [Nginx安装配置(PCRE和NIGNX请下载最新版不然会出错)](http://www.runoob.com/linux/nginx-install-setup.html)
