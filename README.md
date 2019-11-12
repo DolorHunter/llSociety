@@ -264,14 +264,6 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >>
 >>[Tutorial] [freenom技术错误无法创建域名解决办法及原因](https://aishangyou.tube/?p=741)
 >>
->>[Tutorial] [使用BestTrace查看VPS的去程和回程](https://www.bandwagonhost.net/1186.html)
->>
->>[Tutorial] [Nginx安装配置(PCRE和NIGNX请下载最新版不然会出错)](http://www.runoob.com/linux/nginx-install-setup.html)
->>
->>[Tutorial] [Let's Encrypt - 用Certbot获取SSL证书(http->https)](https://github.com/certbot/certbot)
->>
->>[Tutorial] [Certbot对Let’s Encrypt证书的自动续期](https://www.liaosam.com/use-cron-service-and-certbot-for-renewal-of-letsencrypt-ssl-certificates.html)
->>
 >>[Tutorial] [[原生]服务器搭建V2ray](https://toutyrater.github.io/prep/install.html)
 >>
 >>[Tutorial] [服务器端更新v2ray](https://github.com/v2ray/v2ray-core/issues/204)
@@ -283,6 +275,14 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >>[Web] [bandwagonhost - Block List Check](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)
 >>
 >>[Web] [搬瓦工免费更换被封IP：每5周免费更换一次](https://www.bwgyhw.cn/bandwagonhost-change-ip-free-2/)
+>>
+>>[Tutorial] [使用BestTrace查看VPS的去程和回程](https://www.bandwagonhost.net/1186.html)
+>>
+>>[Tutorial] [Nginx安装配置(PCRE和NIGNX请下载最新版不然会出错)](http://www.runoob.com/linux/nginx-install-setup.html)
+>>
+>>[Tutorial] [Let's Encrypt - 用Certbot获取SSL证书(http->https)](https://github.com/certbot/certbot)
+>>
+>>[Tutorial] [Certbot对Let’s Encrypt证书的自动续期](https://www.liaosam.com/use-cron-service-and-certbot-for-renewal-of-letsencrypt-ssl-certificates.html)
 >>
 >##### Client
 >
