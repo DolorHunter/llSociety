@@ -139,6 +139,8 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >[Telegram] [文杏馆(藏书分享)](https://t.me/BooksThatMakeYouThink)
 >
 >[Telegram] [书籍共享计划](https://t.me/booksharingplan)
+>
+>[Web] [FreeComputerBooks.com(英文版)](http://freecomputerbooks.com/)
 
 #### Tools
 
