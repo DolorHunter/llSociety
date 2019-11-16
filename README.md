@@ -16,7 +16,7 @@ __[Python](#Python)__|__[Tools](#Tools)__|__[Fxxk-996](#Fxxk-996)__
 __[Qt](#Qt)__|__[Forum(BBS)](#Forum)__|__[Fxxk-MFS](#Fxxk-MFS)__
 __[Git](#Git)__|__[PostGraduate](#PostGraduate)__|__[Fxxk-Pinky](#Fxxk-Pinky)__
 __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
--| __[Blog](#Blog)__|-
+__[Verilog](#Verilog)__| __[Blog](#Blog)__|-
 
 ### Tutorial
 
@@ -95,6 +95,12 @@ __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 >[Doc] [texlive-zh-cn.pdf](https://www.tug.org/texlive/doc/texlive-zh-cn/texlive-zh-cn.pdf)
 >
 >[Video Tutorial] [LaTeX Tutorial](https://www.youtube.com/watch?v=VhmkLrOjLsw)
+
+#### Verilog
+
+>[Web] [[UTD] Verilog HDL Operators](https://personal.utdallas.edu/~jxw143630/index_files/Page5212.htm)
+>
+>[Doc] [[OSU] Verilog - Operators](http://web.engr.oregonstate.edu/~traylor/ece474/beamer_lectures/verilog_operators.pdf)
 
 ### Education
 
