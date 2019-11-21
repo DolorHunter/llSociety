@@ -17,28 +17,36 @@ __[Qt](#Qt)__|__[Forum(BBS)](#Forum)__|__[Fxxk-MFS](#Fxxk-MFS)__
 __[Git](#Git)__|__[PostGraduate](#PostGraduate)__|__[Fxxk-Pinky](#Fxxk-Pinky)__
 __[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 __[Verilog](#Verilog)__| __[Blog](#Blog)__|-
+__[Server](#Server)__|-|-
 
 ### Tutorial
 
 #### Linux
 
->[Tutorial] [彻底删除Ubuntu EFI分区及启动项](https://blog.csdn.net/mtllyb/article/details/78635757)
+>##### Ubuntu
 >
->[Tutorial] [更改grub配置以缩短启动时间](http://os.51cto.com/art/201810/584994.htm)
+>>[Tutorial] [彻底删除Ubuntu EFI分区及启动项](https://blog.csdn.net/mtllyb/article/details/78635757)
+>>
+>>[Tutorial] [更改grub配置以缩短启动时间](http://os.51cto.com/art/201810/584994.htm)
+>>
+>>[Tutorial] [Ubuntu18.04启用中文输入法](https://blog.csdn.net/qq_27211927/article/details/80877684)
+>>
+>>[Tutorial] [Ubuntu手机usb(共享网络)上网](https://blog.csdn.net/potian79/article/details/45066549)
+>>
+>>[Tutorial] [win10 ubuntu 双系统共用蓝牙鼠标](https://blog.csdn.net/10km/article/details/61201268)
+>>
+>>[GitHub] [Oh My Zsh - 美化终端](https://github.com/robbyrussell/oh-my-zsh)
+>>
+>>[Tutorial] [Thunderbird Mail雷鸟账号或密码错误无法登陆/只能收件无法寄件解决](https://blog.csdn.net/dolor_059/article/details/90085498)
+>>
+>>[Tutorial] [Swap添加/删除/调整Swappiness](https://www.google.com/amp/s/www.sysgeek.cn/ubuntu-18-04-swap/amp/)
+>>
+>>[Tutorail] [How To Add Swap Space on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
 >
->[Tutorial] [Ubuntu18.04启用中文输入法](https://blog.csdn.net/qq_27211927/article/details/80877684)
+>##### Manjaro
 >
->[Tutorial] [Ubuntu手机usb(共享网络)上网](https://blog.csdn.net/potian79/article/details/45066549)
->
->[Tutorial] [win10 ubuntu 双系统共用蓝牙鼠标](https://blog.csdn.net/10km/article/details/61201268)
->
->[GitHub] [Oh My Zsh - 美化终端](https://github.com/robbyrussell/oh-my-zsh)
->
->[Tutorial] [Thunderbird Mail雷鸟账号或密码错误无法登陆/只能收件无法寄件解决](https://blog.csdn.net/dolor_059/article/details/90085498)
->
->[Tutorial] [Swap添加/删除/调整Swappiness](https://www.google.com/amp/s/www.sysgeek.cn/ubuntu-18-04-swap/amp/)
->
->[Tutorail] [How To Add Swap Space on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
+>>[Doc] [[ArchWiki] DHCP有线网络连接](https://wiki.archlinux.org/index.php/Systemd-networkd#Wired_adapter_using_DHCP)
+>>
 
 #### MachineLearning
 
@@ -101,6 +109,14 @@ __[Verilog](#Verilog)__| __[Blog](#Blog)__|-
 >[Web] [[UTD] Verilog HDL Operators](https://personal.utdallas.edu/~jxw143630/index_files/Page5212.htm)
 >
 >[Doc] [[OSU] Verilog - Operators](http://web.engr.oregonstate.edu/~traylor/ece474/beamer_lectures/verilog_operators.pdf)
+
+#### Server
+
+>[Video Tutorial] [快速搭建超强大的私人云盘](https://www.youtube.com/watch?v=i6XYnqGHRLo&t=678s)
+>
+>[Tutorial] [BT宝塔Linux面板安装教程](https://vpswp.com/?p=214)
+>
+>[Tutorial] [服务器搭建网站完整教程(宝塔面板+wordpress)](https://www.zhujibiji.com/2018/04/how-to-use-bandwagonhost-build-a-website/)
 
 ### Education
 
@@ -283,6 +299,8 @@ __[Verilog](#Verilog)__| __[Blog](#Blog)__|-
 >>[Web] [bandwagonhost - Block List Check](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)
 >>
 >>[Web] [搬瓦工免费更换被封IP：每5周免费更换一次](https://www.bwgyhw.cn/bandwagonhost-change-ip-free-2/)
+>>
+>>[Web] [检查SSH端口是否被封 & 修改SSH端口的方法](https://www.bandwagonhost.net/1103.html)
 >>
 >>[Tutorial] [使用BestTrace查看VPS的去程和回程](https://www.bandwagonhost.net/1186.html)
 >>
