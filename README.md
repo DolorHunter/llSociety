@@ -47,6 +47,8 @@ __[Server](#Server)__|-|-
 >
 >>[Doc] [[ArchWiki] DHCP有线网络连接](https://wiki.archlinux.org/index.php/Systemd-networkd#Wired_adapter_using_DHCP)
 >>
+>>[Tutorial] [Manjaro Linux 连接蓝牙鼠标后重启电脑得重新连接 解决方案](https://blog.csdn.net/github_39664893/article/details/88758120)
+>>
 
 #### MachineLearning
 
