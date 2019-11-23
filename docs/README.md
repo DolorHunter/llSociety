@@ -12,12 +12,12 @@ Tutorial|Education|fxxk
 ----|----|----
 __[Linux](#Linux)__|__[Education Package](#EducationPackage)__|__[fGFW](#fGFW)__
 __[MachineLearning](#MachineLearning)__|__[BookLists](#BookLists)__|__[Fxxk-XueXiQiangGuo](#Fxxk-XueXiQiangGuo)__
-__[Python](#Python)__|__[Tools](#Tools)__|__[Fxxk-996](#Fxxk-996)__
-__[Qt](#Qt)__|__[Forum(BBS)](#Forum)__|__[Fxxk-MFS](#Fxxk-MFS)__
-__[Git](#Git)__|__[PostGraduate](#PostGraduate)__|__[Fxxk-Pinky](#Fxxk-Pinky)__
-__[LaTeX](#LaTeX)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
-__[Verilog](#Verilog)__| __[Blog](#Blog)__|-
-__[Server](#Server)__|-|-
+__[Python](#Python)__|__[Movies](#Movies)__|__[Fxxk-996](#Fxxk-996)__
+__[Qt](#Qt)__|__[Tools](#Tools)__|__[Fxxk-MFS](#Fxxk-MFS)__
+__[Git](#Git)__|__[Forum(BBS)](#Forum)__|__[Fxxk-Pinky](#Fxxk-Pinky)__
+__[LaTeX](#LaTeX)__|__[PostGraduate](#PostGraduate)__|__[Live-TV](#Live-TV)__
+__[Verilog](#Verilog)__|__[Examination](#Examination)__|-
+__[Server](#Server)__|__[Blog](#Blog)__|-
 
 ### Tutorial
 
@@ -45,9 +45,11 @@ __[Server](#Server)__|-|-
 >
 >##### Manjaro
 >
->>[Doc] [[ArchWiki] DHCP有线网络连接](https://wiki.archlinux.org/index.php/Systemd-networkd#Wired_adapter_using_DHCP)
+>>[Wiki] [[ArchWiki] DHCP有线网络连接](https://wiki.archlinux.org/index.php/Systemd-networkd#Wired_adapter_using_DHCP)
 >>
 >>[Tutorial] [Manjaro Linux 连接蓝牙鼠标后重启电脑得重新连接 解决方案](https://blog.csdn.net/github_39664893/article/details/88758120)
+>>
+>>[Wiki] [高分屏SDDM分辨率低问题解决](https://wiki.archlinux.org/index.php/SDDM#Screen_resolution_is_too_low)
 >>
 
 #### MachineLearning
@@ -165,6 +167,18 @@ __[Server](#Server)__|-|-
 >[Telegram] [书籍共享计划](https://t.me/booksharingplan)
 >
 >[Web] [FreeComputerBooks.com(英文版)](http://freecomputerbooks.com/)
+
+#### Movies
+
+>[Telegram] [NF^2在播剧集频道](https://t.me/nfnfys)
+>
+>[Telegram] [NF^2影视电影频道](https://t.me/nfnfmovies)
+>
+>[Telegram] [NF^2影视小片频道](https://t.me/nfnfceleb)
+>
+>[Telegram] [NF^2经典剧集频道](https://t.me/nfnfClassic)
+>
+>[Telegram] [NF^2经典电影频道](https://t.me/nfnfdy)
 
 #### Tools
 
