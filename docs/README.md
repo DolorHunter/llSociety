@@ -326,6 +326,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>
 >>[Tutorial] [Certbot对Let’s Encrypt证书的自动续期](https://www.liaosam.com/use-cron-service-and-certbot-for-renewal-of-letsencrypt-ssl-certificates.html)
 >>
+>>[Tutorial] [acme.sh自动生成证书(自动设置自动更新)](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
+>>
 >##### Client
 >
 >>[Doc] [v2ray - 官方文档](https://www.v2ray.com/)
