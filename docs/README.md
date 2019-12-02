@@ -328,6 +328,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>
 >>[Tutorial] [acme.sh自动生成证书(自动设置自动更新)](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
 >>
+>>[Tutorial] [Linux之匿名FTP服务器搭建](https://www.cnblogs.com/voidy/p/3946243.html)
+>>
 >##### Client
 >
 >>[Doc] [v2ray - 官方文档](https://www.v2ray.com/)
