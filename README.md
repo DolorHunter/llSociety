@@ -1,8 +1,8 @@
 ﻿# llSociety's Yellowpage
 
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/Release-v2.3.4-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
-[![Size](https://img.shields.io/badge/Size-173MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llSociety/releases)
+[![Version](https://img.shields.io/badge/Release-v2.5.1-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
+[![Size](https://img.shields.io/badge/Size-175MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llSociety/releases)
 [![Download](https://img.shields.io/github/downloads/DolorHunter/llSociety/total?color=48D1CC&style=flat-square)](https://github.com/DolorHunter/llSociety/releases)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
 
