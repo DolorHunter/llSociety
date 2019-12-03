@@ -199,6 +199,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>[Web] [IDE Color Theme](http://color-themes.com)
 >>
 >>[Web] [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
+>>
+>>[Tools] [Rufus - Create bootable USB drives the easy way](https://rufus.ie/)
 >
 >##### Documents
 >
