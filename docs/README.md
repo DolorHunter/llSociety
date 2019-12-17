@@ -167,6 +167,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >[Telegram] [书籍共享计划](https://t.me/booksharingplan)
 >
 >[Web] [FreeComputerBooks.com(英文版)](http://freecomputerbooks.com/)
+>
+>[Web] [好讀](http://www.haodoo.net)
 
 #### Movies
 

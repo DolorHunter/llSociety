@@ -167,6 +167,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >[Telegram] [书籍共享计划](https://t.me/booksharingplan)
 >
 >[Web] [FreeComputerBooks.com(英文版)](http://freecomputerbooks.com/)
+>
+>[Web] [好讀](http://www.haodoo.net)
 
 #### Movies
 
@@ -217,6 +219,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>[Software] [Free Download Manager](https://www.freedownloadmanager.org/zh/)
 >>
 >>[Software] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
+>>
+>>[Web] [DownloadGram - Instagram Photo, Video, and IGTV Downloader](https://downloadgram.com/)
 >
 >##### Dictionary
 >
