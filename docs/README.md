@@ -31,17 +31,13 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>
 >>[Tutorial] [Ubuntu18.04启用中文输入法](https://blog.csdn.net/qq_27211927/article/details/80877684)
 >>
->>[Tutorial] [Ubuntu手机usb(共享网络)上网](https://blog.csdn.net/potian79/article/details/45066549)
+>>[Tutorial] [手机usb(共享网络)上网](https://blog.csdn.net/potian79/article/details/45066549)
 >>
 >>[Tutorial] [win10 ubuntu 双系统共用蓝牙鼠标](https://blog.csdn.net/10km/article/details/61201268)
 >>
 >>[GitHub] [Oh My Zsh - 美化终端](https://github.com/robbyrussell/oh-my-zsh)
 >>
 >>[Tutorial] [Thunderbird Mail雷鸟账号或密码错误无法登陆/只能收件无法寄件解决](https://blog.csdn.net/dolor_059/article/details/90085498)
->>
->>[Tutorial] [Swap添加/删除/调整Swappiness](https://www.google.com/amp/s/www.sysgeek.cn/ubuntu-18-04-swap/amp/)
->>
->>[Tutorail] [How To Add Swap Space on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04)
 >
 >##### Manjaro
 >
@@ -113,14 +109,6 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >[Web] [[UTD] Verilog HDL Operators](https://personal.utdallas.edu/~jxw143630/index_files/Page5212.htm)
 >
 >[Doc] [[OSU] Verilog - Operators](http://web.engr.oregonstate.edu/~traylor/ece474/beamer_lectures/verilog_operators.pdf)
-
-#### Server
-
->[Video Tutorial] [快速搭建超强大的私人云盘](https://www.youtube.com/watch?v=i6XYnqGHRLo&t=678s)
->
->[Tutorial] [BT宝塔Linux面板安装教程](https://vpswp.com/?p=214)
->
->[Tutorial] [服务器搭建网站完整教程(宝塔面板+wordpress)](https://www.zhujibiji.com/2018/04/how-to-use-bandwagonhost-build-a-website/)
 
 ### Education
 
@@ -219,6 +207,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>[Software] [Free Download Manager](https://www.freedownloadmanager.org/zh/)
 >>
 >>[Software] [qBittorrent - Free and reliable P2P bittorrent client](https://www.qbittorrent.org/)
+>>
+>>[Web] [DownloadGram - Instagram Photo, Video, and IGTV Downloader](https://downloadgram.com/)
 >
 >##### Dictionary
 >
@@ -291,10 +281,6 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 ### fxxk
 
 #### fGFW
-
->##### 小白专区
->
->>[Web] [Glyptodon Enterprise主机镜像(5min限时使用)](https://demo.glyptodon.com)
 >
 >##### Server
 >
@@ -314,11 +300,9 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>
 >>[Tutorial] [TLS加密传输-V2ray官方配置指南](https://toutyrater.github.io/advanced/tls.html)
 >>
->>[Web] [IP端口阻断检测](https://www.toolsdaquan.com/ipcheck/)
->>
 >>[Web] [bandwagonhost - Block List Check](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)
 >>
->>[Web] [搬瓦工免费更换被封IP：每5周免费更换一次](https://www.bwgyhw.cn/bandwagonhost-change-ip-free-2/)
+>>[Web] [IP端口阻断检测](https://www.toolsdaquan.com/ipcheck/)
 >>
 >>[Web] [检查SSH端口是否被封 & 修改SSH端口的方法](https://www.bandwagonhost.net/1103.html)
 >>
@@ -326,39 +310,34 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>
 >>[Tutorial] [Nginx安装配置(PCRE和NIGNX请下载最新版不然会出错)](http://www.runoob.com/linux/nginx-install-setup.html)
 >>
->>[Tutorial] [Let's Encrypt - 用Certbot获取SSL证书(http->https)](https://github.com/certbot/certbot)
->>
->>[Tutorial] [Certbot对Let’s Encrypt证书的自动续期](https://www.liaosam.com/use-cron-service-and-certbot-for-renewal-of-letsencrypt-ssl-certificates.html)
->>
 >>[Tutorial] [acme.sh自动生成证书(自动设置自动更新)](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
 >>
 >>[Tutorial] [Linux之匿名FTP服务器搭建](https://www.cnblogs.com/voidy/p/3946243.html)
 >>
+>>[Video Tutorial] [快速搭建超强大的私人云盘](https://www.youtube.com/watch?v=i6XYnqGHRLo&t=678s)
+>>
+>>[Tutorial] [BT宝塔Linux面板安装教程](https://vpswp.com/?p=214)
+>>
+>>[Tutorial] [服务器搭建网站完整教程(宝塔面板+wordpress)](https://www.zhujibiji.com/2018/04/how-to-use-bandwagonhost-build-a-website/)
+>>
+>>
 >##### Client
 >
->>[Doc] [v2ray - 官方文档](https://www.v2ray.com/)
+>>[doc] [v2ray - 官方文档](https://www.v2ray.com/)
 >>
->>[Doc] [v2ray - 配置指南](https://toutyrater.github.io/)
+>>[doc] [v2ray - 配置指南](https://toutyrater.github.io/)
 >>
 >>[GitHub] [v2ray 配置模板](https://github.com/KiriKira/vTemplate)
 >>
->>[GitHub] [(民间)V2ray 配置指南](https://github.com/ToutyRater/v2ray-guide)
+>>~~[doc] [[民间]V2ray 配置指南](https://toutyrater.github.io/) 停止维护~~
+>>
+>>[doc] [[社区]新 V2ray 配置指南](https://guide.v2fly.org/)
 >>
 >>[GitHub] [V2ray内核: V2ray-core](https://github.com/v2ray/v2ray-core)
 >>
->>[GitHub] [V2ray内核(自由社区版): V2ray-core](https://github.com/v2fly/v2ray-core)
+>>[GitHub] [V2ray内核(社区版): V2ray-core](https://github.com/v2fly/v2ray-core)
 >>
->>[GitHub] [2dust/Windows设备V2rayN: V2rayN with GUI for windows](https://github.com/2dust/v2rayN)
->>
->>[GitHub] [2dust/安卓设备V2rayNG: V2rayNG with GUI for Android](https://github.com/2dust/v2rayNG)
->>
->>[Web] [BifrostV - BifrostV for Android](https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv)
->>
->>[GitHub] [iOS设备推荐Shadowsocks: Shadowsocks with GUI for iOS](https://github.com/XWJACK/Shadowrocket)
->>
->>[GitHub] [(非官方GUI)MacOS设备V2rayX: V2rayX with GUI for MacOS](https://github.com/Cenmrev/V2RayX)
->>
->>[GitHub] [(非官方GUI)MacOS设备V2rayU: V2rayU with GUI for MacOS](https://github.com/yanue/V2rayU)
+>>[Web] [神一样的工具们 - 图形客户端](https://www.v2ray.com/awesome/tools.html)
 
 #### Fxxk-XueXiQiangGuo
 
@@ -414,7 +393,7 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 
 >[Resorse] [最新节目单整理/如何导入节目单/自制节目单制作方法](https://github.com/DolorHunter/llSociety/tree/master/LiveTV)
 >
->[Tutorial] [[教程] 用youtube-dl制作节目单(直播源/电视源/m3u8)](https://blog.csdn.net/dolor_059/article/details/93887228)
+>~~[Tutorial] [[教程] 用youtube-dl制作节目单(直播源/电视源/m3u8)](https://blog.csdn.net/dolor_059/article/details/93887228) 需要频繁更新节目单~~
 
 ---
 
