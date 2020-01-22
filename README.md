@@ -1,7 +1,7 @@
 ﻿# llSociety's Yellowpage
 
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/Release-v2.5.1-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
+[![Version](https://img.shields.io/badge/Release-v2.6.4-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
 [![Size](https://img.shields.io/badge/Size-175MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llSociety/releases)
 [![Download](https://img.shields.io/github/downloads/DolorHunter/llSociety/total?color=48D1CC&style=flat-square)](https://github.com/DolorHunter/llSociety/releases)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
@@ -15,8 +15,8 @@ __[MachineLearning](#MachineLearning)__|__[BookLists](#BookLists)__|__[Fxxk-XueX
 __[Python](#Python)__|__[Movies](#Movies)__|__[Fxxk-996](#Fxxk-996)__
 __[Qt](#Qt)__|__[Tools](#Tools)__|__[Fxxk-MFS](#Fxxk-MFS)__
 __[Git](#Git)__|__[Forum(BBS)](#Forum)__|__[Fxxk-Pinky](#Fxxk-Pinky)__
-__[LaTeX](#LaTeX)__|__[PostGraduate](#PostGraduate)__|__[Live-TV](#Live-TV)__
-__[Verilog](#Verilog)__|__[Examination](#Examination)__|-
+__[LaTeX](#LaTeX)__|__[PostGraduate](#PostGraduate)__|__[nCOV](#nCOV)__
+__[Verilog](#Verilog)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 __[Server](#Server)__|__[Blog](#Blog)__|-
 
 ### Tutorial
@@ -388,6 +388,10 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >[Wiki] [支纳维基 - 支人支面不支心，纳年纳兔纳些事](https://www.zhina.wiki/)
 >
 >[Web] [新型敏感词武器：赵弹磁铁](https://react-raw8jx.stackblitz.io/)
+
+#### nCOV
+
+>[Telegram] [2019-nCov疫情实时播报](https://t.me/nCoV2019)
 
 #### Live-TV
 
