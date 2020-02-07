@@ -1,7 +1,7 @@
 ﻿# llSociety's Yellowpage
 
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/Release-v2.5.1-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
+[![Version](https://img.shields.io/badge/Release-v2.6.4-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
 [![Size](https://img.shields.io/badge/Size-175MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llSociety/releases)
 [![Download](https://img.shields.io/github/downloads/DolorHunter/llSociety/total?color=48D1CC&style=flat-square)](https://github.com/DolorHunter/llSociety/releases)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
@@ -15,8 +15,8 @@ __[MachineLearning](#MachineLearning)__|__[BookLists](#BookLists)__|__[Fxxk-XueX
 __[Python](#Python)__|__[Movies](#Movies)__|__[Fxxk-996](#Fxxk-996)__
 __[Qt](#Qt)__|__[Tools](#Tools)__|__[Fxxk-MFS](#Fxxk-MFS)__
 __[Git](#Git)__|__[Forum(BBS)](#Forum)__|__[Fxxk-Pinky](#Fxxk-Pinky)__
-__[LaTeX](#LaTeX)__|__[PostGraduate](#PostGraduate)__|__[Live-TV](#Live-TV)__
-__[Verilog](#Verilog)__|__[Examination](#Examination)__|-
+__[LaTeX](#LaTeX)__|__[PostGraduate](#PostGraduate)__|__[nCOV](#nCOV)__
+__[Verilog](#Verilog)__|__[Examination](#Examination)__|__[Live-TV](#Live-TV)__
 __[Server](#Server)__|__[Blog](#Blog)__|-
 
 ### Tutorial
@@ -227,6 +227,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>[Web] [电脑/手机4K壁纸搜索引擎](https://wall.alphacoders.com/)
 >>
 >>[Web] [超高清壁纸(4K+)](https://wallpapersite.com/)
+>>
+>>[Web] [Wallpaper Craft](https://wallpaperscraft.com/)
 >
 >##### Others
 >
@@ -308,7 +310,7 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>
 >>[Tutorial] [使用BestTrace查看VPS的去程和回程](https://www.bandwagonhost.net/1186.html)
 >>
->>[Tutorial] [Nginx安装配置(PCRE和NIGNX请下载最新版不然会出错)](http://www.runoob.com/linux/nginx-install-setup.html)
+>>[Tutorial] [Nginx安装配置- runoob](http://www.runoob.com/linux/nginx-install-setup.html)
 >>
 >>[Tutorial] [acme.sh自动生成证书(自动设置自动更新)](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
 >>
@@ -320,6 +322,11 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>
 >>[Tutorial] [服务器搭建网站完整教程(宝塔面板+wordpress)](https://www.zhujibiji.com/2018/04/how-to-use-bandwagonhost-build-a-website/)
 >>
+>>[Tutorial] [How To Set Up a Firewall with UFW on Debian 9 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-debian-9)
+>>
+>>[Bug Fix] [Bundler could not find compatible versions for gem “bundler”: In Gemfile:](https://stackoverflow.com/questions/57170296/bundler-could-not-find-compatible-versions-for-gem-bundler-in-gemfile)
+>>
+>>[Bug Fix] [Bundler - An update on the Bundler 2 release(ref as former info)](https://bundler.io/blog/2019/01/04/an-update-on-the-bundler-2-release.html)
 >>
 >##### Client
 >
@@ -388,6 +395,10 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >[Wiki] [支纳维基 - 支人支面不支心，纳年纳兔纳些事](https://www.zhina.wiki/)
 >
 >[Web] [新型敏感词武器：赵弹磁铁](https://react-raw8jx.stackblitz.io/)
+
+#### nCOV
+
+>[Telegram] [2019-nCov疫情实时播报](https://t.me/nCoV2019)
 
 #### Live-TV
 

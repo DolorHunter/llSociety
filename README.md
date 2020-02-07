@@ -227,6 +227,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>[Web] [电脑/手机4K壁纸搜索引擎](https://wall.alphacoders.com/)
 >>
 >>[Web] [超高清壁纸(4K+)](https://wallpapersite.com/)
+>>
+>>[Web] [Wallpaper Craft](https://wallpaperscraft.com/)
 >
 >##### Others
 >
@@ -308,7 +310,7 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>
 >>[Tutorial] [使用BestTrace查看VPS的去程和回程](https://www.bandwagonhost.net/1186.html)
 >>
->>[Tutorial] [Nginx安装配置(PCRE和NIGNX请下载最新版不然会出错)](http://www.runoob.com/linux/nginx-install-setup.html)
+>>[Tutorial] [Nginx安装配置- runoob](http://www.runoob.com/linux/nginx-install-setup.html)
 >>
 >>[Tutorial] [acme.sh自动生成证书(自动设置自动更新)](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
 >>
@@ -320,6 +322,11 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>
 >>[Tutorial] [服务器搭建网站完整教程(宝塔面板+wordpress)](https://www.zhujibiji.com/2018/04/how-to-use-bandwagonhost-build-a-website/)
 >>
+>>[Tutorial] [How To Set Up a Firewall with UFW on Debian 9 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-debian-9)
+>>
+>>[Bug Fix] [Bundler could not find compatible versions for gem “bundler”: In Gemfile:](https://stackoverflow.com/questions/57170296/bundler-could-not-find-compatible-versions-for-gem-bundler-in-gemfile)
+>>
+>>[Bug Fix] [Bundler - An update on the Bundler 2 release(ref as former info)](https://bundler.io/blog/2019/01/04/an-update-on-the-bundler-2-release.html)
 >>
 >##### Client
 >
