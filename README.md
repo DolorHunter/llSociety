@@ -294,6 +294,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>
 >>[Web] [免费顶级DNS域名注册(.tk/.ml/.cf/.sg)](https://my.freenom.com/)
 >>
+>>[Web] [域名竞价排名](https://www.domcomp.com/)
+>>
 >>[Tutorial] [freenom技术错误无法创建域名解决办法及原因](https://aishangyou.tube/?p=741)
 >>
 >>[Tutorial] [[原生]服务器搭建V2ray](https://toutyrater.github.io/prep/install.html)
@@ -311,6 +313,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>[Tutorial] [使用BestTrace查看VPS的去程和回程](https://www.bandwagonhost.net/1186.html)
 >>
 >>[Tutorial] [Nginx安装配置- runoob](http://www.runoob.com/linux/nginx-install-setup.html)
+>>
+>>[Tutorial] [certbot - 官方指南](https://certbot.eff.org/instructions)
 >>
 >>[Tutorial] [acme.sh自动生成证书(自动设置自动更新)](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
 >>
