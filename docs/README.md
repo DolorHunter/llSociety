@@ -1,8 +1,8 @@
 ﻿# llSociety's Yellowpage
 
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/Release-v2.6.4-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
-[![Size](https://img.shields.io/badge/Size-175MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llSociety/releases)
+[![Version](https://img.shields.io/badge/Release-v2.7.1-blue.svg?style=flat-square)](https://github.com/DolorHunter/llsociety/releases)
+[![Size](https://img.shields.io/badge/Size-181MB-yellow.svg?style=flat-square)](https://github.com/DolorHunter/llSociety/releases)
 [![Download](https://img.shields.io/github/downloads/DolorHunter/llSociety/total?color=48D1CC&style=flat-square)](https://github.com/DolorHunter/llSociety/releases)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/Link-996.icu-%23FF4D5B.svg?style=flat-square" alt="996.icu"></a>
 
@@ -331,6 +331,8 @@ __[Server](#Server)__|__[Blog](#Blog)__|-
 >>[Bug Fix] [Bundler could not find compatible versions for gem “bundler”: In Gemfile:](https://stackoverflow.com/questions/57170296/bundler-could-not-find-compatible-versions-for-gem-bundler-in-gemfile)
 >>
 >>[Bug Fix] [Bundler - An update on the Bundler 2 release(ref as former info)](https://bundler.io/blog/2019/01/04/an-update-on-the-bundler-2-release.html)
+>>
+>>[Web] [WhatLeaks.com](https://whatleaks.com/)
 >>
 >##### Client
 >
